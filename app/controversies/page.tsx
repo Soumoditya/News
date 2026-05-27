@@ -1,9 +1,9 @@
 "use client";
 import { useState } from "react";
 import Link from "next/link";
-import { AlertTriangle, ExternalLink, Filter, Calendar, IndianRupee } from "lucide-react";
+import { AlertTriangle, ExternalLink, Filter, Calendar, IndianRupee, Scale } from "lucide-react";
 import controversies from "@/data/controversies.json";
-import { getSeverityColor, formatCrore } from "@/lib/utils";
+import { getSeverityColor, getPartyColor, formatCrore } from "@/lib/utils";
 
 const CATEGORIES = ["All", ...Array.from(new Set(controversies.map((c) => c.category)))];
 const SEVERITIES = ["All", "critical", "high", "medium", "low"];
@@ -120,8 +120,20 @@ export default function ControversiesPage() {
           </div>
         </div>
 
-        <div style={{ color: "#555", fontSize: 13, marginBottom: "1.5rem" }}>
-          Showing {filtered.length} controversies
+        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "1.5rem", flexWrap: "wrap", gap: "0.5rem" }}>
+          <div style={{ color: "#555", fontSize: 13 }}>
+            Showing {filtered.length} verified controversies
+          </div>
+          <div style={{ display: "flex", gap: "0.75rem" }}>
+            <a href="https://main.sci.gov.in" target="_blank" rel="noopener noreferrer"
+              style={{ fontSize: 12, color: "#6B7BE8", textDecoration: "none", padding: "4px 10px", border: "1px solid rgba(107,123,232,0.3)", borderRadius: 6 }}>
+              Supreme Court ↗
+            </a>
+            <a href="https://cag.gov.in" target="_blank" rel="noopener noreferrer"
+              style={{ fontSize: 12, color: "#4ade80", textDecoration: "none", padding: "4px 10px", border: "1px solid rgba(74,222,128,0.3)", borderRadius: 6 }}>
+              CAG India ↗
+            </a>
+          </div>
         </div>
 
         {/* Timeline */}
@@ -208,7 +220,7 @@ export default function ControversiesPage() {
                     )}
                     {/* Parties */}
                     {c.parties_involved.slice(0, 3).map((party) => (
-                      <span key={party} style={{ color: "#666", fontSize: 11, background: "rgba(255,255,255,0.03)", padding: "2px 6px", borderRadius: 4, border: "1px solid rgba(255,255,255,0.06)" }}>
+                      <span key={party} style={{ color: getPartyColor(party), fontSize: 11, background: `${getPartyColor(party)}15`, padding: "2px 8px", borderRadius: 4, border: `1px solid ${getPartyColor(party)}30`, fontWeight: 600 }}>
                         {party}
                       </span>
                     ))}
@@ -246,9 +258,9 @@ export default function ControversiesPage() {
                       href={c.source}
                       target="_blank"
                       rel="noopener noreferrer"
-                      style={{ display: "inline-flex", alignItems: "center", gap: 4, color: "#6B7BE8", fontSize: 12, textDecoration: "none", marginLeft: "auto" }}
+                      style={{ display: "inline-flex", alignItems: "center", gap: 4, color: "#6B7BE8", fontSize: 12, textDecoration: "none", marginLeft: "auto", padding: "4px 10px", border: "1px solid rgba(107,123,232,0.3)", borderRadius: 6, background: "rgba(107,123,232,0.08)" }}
                     >
-                      <ExternalLink size={12} /> View Official Source
+                      <Scale size={12} /> Official Source ↗
                     </a>
                   </div>
                 </div>

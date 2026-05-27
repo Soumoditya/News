@@ -225,40 +225,59 @@ export default function PoliticianPage({ params }: { params: { slug: string } })
                 <Users size={22} color="#06b6d4" />
                 FAMILY & CHILDREN
               </h2>
+              {p.education_abroad && (
+                <div style={{ marginBottom: "1rem", padding: "10px 14px", background: "rgba(255,183,3,0.08)", border: "1px solid rgba(255,183,3,0.2)", borderRadius: 8, display: "flex", gap: 8, alignItems: "center" }}>
+                  <span style={{ fontSize: 16 }}>✈️</span>
+                  <span style={{ color: "#FFB703", fontSize: 13, fontWeight: 600 }}>Family member(s) based or educated abroad</span>
+                </div>
+              )}
               <div style={{
                 padding: "1.5rem",
                 background: "rgba(6,182,212,0.04)",
                 border: "1px solid rgba(6,182,212,0.15)",
                 borderRadius: 12,
               }}>
-                {p.children.map((c: any, i: number) => (
-                  <div key={i} style={{
-                    padding: "0.75rem 0",
-                    borderBottom: i < p.children.length - 1 ? "1px solid rgba(255,255,255,0.04)" : "none",
-                  }}>
-                    <div style={{ color: "#fff", fontWeight: 600, fontSize: 14, marginBottom: "0.2rem" }}>{c.name}</div>
-                    <div style={{ display: "flex", gap: "1rem", fontSize: 12 }}>
-                      <span style={{ color: c.location !== "India" && c.location !== "N/A" ? "#FFB703" : "#555" }}>
-                        📍 {c.location}
-                      </span>
-                      <span style={{ color: "#666" }}>💼 {c.occupation}</span>
-                    </div>
-                    {c.location !== "India" && c.location !== "N/A" && (
-                      <div style={{
-                        marginTop: "0.5rem",
-                        padding: "4px 10px",
-                        background: "rgba(255,183,3,0.1)",
-                        border: "1px solid rgba(255,183,3,0.2)",
-                        borderRadius: 4,
-                        fontSize: 11,
-                        color: "#FFB703",
-                        display: "inline-block",
-                      }}>
-                        ⚠️ Based/studying abroad while leader serves in India
+                {p.children.map((c: any, i: number) => {
+                  const isAbroad = c.location && c.location !== "India" && c.location !== "N/A" && c.location !== "N/A (monk)";
+                  return (
+                    <div key={i} style={{
+                      padding: "1rem 0",
+                      borderBottom: i < p.children.length - 1 ? "1px solid rgba(255,255,255,0.04)" : "none",
+                    }}>
+                      <div style={{ color: "#fff", fontWeight: 700, fontSize: 15, marginBottom: "0.4rem" }}>{c.name}</div>
+                      <div style={{ display: "flex", gap: "1rem", fontSize: 13, marginBottom: c.note ? "0.5rem" : 0, flexWrap: "wrap" }}>
+                        <span style={{ color: isAbroad ? "#FFB703" : "#666", fontWeight: isAbroad ? 600 : 400 }}>
+                          {isAbroad ? "🌍" : "📍"} {c.location}
+                        </span>
+                        {c.occupation && c.occupation !== "N/A" && (
+                          <span style={{ color: "#777" }}>💼 {c.occupation}</span>
+                        )}
                       </div>
-                    )}
-                  </div>
-                ))}
+                      {c.note && (
+                        <div style={{ fontSize: 12, color: "#777", fontStyle: "italic", lineHeight: 1.6, marginTop: "0.4rem" }}>
+                          ℹ️ {c.note}
+                        </div>
+                      )}
+                      {isAbroad && (
+                        <div style={{
+                          marginTop: "0.5rem",
+                          padding: "4px 10px",
+                          background: "rgba(255,183,3,0.1)",
+                          border: "1px solid rgba(255,183,3,0.2)",
+                          borderRadius: 4,
+                          fontSize: 11,
+                          color: "#FFB703",
+                          display: "inline-block",
+                        }}>
+                          ✈️ Abroad while leader serves Indian citizens
+                        </div>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
+              <div style={{ marginTop: "0.75rem", fontSize: 11, color: "#444" }}>
+                * Family information compiled from EC affidavits, official interviews &amp; public records
               </div>
             </div>
 

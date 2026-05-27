@@ -61,14 +61,14 @@
     "name": "Rahul Gandhi",
     "slug": "rahul-gandhi",
     "party": "INC",
-    "position": "Leader of Opposition, MP Wayanad",
-    "state": "Kerala",
-    "constituency": "Wayanad",
+    "position": "Leader of Opposition, Lok Sabha; MP Rae Bareli",
+    "state": "Uttar Pradesh",
+    "constituency": "Rae Bareli",
     "age": 53,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rahul_Gandhi.jpg/440px-Rahul_Gandhi.jpg",
     "education": "MPhil, Trinity College, Cambridge University",
     "criminalCases": 4,
-    "assets": 150000000,
+    "assets": 15300000,
     "liabilities": 0,
     "controversies": [
       {
@@ -81,8 +81,8 @@
       {
         "title": "Criminal Defamation - Modi Surname",
         "date": "2023-02-10",
-        "description": "Convicted by Surat court for criminal defamation for 'Modi surname thieves' remark. Disqualified as MP for 2 months.",
-        "source": "https://timesofindia.com",
+        "description": "Convicted by Surat court for criminal defamation for 'Modi surname thieves' remark. Disqualified as MP for 2 months. Supreme Court stayed the conviction.",
+        "source": "https://main.sci.gov.in",
         "severity": "high"
       },
       {
@@ -94,26 +94,31 @@
       }
     ],
     "children": [
-      { "name": "None (unmarried)", "location": "India", "occupation": "N/A" }
+      {
+        "name": "None (unmarried)",
+        "location": "India",
+        "occupation": "N/A",
+        "note": "Studied at Harvard (didn't complete degree), then MPhil Trinity College Cambridge"
+      }
     ],
     "assetBreakdown": {
-      "movable": 50000000,
-      "immovable": 100000000,
-      "vehicles": 2800000,
+      "movable": 5300000,
+      "immovable": 10000000,
+      "vehicles": 0,
       "gold": 0,
       "cash": 200000
     },
     "education_abroad": true,
-    "tags": ["LoP", "INC", "Wayanad", "Gandhi Family"]
+    "tags": ["LoP", "INC", "Rae Bareli", "Gandhi Family"]
   },
   {
     "id": 3,
     "name": "Arvind Kejriwal",
     "slug": "arvind-kejriwal",
     "party": "AAP",
-    "position": "Former CM Delhi, MP (Candidate)",
+    "position": "National Convenor, AAP; Former CM Delhi (resigned Sep 2024)",
     "state": "Delhi",
-    "constituency": "New Delhi",
+    "constituency": "New Delhi (lost Feb 2025 Delhi elections)",
     "age": 55,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arvind_Kejriwal_-_2023.jpg/440px-Arvind_Kejriwal_-_2023.jpg",
     "education": "B.Tech Mechanical Engineering, IIT Kharagpur",
@@ -141,11 +146,27 @@
         "description": "Free electricity beyond 200 units subsidised but Delhi power tariff among highest in India. Subsidy burden rose ₹3,200 crore.",
         "source": "https://delhi.gov.in",
         "severity": "medium"
+      },
+      {
+        "title": "Delhi Election Loss 2025",
+        "date": "2025-02-08",
+        "description": "AAP wiped out in Delhi, winning only 22 of 70 seats. Kejriwal lost his own New Delhi constituency by 4,000+ votes to BJP's Parvesh Verma.",
+        "source": "https://electioncommission.gov.in",
+        "severity": "high"
       }
     ],
     "children": [
-      { "name": "Harshita Kejriwal", "location": "India", "occupation": "Student/Graduate" },
-      { "name": "Pulkit Kejriwal", "location": "India", "occupation": "Student" }
+      {
+        "name": "Harshita Kejriwal",
+        "location": "India",
+        "occupation": "Medical professional (doctor)"
+      },
+      {
+        "name": "Pulkit Kejriwal",
+        "location": "USA",
+        "occupation": "Studying/working in United States",
+        "note": "Reported to have been in the US — raised political controversy during father's anti-corruption campaigns"
+      }
     ],
     "assetBreakdown": {
       "movable": 3500000,
@@ -154,7 +175,7 @@
       "gold": 130000,
       "cash": 50000
     },
-    "education_abroad": false,
+    "education_abroad": true,
     "tags": ["AAP", "Delhi", "IIT", "Anti-corruption"]
   },
   {
@@ -165,7 +186,7 @@
     "position": "Chief Minister, West Bengal",
     "state": "West Bengal",
     "constituency": "Bhowanipore",
-    "age": 69,
+    "age": 70,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mamata_Banerjee-2.jpg/440px-Mamata_Banerjee-2.jpg",
     "education": "MA History, Calcutta University; LLB",
     "criminalCases": 2,
@@ -199,10 +220,23 @@
         "description": "TMC party workers accused of running 'syndicate raj' — extorting money from construction projects, businesses across Bengal.",
         "source": "https://ndtv.com",
         "severity": "high"
+      },
+      {
+        "title": "West Bengal School Jobs Scam",
+        "date": "2022-05-17",
+        "description": "SC ordered CBI probe into alleged irregularities in 25,753 teacher appointments. Former education minister Partha Chatterjee arrested. ₹50 crore+ cash seized from his associate Arpita Mukherjee.",
+        "source": "https://main.sci.gov.in",
+        "severity": "high"
       }
     ],
     "children": [
-      { "name": "None (unmarried/widowed)", "location": "India", "occupation": "N/A" }
+      { "name": "None (unmarried/no biological children)", "location": "N/A", "occupation": "N/A" },
+      {
+        "name": "Abhishek Banerjee (nephew)",
+        "location": "India",
+        "occupation": "MP Diamond Harbour, TMC National General Secretary",
+        "note": "Often considered her political heir, faces ED money laundering probe"
+      }
     ],
     "assetBreakdown": {
       "movable": 12000000,
@@ -222,7 +256,7 @@
     "position": "Union Home Minister",
     "state": "Gujarat",
     "constituency": "Gandhinagar",
-    "age": 59,
+    "age": 60,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Amit_Shah_2019.jpg/440px-Amit_Shah_2019.jpg",
     "education": "BSc Biochemistry, Gujarat University",
     "criminalCases": 4,
@@ -252,7 +286,12 @@
       }
     ],
     "children": [
-      { "name": "Jay Shah", "location": "India", "occupation": "BCCI Secretary, ICC Chairman" }
+      {
+        "name": "Jay Shah",
+        "location": "India/International",
+        "occupation": "ICC Chairman (elected Nov 2024); Former BCCI Secretary",
+        "note": "Became youngest ICC Chairman in history at age 36 in November 2024. Controversy over rapid career rise through cricket board politics."
+      }
     ],
     "assetBreakdown": {
       "movable": 28000000,
@@ -376,7 +415,7 @@
       {
         "title": "Multiple Party Switches",
         "date": "2022-08-10",
-        "description": "Nitish Kumar switched alliances 7+ times — NDA to Mahagathbandhan to NDA — earning label 'Paltoo Ram' (turncoat) from opponents.",
+        "description": "Nitish Kumar switched alliances 7+ times — NDA to Mahagathbandhan to NDA — earning label 'Paltoo Ram' (turncoat) from opponents. Most recently switched BACK to NDA from INDIA bloc in February 2024 (left Mahagathbandhan). NDA won Bihar overwhelmingly in 2024 Lok Sabha.",
         "source": "https://ndtv.com",
         "severity": "medium"
       },
@@ -409,10 +448,10 @@
     "position": "Chief Minister, Uttar Pradesh",
     "state": "Uttar Pradesh",
     "constituency": "Gorakhpur",
-    "age": 51,
+    "age": 52,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Yogi_Adityanath.jpg/440px-Yogi_Adityanath.jpg",
     "education": "BSc Mathematics, HNB Garhwal University",
-    "criminalCases": 6,
+    "criminalCases": 8,
     "assets": 1500000,
     "liabilities": 0,
     "controversies": [
@@ -436,6 +475,13 @@
         "description": "Bodies floating in Ganges, mass burial grounds exposed massive under-reporting of Covid deaths in UP.",
         "source": "https://thehindu.com",
         "severity": "high"
+      },
+      {
+        "title": "Bulldozer Justice Controversy",
+        "date": "2024-10-02",
+        "description": "SC issued guidelines in Oct 2024 against using bulldozers for punishing criminal suspects, citing UP's bulldozer demolitions as unconstitutional. Yogi's 'bulldozer baba' image under legal scrutiny.",
+        "source": "https://main.sci.gov.in",
+        "severity": "high"
       }
     ],
     "children": [
@@ -456,9 +502,9 @@
     "name": "Lalu Prasad Yadav",
     "slug": "lalu-prasad-yadav",
     "party": "RJD",
-    "position": "RJD Chief, Former CM Bihar, Former Railway Minister",
+    "position": "RJD Chief, Former CM Bihar, Former Railway Minister (serving bail in fodder scam)",
     "state": "Bihar",
-    "constituency": "Patna Sahib",
+    "constituency": "Patna Sahib (lost 2024 Lok Sabha to BJP)",
     "age": 76,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Lalu_Prasad.jpg/440px-Lalu_Prasad.jpg",
     "education": "BA, Patna University; LLB",
@@ -490,9 +536,14 @@
     ],
     "children": [
       { "name": "Tej Pratap Yadav", "location": "Bihar, India", "occupation": "MLA Bihar" },
-      { "name": "Tejashwi Yadav", "location": "Bihar, India", "occupation": "Deputy CM Bihar (Former)" },
+      { "name": "Tejashwi Yadav", "location": "Bihar, India", "occupation": "Leader of Opposition Bihar (Former Deputy CM)" },
       { "name": "Misa Bharti", "location": "India", "occupation": "MP Patliputra" },
-      { "name": "Rohini Acharya", "location": "Singapore (previously)", "occupation": "Politician/Homemaker" }
+      {
+        "name": "Rohini Acharya",
+        "location": "India (returned from Singapore)",
+        "occupation": "Politician; RJD candidate Bihar bypolls 2024 (lost)",
+        "note": "Was based in Singapore for years (husband lives there). Returned to contest Bihar Seemanchal constituency in 2024 bypolls but lost."
+      }
     ],
     "assetBreakdown": {
       "movable": 22000000,
@@ -509,9 +560,9 @@
     "name": "Smriti Irani",
     "slug": "smriti-irani",
     "party": "BJP",
-    "position": "Former Union Minister, Former MP Amethi",
+    "position": "Former Union Minister, Lost Amethi 2024 to Kishori Lal Sharma (INC)",
     "state": "Uttar Pradesh",
-    "constituency": "Amethi",
+    "constituency": "Amethi (lost 2024)",
     "age": 47,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Smriti_Irani_in_2019.jpg/440px-Smriti_Irani_in_2019.jpg",
     "education": "BA Part-1 (not completed), Delhi University; disputed degree controversy",
@@ -539,6 +590,13 @@
         "description": "As I&B Minister, appointed Gajendra Chauhan (TV actor) as FTII chair causing student protests and national debate.",
         "source": "https://thehindu.com",
         "severity": "low"
+      },
+      {
+        "title": "Amethi 2024 Defeat",
+        "date": "2024-06-04",
+        "description": "Lost to Congress's Kishori Lal Sharma by 1.67 lakh votes in a stunning reversal, having defeated Rahul Gandhi from Amethi in 2019.",
+        "source": "https://electioncommission.gov.in",
+        "severity": "medium"
       }
     ],
     "children": [
@@ -563,7 +621,7 @@
     "position": "NCP (SP) Chief, Former Agriculture Minister",
     "state": "Maharashtra",
     "constituency": "Baramati",
-    "age": 83,
+    "age": 84,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sharad_Pawar.jpg/440px-Sharad_Pawar.jpg",
     "education": "BA, Brihan Maharashtra College of Commerce",
     "criminalCases": 3,
@@ -583,6 +641,13 @@
         "description": "As BCCI president, faced calls to resign over IPL spot-fixing scandal and alleged conflict of interest.",
         "source": "https://cricbuzz.com",
         "severity": "medium"
+      },
+      {
+        "title": "NCP Split 2023",
+        "date": "2023-07-02",
+        "description": "Nephew Ajit Pawar split NCP in July 2023, joined BJP-led Mahayuti government as Deputy CM. Supreme Court refused to give party name+symbol to Sharad faction initially. Sharad's NCP renamed NCP (Sharadchandra Pawar) — NCP(SP).",
+        "source": "https://electioncommission.gov.in",
+        "severity": "high"
       }
     ],
     "children": [
@@ -597,5 +662,208 @@
     },
     "education_abroad": false,
     "tags": ["NCP", "Maharashtra", "Agriculture", "Cricket Politics"]
+  },
+  {
+    "id": 13,
+    "name": "Priyanka Gandhi Vadra",
+    "slug": "priyanka-gandhi-vadra",
+    "party": "INC",
+    "position": "MP Wayanad (won bypolls Nov 2024); AICC General Secretary",
+    "state": "Kerala",
+    "constituency": "Wayanad",
+    "age": 52,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Priyanka_Gandhi_in_2023.jpg/440px-Priyanka_Gandhi_in_2023.jpg",
+    "education": "BA, Jesus and Mary College, Delhi University; Enrolled in Buddhist studies, Oxford (did not complete)",
+    "criminalCases": 0,
+    "assets": 210000000,
+    "liabilities": 7200000,
+    "controversies": [
+      {
+        "title": "Robert Vadra Land Deals",
+        "date": "2012-10-01",
+        "description": "Husband Robert Vadra faces ED probe for alleged money laundering via land deals in Haryana, Rajasthan, and DLF transactions. Vadra got land at below-market rates during Congress rule. ED has attached ₹200 crore+ assets.",
+        "source": "https://enforcementdirectorate.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Dynastic Politics Critique",
+        "date": "2024-11-13",
+        "description": "Made parliamentary debut from Wayanad (vacated by brother Rahul Gandhi). Critics cite this as epitome of dynastic Congress politics — occupying a seat kept warm by family.",
+        "source": "https://electioncommission.gov.in",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Raihan Vadra",
+        "location": "UK/India",
+        "occupation": "Studied in UK (St Andrews University Scotland)",
+        "note": "Studied at University of St Andrews, Scotland — controversy about foreign-educated Gandhi family children"
+      },
+      { "name": "Miraya Vadra", "location": "India", "occupation": "Student" }
+    ],
+    "assetBreakdown": {
+      "movable": 60000000,
+      "immovable": 150000000,
+      "vehicles": 8000000,
+      "gold": 12000000,
+      "cash": 500000
+    },
+    "education_abroad": true,
+    "tags": ["INC", "Gandhi Family", "Wayanad", "Women", "Dynastic"]
+  },
+  {
+    "id": 14,
+    "name": "Tejashwi Yadav",
+    "slug": "tejashwi-yadav",
+    "party": "RJD",
+    "position": "Leader of Opposition, Bihar Assembly; Former Deputy CM Bihar",
+    "state": "Bihar",
+    "constituency": "Raghopur",
+    "age": 30,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tejashwi_Yadav_2024.jpg/440px-Tejashwi_Yadav_2024.jpg",
+    "education": "Class 9 (did not complete formal education); cricketer in youth",
+    "criminalCases": 16,
+    "assets": 90000000,
+    "liabilities": 3000000,
+    "controversies": [
+      {
+        "title": "Land-For-Job Scam — Main Accused",
+        "date": "2021-05-18",
+        "description": "CBI alleges that as Railway Minister's son, land parcels were registered in his name and family members' names as kickbacks for railway jobs during Lalu's Railway Ministry (2004-09). Chargesheet filed naming him.",
+        "source": "https://cbi.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Disproportionate Assets",
+        "date": "2020-09-10",
+        "description": "Declared ₹9 crore+ assets at age 26 — no clear income source declared. ED probe into unexplained wealth.",
+        "source": "https://enforcementdirectorate.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "No Educational Qualification",
+        "date": "2015-11-08",
+        "description": "Became Deputy CM of Bihar (2022) without completing Class 10. Critics questioned qualification. Highest qualification declared: Class 9.",
+        "source": "https://electioncommission.gov.in",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Twin children (2022)",
+        "location": "India",
+        "occupation": "Infants",
+        "note": "Married Rajashri Yadav in 2022"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 40000000,
+      "immovable": 50000000,
+      "vehicles": 8000000,
+      "gold": 3000000,
+      "cash": 2000000
+    },
+    "education_abroad": false,
+    "tags": ["RJD", "Bihar", "Youth", "Dynastic", "OBC"]
+  },
+  {
+    "id": 15,
+    "name": "Hemant Soren",
+    "slug": "hemant-soren",
+    "party": "JMM",
+    "position": "Chief Minister, Jharkhand (re-elected Nov 2024)",
+    "state": "Jharkhand",
+    "constituency": "Barhait",
+    "age": 49,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Chief_Minister_Hemant_Soren.jpg/440px-Chief_Minister_Hemant_Soren.jpg",
+    "education": "Engineering dropout, Birsa Institute of Technology Sindri",
+    "criminalCases": 3,
+    "assets": 35000000,
+    "liabilities": 1000000,
+    "controversies": [
+      {
+        "title": "Mining Lease Scam — Arrested",
+        "date": "2024-01-31",
+        "description": "ED arrested Hemant Soren on Jan 31, 2024 in money laundering case linked to alleged illegal mining lease allocation. Resigned as CM before arrest. Spent 5 months in jail. Released on bail by Jharkhand HC in June 2024.",
+        "source": "https://enforcementdirectorate.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Re-elected After Jail",
+        "date": "2024-11-28",
+        "description": "Despite ED arrest and jail time, JMM-INDIA bloc swept Jharkhand elections Nov 2024. Soren returned as CM — a rare political comeback from custody.",
+        "source": "https://electioncommission.gov.in",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      { "name": "Son (minor)", "location": "India", "occupation": "Student" }
+    ],
+    "assetBreakdown": {
+      "movable": 15000000,
+      "immovable": 20000000,
+      "vehicles": 3000000,
+      "gold": 2000000,
+      "cash": 500000
+    },
+    "education_abroad": false,
+    "tags": ["JMM", "Jharkhand", "CM", "Tribal", "INDIA Alliance"]
+  },
+  {
+    "id": 16,
+    "name": "Sukhbir Singh Badal",
+    "slug": "sukhbir-singh-badal",
+    "party": "SAD",
+    "position": "SAD President; Former Deputy CM Punjab; Punished by Akal Takht",
+    "state": "Punjab",
+    "constituency": "Ferozepur",
+    "age": 62,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sukhbir_Singh_Badal.jpg/440px-Sukhbir_Singh_Badal.jpg",
+    "education": "BBA, Thapar Institute of Engineering; MBA, San Jose State University, USA",
+    "criminalCases": 11,
+    "assets": 110000000,
+    "liabilities": 5000000,
+    "controversies": [
+      {
+        "title": "Akal Takht Punishment — Served as Sewadar",
+        "date": "2024-12-02",
+        "description": "Akal Takht (highest Sikh temporal authority) punished Sukhbir Singh Badal for 'mistakes' during SAD govt 2007-17 — including sacrilege incidents, dera pardon. He served as sewadar (servant) at Golden Temple in Dec 2024, shot at by attacker while doing seva.",
+        "source": "https://www.sgpc.net",
+        "severity": "high"
+      },
+      {
+        "title": "Drug Menace During SAD Rule",
+        "date": "2012-01-01",
+        "description": "Punjab's drug epidemic worsened during 2007-17 SAD-BJP rule. Sonu Mahajan report documented drug-politician nexus. Badal's govt accused of protecting drug runners.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "Sacrilege Cover-up",
+        "date": "2015-06-01",
+        "description": "Guru Granth Sahib desecration in Bargari 2015. SAD government accused of shielding perpetrators. Kotkapura police firing on protesters. Remains one of Punjab's most sensitive unresolved controversies.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      }
+    ],
+    "children": [
+      { "name": "Gurpatwant Singh Badal", "location": "India", "occupation": "Business" },
+      {
+        "name": "Hannewal Badal",
+        "location": "USA (studied at US universities)",
+        "occupation": "Business",
+        "note": "Sukhbir himself has MBA from San Jose State University, California"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 50000000,
+      "immovable": 60000000,
+      "vehicles": 10000000,
+      "gold": 5000000,
+      "cash": 1000000
+    },
+    "education_abroad": true,
+    "tags": ["SAD", "Punjab", "Sikh Politics", "Akal Takht", "Dynastic"]
   }
 ]

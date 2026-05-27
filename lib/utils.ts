@@ -31,15 +31,20 @@ export function getPartyColor(party: string): string {
     RJD: '#22AA00',
     DMK: '#CC0000',
     JDU: '#2196F3',
+    JMM: '#009688',
+    SAD: '#1A237E',
     NCP: '#87CEEB',
     'NCP (SP)': '#00BCD4',
+    'NCP(SP)': '#00BCD4',
     'Shiv Sena': '#FF6B00',
+    'Shiv Sena (UBT)': '#FF8C00',
     CPI: '#B71C1C',
     CPM: '#D32F2F',
     YSRCP: '#1565C0',
     TDP: '#FFEB3B',
     AIADMK: '#00BFA5',
     BRS: '#FF6F00',
+    Independent: '#9E9E9E',
   };
   return map[party] || '#888888';
 }
