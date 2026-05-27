@@ -6,7 +6,9 @@ India's most comprehensive political transparency platform — built for every I
 
 ## 🌐 Live Site
 
-Deployed on Vercel (free tier) — auto-updates daily via GitHub Actions.
+**[news-spxd.vercel.app](https://news-spxd.vercel.app)** — Auto-deploys on every push via GitHub Actions.
+
+---
 
 ## 🔥 Features
 
@@ -19,32 +21,45 @@ Deployed on Vercel (free tier) — auto-updates daily via GitHub Actions.
 | 💰 Budget Tracker | National + 10 State budgets with project progress |
 | 📰 Live Newsroom | India politics news (GNews API integration) |
 
+---
+
+## ⚡ One-Time Setup (Required for Auto-Deploy)
+
+Vercel auto-deployment is broken by default because GitHub push webhooks from external commits don't always trigger Vercel. This project uses **GitHub Actions + Vercel CLI** to guarantee every push deploys.
+
+### Step 1 — Add your Vercel Token to GitHub Secrets
+
+1. Go to [vercel.com/account/tokens](https://vercel.com/account/tokens)
+2. Click **Create Token** → name it `github-actions` → copy the token value
+3. Go to your GitHub repo → **Settings → Secrets and variables → Actions**
+4. Click **New repository secret**:
+   - Name: `VERCEL_TOKEN`
+   - Value: *paste your token*
+5. Click **Add secret**
+
+That's it! Every push to `main` will now auto-deploy. ✅
+
+### Step 2 (Optional) — Add GNews API Key for Live News
+
+1. Register free at [gnews.io](https://gnews.io) → get your API key
+2. Add to GitHub Secrets: `GNEWS_API_KEY` = *your key*
+3. News will now refresh daily at 6 AM IST automatically
+
+---
+
 ## 📊 Data Sources
 
-All data sourced from **public records**:
-- 🗳️ Election Commission of India affidavits
+All data sourced from **public records only**:
+- 🗳️ Election Commission of India (EC affidavits)
 - 📋 ADR India (Association for Democratic Reforms)
-- 🔍 CAG India reports
-- 🏛️ Supreme Court judgments
+- 🔍 CAG India audit reports
+- 🏛️ Supreme Court of India judgments
 - 🚔 CBI & Enforcement Directorate records
-- 📊 India Budget (indiabudget.gov.in)
+- 📊 Union Budget (indiabudget.gov.in)
 
 > **Legal Note:** All pending criminal cases are self-declared in EC affidavits. Pending cases ≠ convictions. All politicians are presumed innocent until proven guilty.
 
-## 🚀 Deploy Your Own (Free)
-
-### 1. Fork this repository
-
-### 2. Deploy to Vercel (Free)
-1. Go to [vercel.com](https://vercel.com) → Import GitHub repo
-2. Framework: **Next.js** (auto-detected)
-3. Add environment variable: `GNEWS_API_KEY` (optional, from [gnews.io](https://gnews.io))
-4. Deploy!
-
-### 3. Auto-updates via GitHub Actions
-The site auto-updates daily at 6 AM IST via GitHub Actions workflow. No manual intervention needed.
-
-Optional: Add `GNEWS_API_KEY` to GitHub Secrets for live news.
+---
 
 ## 🛠️ Tech Stack
 
@@ -52,8 +67,10 @@ Optional: Add `GNEWS_API_KEY` to GitHub Secrets for live news.
 - **Styling:** Tailwind CSS v4
 - **Fonts:** Bebas Neue, Playfair Display, Inter
 - **Data:** Static JSON + GNews API
-- **Deployment:** Vercel (free tier)
-- **Auto-updates:** GitHub Actions (free)
+- **Deployment:** Vercel (free tier) via GitHub Actions
+- **Auto-updates:** GitHub Actions cron (daily 6 AM IST)
+
+---
 
 ## ⚠️ Disclaimer
 
@@ -61,13 +78,8 @@ Optional: Add `GNEWS_API_KEY` to GitHub Secrets for live news.
 - Criminal cases shown are **pending**, not convictions
 - Asset figures are self-declared in EC affidavits
 - We are not affiliated with any political party
-- Our only allegiance is to informed citizens
-
-## 🤝 Contribute
-
-Found wrong data? Open an issue with the correct source document.
-Want to add more politicians/controversies? Submit a PR!
+- Our only allegiance is to 1.4 billion informed citizens
 
 ---
 
-**Built for 1.4 billion citizens. Truth has no party.**
+**Built for India. Truth has no party.**
