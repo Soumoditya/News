@@ -7,7 +7,7 @@
     "position": "Prime Minister of India",
     "state": "Gujarat",
     "constituency": "Varanasi",
-    "age": 73,
+    "age": 75,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Modi_cropped.jpg/440px-Modi_cropped.jpg",
     "education": "MA Political Science (Distance), Gujarat University",
     "criminalCases": 0,
@@ -44,7 +44,11 @@
       }
     ],
     "children": [
-      { "name": "None (married 1968, separated)", "location": "India", "occupation": "N/A" }
+      {
+        "name": "None (married 1968, separated)",
+        "location": "India",
+        "occupation": "N/A"
+      }
     ],
     "assetBreakdown": {
       "movable": 1200000,
@@ -54,7 +58,12 @@
       "cash": 52000
     },
     "education_abroad": false,
-    "tags": ["PM", "BJP", "OBC", "Gujarat"]
+    "tags": [
+      "PM",
+      "BJP",
+      "OBC",
+      "Gujarat"
+    ]
   },
   {
     "id": 2,
@@ -64,7 +73,7 @@
     "position": "Leader of Opposition, Lok Sabha; MP Rae Bareli",
     "state": "Uttar Pradesh",
     "constituency": "Rae Bareli",
-    "age": 53,
+    "age": 55,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rahul_Gandhi.jpg/440px-Rahul_Gandhi.jpg",
     "education": "MPhil, Trinity College, Cambridge University",
     "criminalCases": 4,
@@ -109,7 +118,12 @@
       "cash": 200000
     },
     "education_abroad": true,
-    "tags": ["LoP", "INC", "Rae Bareli", "Gandhi Family"]
+    "tags": [
+      "LoP",
+      "INC",
+      "Rae Bareli",
+      "Gandhi Family"
+    ]
   },
   {
     "id": 3,
@@ -119,7 +133,7 @@
     "position": "National Convenor, AAP; Former CM Delhi (resigned Sep 2024)",
     "state": "Delhi",
     "constituency": "New Delhi (lost Feb 2025 Delhi elections)",
-    "age": 55,
+    "age": 56,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arvind_Kejriwal_-_2023.jpg/440px-Arvind_Kejriwal_-_2023.jpg",
     "education": "B.Tech Mechanical Engineering, IIT Kharagpur",
     "criminalCases": 12,
@@ -176,7 +190,12 @@
       "cash": 50000
     },
     "education_abroad": true,
-    "tags": ["AAP", "Delhi", "IIT", "Anti-corruption"]
+    "tags": [
+      "AAP",
+      "Delhi",
+      "IIT",
+      "Anti-corruption"
+    ]
   },
   {
     "id": 4,
@@ -230,7 +249,11 @@
       }
     ],
     "children": [
-      { "name": "None (unmarried/no biological children)", "location": "N/A", "occupation": "N/A" },
+      {
+        "name": "None (unmarried/no biological children)",
+        "location": "N/A",
+        "occupation": "N/A"
+      },
       {
         "name": "Abhishek Banerjee (nephew)",
         "location": "India",
@@ -246,7 +269,12 @@
       "cash": 120000
     },
     "education_abroad": false,
-    "tags": ["TMC", "West Bengal", "CM", "Anti-BJP"]
+    "tags": [
+      "TMC",
+      "West Bengal",
+      "CM",
+      "Anti-BJP"
+    ]
   },
   {
     "id": 5,
@@ -256,7 +284,7 @@
     "position": "Union Home Minister",
     "state": "Gujarat",
     "constituency": "Gandhinagar",
-    "age": 60,
+    "age": 61,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Amit_Shah_2019.jpg/440px-Amit_Shah_2019.jpg",
     "education": "BSc Biochemistry, Gujarat University",
     "criminalCases": 4,
@@ -301,7 +329,12 @@
       "cash": 450000
     },
     "education_abroad": false,
-    "tags": ["BJP", "Home Minister", "Gujarat", "BJP President (Former)"]
+    "tags": [
+      "BJP",
+      "Home Minister",
+      "Gujarat",
+      "BJP President (Former)"
+    ]
   },
   {
     "id": 6,
@@ -311,7 +344,7 @@
     "position": "MP Kannauj, Former CM Uttar Pradesh",
     "state": "Uttar Pradesh",
     "constituency": "Kannauj",
-    "age": 50,
+    "age": 52,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Akhilesh_yadav.jpg/440px-Akhilesh_yadav.jpg",
     "education": "BE Environmental Engineering, Mysore; MS, Univ. of Sydney, Australia",
     "criminalCases": 7,
@@ -334,8 +367,16 @@
       }
     ],
     "children": [
-      { "name": "Aditi Yadav", "location": "India", "occupation": "Student" },
-      { "name": "Arjun Yadav", "location": "India", "occupation": "Student" }
+      {
+        "name": "Aditi Yadav",
+        "location": "India",
+        "occupation": "Student"
+      },
+      {
+        "name": "Arjun Yadav",
+        "location": "India",
+        "occupation": "Student"
+      }
     ],
     "assetBreakdown": {
       "movable": 20000000,
@@ -345,7 +386,12 @@
       "cash": 300000
     },
     "education_abroad": true,
-    "tags": ["SP", "Uttar Pradesh", "OBC", "Yadav Family"]
+    "tags": [
+      "SP",
+      "Uttar Pradesh",
+      "OBC",
+      "Yadav Family"
+    ]
   },
   {
     "id": 7,
@@ -355,7 +401,7 @@
     "position": "BSP National President, Former CM UP (4 times)",
     "state": "Uttar Pradesh",
     "constituency": "Rajya Sabha",
-    "age": 68,
+    "age": 70,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mayawati_-_2017.jpg/440px-Mayawati_-_2017.jpg",
     "education": "BA Arts, Kalindi College, Delhi University; LLB",
     "criminalCases": 6,
@@ -385,7 +431,11 @@
       }
     ],
     "children": [
-      { "name": "None (unmarried)", "location": "N/A", "occupation": "N/A" }
+      {
+        "name": "None (unmarried)",
+        "location": "N/A",
+        "occupation": "N/A"
+      }
     ],
     "assetBreakdown": {
       "movable": 700000000,
@@ -395,7 +445,12 @@
       "cash": 5000000
     },
     "education_abroad": false,
-    "tags": ["BSP", "Dalit", "UP", "CM (4x)"]
+    "tags": [
+      "BSP",
+      "Dalit",
+      "UP",
+      "CM (4x)"
+    ]
   },
   {
     "id": 8,
@@ -405,7 +460,7 @@
     "position": "Chief Minister, Bihar",
     "state": "Bihar",
     "constituency": "Bihar CM",
-    "age": 73,
+    "age": 75,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nitish_Kumar_2016.jpg/440px-Nitish_Kumar_2016.jpg",
     "education": "BE Electrical Engineering, NIT Patna",
     "criminalCases": 1,
@@ -428,7 +483,11 @@
       }
     ],
     "children": [
-      { "name": "Nishant Kumar", "location": "India", "occupation": "Businessman" }
+      {
+        "name": "Nishant Kumar",
+        "location": "India",
+        "occupation": "Businessman"
+      }
     ],
     "assetBreakdown": {
       "movable": 8000000,
@@ -438,7 +497,12 @@
       "cash": 180000
     },
     "education_abroad": false,
-    "tags": ["JDU", "Bihar", "CM", "NDA"]
+    "tags": [
+      "JDU",
+      "Bihar",
+      "CM",
+      "NDA"
+    ]
   },
   {
     "id": 9,
@@ -448,7 +512,7 @@
     "position": "Chief Minister, Uttar Pradesh",
     "state": "Uttar Pradesh",
     "constituency": "Gorakhpur",
-    "age": 52,
+    "age": 53,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Yogi_Adityanath.jpg/440px-Yogi_Adityanath.jpg",
     "education": "BSc Mathematics, HNB Garhwal University",
     "criminalCases": 8,
@@ -485,7 +549,11 @@
       }
     ],
     "children": [
-      { "name": "None (monk, celibate)", "location": "N/A", "occupation": "N/A" }
+      {
+        "name": "None (monk, celibate)",
+        "location": "N/A",
+        "occupation": "N/A"
+      }
     ],
     "assetBreakdown": {
       "movable": 1000000,
@@ -495,7 +563,13 @@
       "cash": 25000
     },
     "education_abroad": false,
-    "tags": ["BJP", "UP", "CM", "Hindu Monk", "Gorakhnath Peeth"]
+    "tags": [
+      "BJP",
+      "UP",
+      "CM",
+      "Hindu Monk",
+      "Gorakhnath Peeth"
+    ]
   },
   {
     "id": 10,
@@ -505,7 +579,7 @@
     "position": "RJD Chief, Former CM Bihar, Former Railway Minister (serving bail in fodder scam)",
     "state": "Bihar",
     "constituency": "Patna Sahib (lost 2024 Lok Sabha to BJP)",
-    "age": 76,
+    "age": 77,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Lalu_Prasad.jpg/440px-Lalu_Prasad.jpg",
     "education": "BA, Patna University; LLB",
     "criminalCases": 59,
@@ -535,9 +609,21 @@
       }
     ],
     "children": [
-      { "name": "Tej Pratap Yadav", "location": "Bihar, India", "occupation": "MLA Bihar" },
-      { "name": "Tejashwi Yadav", "location": "Bihar, India", "occupation": "Leader of Opposition Bihar (Former Deputy CM)" },
-      { "name": "Misa Bharti", "location": "India", "occupation": "MP Patliputra" },
+      {
+        "name": "Tej Pratap Yadav",
+        "location": "Bihar, India",
+        "occupation": "MLA Bihar"
+      },
+      {
+        "name": "Tejashwi Yadav",
+        "location": "Bihar, India",
+        "occupation": "Leader of Opposition Bihar (Former Deputy CM)"
+      },
+      {
+        "name": "Misa Bharti",
+        "location": "India",
+        "occupation": "MP Patliputra"
+      },
       {
         "name": "Rohini Acharya",
         "location": "India (returned from Singapore)",
@@ -553,7 +639,13 @@
       "cash": 500000
     },
     "education_abroad": false,
-    "tags": ["RJD", "Bihar", "OBC", "Convicted", "Fodder Scam"]
+    "tags": [
+      "RJD",
+      "Bihar",
+      "OBC",
+      "Convicted",
+      "Fodder Scam"
+    ]
   },
   {
     "id": 11,
@@ -563,7 +655,7 @@
     "position": "Former Union Minister, Lost Amethi 2024 to Kishori Lal Sharma (INC)",
     "state": "Uttar Pradesh",
     "constituency": "Amethi (lost 2024)",
-    "age": 47,
+    "age": 48,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Smriti_Irani_in_2019.jpg/440px-Smriti_Irani_in_2019.jpg",
     "education": "BA Part-1 (not completed), Delhi University; disputed degree controversy",
     "criminalCases": 2,
@@ -600,8 +692,16 @@
       }
     ],
     "children": [
-      { "name": "Zoish Irani", "location": "India", "occupation": "Student (alleged bar controversy)" },
-      { "name": "Shanelle Irani", "location": "India", "occupation": "Student" }
+      {
+        "name": "Zoish Irani",
+        "location": "India",
+        "occupation": "Student (alleged bar controversy)"
+      },
+      {
+        "name": "Shanelle Irani",
+        "location": "India",
+        "occupation": "Student"
+      }
     ],
     "assetBreakdown": {
       "movable": 10000000,
@@ -611,7 +711,12 @@
       "cash": 200000
     },
     "education_abroad": false,
-    "tags": ["BJP", "Women", "TV Actress (Former)", "HRD Minister (Former)"]
+    "tags": [
+      "BJP",
+      "Women",
+      "TV Actress (Former)",
+      "HRD Minister (Former)"
+    ]
   },
   {
     "id": 12,
@@ -651,7 +756,11 @@
       }
     ],
     "children": [
-      { "name": "Supriya Sule", "location": "India", "occupation": "MP Baramati, NCP (SP)" }
+      {
+        "name": "Supriya Sule",
+        "location": "India",
+        "occupation": "MP Baramati, NCP (SP)"
+      }
     ],
     "assetBreakdown": {
       "movable": 38000000,
@@ -661,7 +770,12 @@
       "cash": 500000
     },
     "education_abroad": false,
-    "tags": ["NCP", "Maharashtra", "Agriculture", "Cricket Politics"]
+    "tags": [
+      "NCP",
+      "Maharashtra",
+      "Agriculture",
+      "Cricket Politics"
+    ]
   },
   {
     "id": 13,
@@ -671,7 +785,7 @@
     "position": "MP Wayanad (won bypolls Nov 2024); AICC General Secretary",
     "state": "Kerala",
     "constituency": "Wayanad",
-    "age": 52,
+    "age": 53,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Priyanka_Gandhi_in_2023.jpg/440px-Priyanka_Gandhi_in_2023.jpg",
     "education": "BA, Jesus and Mary College, Delhi University; Enrolled in Buddhist studies, Oxford (did not complete)",
     "criminalCases": 0,
@@ -700,7 +814,11 @@
         "occupation": "Studied in UK (St Andrews University Scotland)",
         "note": "Studied at University of St Andrews, Scotland — controversy about foreign-educated Gandhi family children"
       },
-      { "name": "Miraya Vadra", "location": "India", "occupation": "Student" }
+      {
+        "name": "Miraya Vadra",
+        "location": "India",
+        "occupation": "Student"
+      }
     ],
     "assetBreakdown": {
       "movable": 60000000,
@@ -710,7 +828,13 @@
       "cash": 500000
     },
     "education_abroad": true,
-    "tags": ["INC", "Gandhi Family", "Wayanad", "Women", "Dynastic"]
+    "tags": [
+      "INC",
+      "Gandhi Family",
+      "Wayanad",
+      "Women",
+      "Dynastic"
+    ]
   },
   {
     "id": 14,
@@ -720,7 +844,7 @@
     "position": "Leader of Opposition, Bihar Assembly; Former Deputy CM Bihar",
     "state": "Bihar",
     "constituency": "Raghopur",
-    "age": 30,
+    "age": 36,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tejashwi_Yadav_2024.jpg/440px-Tejashwi_Yadav_2024.jpg",
     "education": "Class 9 (did not complete formal education); cricketer in youth",
     "criminalCases": 16,
@@ -765,7 +889,13 @@
       "cash": 2000000
     },
     "education_abroad": false,
-    "tags": ["RJD", "Bihar", "Youth", "Dynastic", "OBC"]
+    "tags": [
+      "RJD",
+      "Bihar",
+      "Youth",
+      "Dynastic",
+      "OBC"
+    ]
   },
   {
     "id": 15,
@@ -775,7 +905,7 @@
     "position": "Chief Minister, Jharkhand (re-elected Nov 2024)",
     "state": "Jharkhand",
     "constituency": "Barhait",
-    "age": 49,
+    "age": 50,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Chief_Minister_Hemant_Soren.jpg/440px-Chief_Minister_Hemant_Soren.jpg",
     "education": "Engineering dropout, Birsa Institute of Technology Sindri",
     "criminalCases": 3,
@@ -798,7 +928,11 @@
       }
     ],
     "children": [
-      { "name": "Son (minor)", "location": "India", "occupation": "Student" }
+      {
+        "name": "Son (minor)",
+        "location": "India",
+        "occupation": "Student"
+      }
     ],
     "assetBreakdown": {
       "movable": 15000000,
@@ -808,7 +942,13 @@
       "cash": 500000
     },
     "education_abroad": false,
-    "tags": ["JMM", "Jharkhand", "CM", "Tribal", "INDIA Alliance"]
+    "tags": [
+      "JMM",
+      "Jharkhand",
+      "CM",
+      "Tribal",
+      "INDIA Alliance"
+    ]
   },
   {
     "id": 16,
@@ -818,7 +958,7 @@
     "position": "SAD President; Former Deputy CM Punjab; Punished by Akal Takht",
     "state": "Punjab",
     "constituency": "Ferozepur",
-    "age": 62,
+    "age": 63,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sukhbir_Singh_Badal.jpg/440px-Sukhbir_Singh_Badal.jpg",
     "education": "BBA, Thapar Institute of Engineering; MBA, San Jose State University, USA",
     "criminalCases": 11,
@@ -848,7 +988,11 @@
       }
     ],
     "children": [
-      { "name": "Gurpatwant Singh Badal", "location": "India", "occupation": "Business" },
+      {
+        "name": "Gurpatwant Singh Badal",
+        "location": "India",
+        "occupation": "Business"
+      },
       {
         "name": "Hannewal Badal",
         "location": "USA (studied at US universities)",
@@ -864,6 +1008,3031 @@
       "cash": 1000000
     },
     "education_abroad": true,
-    "tags": ["SAD", "Punjab", "Sikh Politics", "Akal Takht", "Dynastic"]
+    "tags": [
+      "SAD",
+      "Punjab",
+      "Sikh Politics",
+      "Akal Takht",
+      "Dynastic"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Nirmala Sitharaman",
+    "slug": "nirmala-sitharaman",
+    "party": "BJP",
+    "position": "Finance Minister of India",
+    "state": "Karnataka",
+    "constituency": "Rajya Sabha (Karnataka)",
+    "age": 66,
+    "education": "MA Economics, JNU Delhi; MPhil candidate, LSE London (incomplete)",
+    "criminalCases": 0,
+    "assets": 41000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "Longest Budget Speech Ever",
+        "date": "2020-02-01",
+        "description": "Her Feb 2020 Union Budget speech lasted 2 hours 42 minutes, the longest in Indian parliamentary history. She fainted mid-speech in 2019 due to exhaustion.",
+        "source": "https://indiabudget.gov.in",
+        "severity": "low"
+      },
+      {
+        "title": "Electoral Bond Defense",
+        "date": "2018-01-02",
+        "description": "Jointly presented and defended the Electoral Bond Scheme in Parliament which the Supreme Court unanimously struck down as unconstitutional in Feb 2024 for violating voters' right to information.",
+        "source": "https://main.sci.gov.in/supremecourt/2017/30285/30285_2017_5_1501_50804_Judgement_15-Feb-2024.pdf",
+        "severity": "high"
+      },
+      {
+        "title": "GST Multiple Rate Slabs Confusion",
+        "date": "2017-07-01",
+        "description": "As Finance Minister, the complex GST system with 5 rate slabs (0%, 5%, 12%, 18%, 28%) she administered was criticised by economists and businesses for excessive complexity and compliance burden on small traders.",
+        "source": "https://gstcouncil.gov.in",
+        "severity": "medium"
+      },
+      {
+        "title": "Inflation Not Addressed — Food Prices Spike",
+        "date": "2023-07-01",
+        "description": "Retail food inflation hit 11.5% in July 2023. Tomatoes sold at ₹200/kg. Opposition blamed finance ministry's failure to control prices through fiscal/import policy.",
+        "source": "https://mospi.gov.in",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Vangmayi Parakala",
+        "location": "India",
+        "occupation": "Media/public policy professional",
+        "note": "Daughter of Nirmala and her husband Parakala Prabhakar (economist/political commentator who has criticized BJP policies)"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 25000000,
+      "immovable": 16000000,
+      "vehicles": 0,
+      "gold": 0,
+      "cash": 0
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "Finance Minister",
+      "Economy",
+      "Budget",
+      "Rajya Sabha"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Rajnath Singh",
+    "slug": "rajnath-singh",
+    "party": "BJP",
+    "position": "Defence Minister of India",
+    "state": "Uttar Pradesh",
+    "constituency": "Lucknow",
+    "age": 74,
+    "education": "MSc Physics, Gorakhpur University",
+    "criminalCases": 0,
+    "assets": 49000000,
+    "liabilities": 100000,
+    "controversies": [
+      {
+        "title": "S-400 Procurement Delay",
+        "date": "2021-01-01",
+        "description": "Russia's S-400 missile system delivery delayed by Ukraine war sanctions concerns. India navigated US CAATSA sanctions threat — called a diplomatic success by some, risky gamble by others.",
+        "source": "https://pib.gov.in",
+        "severity": "low"
+      },
+      {
+        "title": "Galwan Valley Clash Initial Response",
+        "date": "2020-06-17",
+        "description": "Initially India did not acknowledge the 20 soldier deaths in Galwan clash for several days. Opposition accused govt of downplaying the loss to China.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Defence Procurement Delays",
+        "date": "2022-01-01",
+        "description": "India's defence indigenisation goals lagged. Despite Atmanirbhar push, critical systems like fighter jets, submarines remain import-dependent.",
+        "source": "https://mod.gov.in",
+        "severity": "low"
+      }
+    ],
+    "children": [
+      {
+        "name": "Pankaj Singh",
+        "location": "India",
+        "occupation": "MLA Noida, BJP (UP Assembly)"
+      },
+      {
+        "name": "Anamika Singh",
+        "location": "India",
+        "occupation": "Home-maker"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 29000000,
+      "immovable": 20000000,
+      "vehicles": 1500000,
+      "gold": 500000,
+      "cash": 200000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "Defence Minister",
+      "UP",
+      "Lucknow",
+      "NDA Senior"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "S. Jaishankar",
+    "slug": "s-jaishankar",
+    "party": "BJP",
+    "position": "External Affairs Minister of India",
+    "state": "Gujarat",
+    "constituency": "Rajya Sabha (Gujarat)",
+    "age": 71,
+    "education": "MA, MPhil, PhD International Relations — Jawaharlal Nehru University; MA History, St. Stephen's College Delhi",
+    "criminalCases": 0,
+    "assets": 92000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "India-China Border Standoff Handling",
+        "date": "2020-06-15",
+        "description": "Credited with managing post-Galwan diplomacy but also criticised for slow disengagement at Depsang-Demchok. Full LAC disengagement not achieved till Oct 2024 — took 4+ years of talks.",
+        "source": "https://mea.gov.in",
+        "severity": "medium"
+      },
+      {
+        "title": "Sacking Indian Ambassadors",
+        "date": "2019-06-01",
+        "description": "As EAM, several senior IFS officers were not given expected postings — accusations of favouritism and bypassing seniority norms in foreign service.",
+        "source": "https://thehindu.com",
+        "severity": "low"
+      },
+      {
+        "title": "Conflict of Interest — Son in Tata",
+        "date": "2023-01-01",
+        "description": "Son Dhruva Jaishankar works for think tanks with corporate ties. Critics raised potential conflict of interest in trade negotiations. Not formally investigated.",
+        "source": "https://scroll.in",
+        "severity": "low"
+      }
+    ],
+    "children": [
+      {
+        "name": "Dhruva Jaishankar",
+        "location": "USA/India",
+        "occupation": "Foreign policy analyst, think tanks; previously Brookings India, now Observer Research Foundation",
+        "note": "Studied at Yale and Georgetown in the US — foreign-educated son of foreign minister"
+      },
+      {
+        "name": "Arjun Jaishankar",
+        "location": "India",
+        "occupation": "Businessperson"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 62000000,
+      "immovable": 30000000,
+      "vehicles": 0,
+      "gold": 0,
+      "cash": 0
+    },
+    "education_abroad": true,
+    "tags": [
+      "BJP",
+      "External Affairs",
+      "Diplomat",
+      "Gujarat",
+      "IFS (Former)"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Nitin Gadkari",
+    "slug": "nitin-gadkari",
+    "party": "BJP",
+    "position": "Road Transport & Highways Minister",
+    "state": "Maharashtra",
+    "constituency": "Nagpur",
+    "age": 67,
+    "education": "MCom, Nagpur University; LLB",
+    "criminalCases": 0,
+    "assets": 1550000000,
+    "liabilities": 350000000,
+    "controversies": [
+      {
+        "title": "Purti Group Loan Controversy",
+        "date": "2012-11-01",
+        "description": "AAP accused Gadkari's Purti Group of taking loans using BJP workers as front investors and irregular crop purchases. Gadkari denied; BJP defended him. He was made to step down as BJP President briefly amid probe.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "Highway Tolls and Land Acquisition Disputes",
+        "date": "2020-01-01",
+        "description": "NHAI under Gadkari faced massive controversy over toll rates, excess collection, and aggressive land acquisition displacing farmers. Toll revenue exceeded ₹40,000 crore/year.",
+        "source": "https://nhai.gov.in",
+        "severity": "medium"
+      },
+      {
+        "title": "Openly Criticized BJP/Modi Government",
+        "date": "2023-05-01",
+        "description": "Gadkari publicly criticized unemployment data, slow government decision-making, and called out political falsehoods. His remarks were widely seen as coded criticism of PM Modi — rare for a senior BJP minister.",
+        "source": "https://ndtv.com",
+        "severity": "low"
+      }
+    ],
+    "children": [
+      {
+        "name": "Nikhil Gadkari",
+        "location": "India",
+        "occupation": "Businessman (Purti Group)"
+      },
+      {
+        "name": "Ketaki Gadkari",
+        "location": "India",
+        "occupation": "Home-maker"
+      },
+      {
+        "name": "Sarang Gadkari",
+        "location": "India",
+        "occupation": "Businessman"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 800000000,
+      "immovable": 700000000,
+      "vehicles": 50000000,
+      "gold": 20000000,
+      "cash": 5000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "Roads",
+      "Infrastructure",
+      "Maharashtra",
+      "Nagpur"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "MK Stalin",
+    "slug": "mk-stalin",
+    "party": "DMK",
+    "position": "Chief Minister, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "constituency": "Kolathur",
+    "age": 73,
+    "education": "BA, Presidency College, Chennai (did not complete due to political activism)",
+    "criminalCases": 0,
+    "assets": 1580000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "Stalin Name Controversy",
+        "date": "1953-03-01",
+        "description": "Named 'Stalin' by father Karunanidhi after Joseph Stalin — a name that drew criticism from various quarters for decades. Stalin himself denied any ideological affiliation with the Soviet dictator.",
+        "source": "https://thehindu.com",
+        "severity": "low"
+      },
+      {
+        "title": "NEET Opposition — TN Autonomy Demand",
+        "date": "2021-01-01",
+        "description": "Strongly opposes NEET (national medical entrance test) calling it discriminatory against state board students and Tamil Nadu's education system. Multiple student suicides linked to NEET pressure. TN assembly passed bills exempting state — pending Presidential assent.",
+        "source": "https://www.tnhealthuniv.ac.in",
+        "severity": "high"
+      },
+      {
+        "title": "Language Imposition Protest",
+        "date": "2022-04-01",
+        "description": "Led protests against Hindi imposition in central govt services and NEP 2020's three-language formula. TN has a history of anti-Hindi agitations dating to 1965 riots.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Family Wealth Dispute",
+        "date": "2021-05-01",
+        "description": "DMK family assets declared at ₹1,500+ crore. Opposition alleged undervaluation. Stalin's Kolathur residence and agricultural lands valued controversially in EC affidavit.",
+        "source": "https://myneta.info/tnassembly2021/candidate.php?candidate_id=730",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Udhayanidhi Stalin",
+        "location": "India",
+        "occupation": "Deputy CM Tamil Nadu, Film Producer, MLA Chepauk-Thiruvallikeni"
+      },
+      {
+        "name": "Senthamarai",
+        "location": "India",
+        "occupation": "Daughter"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 780000000,
+      "immovable": 800000000,
+      "vehicles": 30000000,
+      "gold": 50000000,
+      "cash": 5000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "DMK",
+      "Tamil Nadu",
+      "CM",
+      "Dravidian Politics",
+      "Anti-BJP"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Pinarayi Vijayan",
+    "slug": "pinarayi-vijayan",
+    "party": "CPM",
+    "position": "Chief Minister, Kerala (2016-present)",
+    "state": "Kerala",
+    "constituency": "Dharmadom",
+    "age": 82,
+    "education": "Intermediate arts, Brennen College, Thalassery (dropped out)",
+    "criminalCases": 0,
+    "assets": 12000000,
+    "liabilities": 200000,
+    "controversies": [
+      {
+        "title": "SNC-Lavalin Power Scam",
+        "date": "1997-01-01",
+        "description": "As Power Minister (1996-2001), CBI alleged ₹374 crore loss to Kerala in power project contracts awarded to Canadian firm SNC-Lavalin without proper tendering. CBI filed chargesheet. Kerala HC dismissed it. CBI appealed to Supreme Court — case dragged for 25+ years. SC upheld HC dismissal in 2019.",
+        "source": "https://main.sci.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Life Mission Corruption",
+        "date": "2021-01-01",
+        "description": "ED probed Life Mission housing project — alleged ₹1.42 crore was routed as bribe from UAE organisation through Swapna Suresh. Swapna (gold smuggling accused) alleged CM was involved. State contested allegations.",
+        "source": "https://enforcementdirectorate.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Gold Smuggling Case — Swapna Suresh Link",
+        "date": "2020-07-05",
+        "description": "Gold smuggled in diplomatic baggage through UAE Consulate. Swapna Suresh — who worked with CMO's office — was a key accused. ED alleged 'high level political connections.' CM's office under scanner but no charges filed against Vijayan.",
+        "source": "https://enforcementdirectorate.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "COVID Mismanagement Claims",
+        "date": "2021-04-01",
+        "description": "Kerala initially praised globally for COVID response, but second wave was severe. Late lockdown decisions and the Thrissur Pooram festival allowed during pandemic drew criticism.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Veena T",
+        "location": "India",
+        "occupation": "Businesswoman (husband T.V. Rajesh also IAS-linked)"
+      },
+      {
+        "name": "Vijeesh",
+        "location": "India",
+        "occupation": "Son"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 7000000,
+      "immovable": 5000000,
+      "vehicles": 500000,
+      "gold": 0,
+      "cash": 200000
+    },
+    "education_abroad": false,
+    "tags": [
+      "CPM",
+      "Kerala",
+      "CM",
+      "Left",
+      "Communist"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Siddaramaiah",
+    "slug": "siddaramaiah",
+    "party": "INC",
+    "position": "Chief Minister, Karnataka",
+    "state": "Karnataka",
+    "constituency": "Varuna",
+    "age": 77,
+    "education": "LLB, University of Mysore",
+    "criminalCases": 0,
+    "assets": 53000000,
+    "liabilities": 1000000,
+    "controversies": [
+      {
+        "title": "MUDA Scam — Prosecution Sanctioned",
+        "date": "2024-08-19",
+        "description": "Karnataka Governor granted prosecution sanction against CM Siddaramaiah in Mysuru Urban Development Authority (MUDA) scam. Allegedly 14 sites worth ₹56 crore were irregularly allotted to his wife Parvathi. CM challenged Governor's order in HC. HC upheld Governor's sanction Sept 2024. SC stayed it temporarily.",
+        "source": "https://main.sci.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Valmiki Corporation Scam",
+        "date": "2024-03-01",
+        "description": "₹89 crore from SC/ST Valmiki Development Corporation diverted. Congress state minister B. Nagendra arrested. Siddaramaiah as CM faces scrutiny for departmental oversight failure.",
+        "source": "https://cbi.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "OBC Certificate Controversy",
+        "date": "2023-05-15",
+        "description": "Questions raised about Siddaramaiah's OBC (Kuruba) community certificate validity and timeline of registration. He denied wrongdoing.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Dr. Yathindra Siddaramaiah",
+        "location": "India",
+        "occupation": "MLA Varuna, Karnataka; Doctor"
+      },
+      {
+        "name": "Rakesh (deceased 2016)",
+        "location": "N/A",
+        "occupation": "Passed away 2016 from disease"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 23000000,
+      "immovable": 30000000,
+      "vehicles": 3000000,
+      "gold": 2000000,
+      "cash": 1000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "INC",
+      "Karnataka",
+      "CM",
+      "OBC",
+      "MUDA Scam"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "N. Chandrababu Naidu",
+    "slug": "chandrababu-naidu",
+    "party": "TDP",
+    "position": "Chief Minister, Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "constituency": "Kuppam",
+    "age": 76,
+    "education": "MA Economics, Sri Venkateswara University, Tirupati",
+    "criminalCases": 0,
+    "assets": 310000000,
+    "liabilities": 8000000,
+    "controversies": [
+      {
+        "title": "AP State Skill Development Corporation Scam — Arrested",
+        "date": "2023-09-09",
+        "description": "YSRCP government arrested Naidu under AP State Skill Development Corporation scam (₹3,300 crore alleged). Spent 53 days in Rajamahendravaram jail. AP HC granted bail in Oct 2023. He returned to power in 2024, case seen as political vendetta by supporters.",
+        "source": "https://www.andhrahighcourt.in",
+        "severity": "high"
+      },
+      {
+        "title": "Amaravati Capital Controversy",
+        "date": "2015-10-01",
+        "description": "Chose Amaravati as AP's new capital after bifurcation. Accused of insider trading — land prices in Amaravati zone shot up before official announcement. Farmers allege they were duped into giving land cheaply.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "Polavaram Project Cost Overruns",
+        "date": "2017-01-01",
+        "description": "AP's Polavaram irrigation project cost ballooned from ₹16,010 crore (2014 estimate) to ₹55,548 crore+ (2023). Tribal displacement issues, land acquisition controversies.",
+        "source": "https://jalshakti-dowr.gov.in",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Nara Lokesh",
+        "location": "India (studied in USA)",
+        "occupation": "MLA Mangalagiri, TDP General Secretary; Minister in AP govt 2024",
+        "note": "Studied at Stanford University, USA — TDP's tech-savvy second generation leader. Considered Naidu's political heir."
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 200000000,
+      "immovable": 110000000,
+      "vehicles": 5000000,
+      "gold": 10000000,
+      "cash": 2000000
+    },
+    "education_abroad": true,
+    "tags": [
+      "TDP",
+      "Andhra Pradesh",
+      "CM",
+      "Tech-vision",
+      "NDA Ally"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Bhagwant Mann",
+    "slug": "bhagwant-mann",
+    "party": "AAP",
+    "position": "Chief Minister, Punjab",
+    "state": "Punjab",
+    "constituency": "Dhuri",
+    "age": 52,
+    "education": "BA, LLB (incomplete); Stand-up Comedian by profession",
+    "criminalCases": 0,
+    "assets": 45000000,
+    "liabilities": 500000,
+    "controversies": [
+      {
+        "title": "Drunk at Frankfurt Airport",
+        "date": "2014-01-01",
+        "description": "Accused of being drunk/unruly at Frankfurt airport during official foreign trip as MP. Video went viral. Later apologized to Parliament.",
+        "source": "https://ndtv.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Punjab Intelligence HQ Video Leak",
+        "date": "2022-04-01",
+        "description": "As CM, he shared a video touring the Punjab Police Intelligence HQ building — inadvertently revealing the sensitive facility's layout. Security experts raised concerns. He apologized.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "Drug Menace — Slow Progress",
+        "date": "2022-03-16",
+        "description": "Won Punjab election promising to eliminate drug menace. Drug trafficking continues to be rampant in Punjab despite some gangster crackdowns. Major Punjab gangs (Goldy Brar, Lawrence Bishnoi network) operate from abroad.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Moosewala Murder — Security Failure",
+        "date": "2022-05-29",
+        "description": "Punjabi rapper Sidhu Moosewala murdered one day after AAP govt withdrew his security cover. Major controversy on security lapses. Lawrence Bishnoi gang claimed responsibility.",
+        "source": "https://tribuneindia.com",
+        "severity": "high"
+      }
+    ],
+    "children": [
+      {
+        "name": "Son and Daughter (young)",
+        "location": "India",
+        "occupation": "Students",
+        "note": "Remarried Gurpreet Kaur in 2022"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 25000000,
+      "immovable": 20000000,
+      "vehicles": 2000000,
+      "gold": 1000000,
+      "cash": 500000
+    },
+    "education_abroad": false,
+    "tags": [
+      "AAP",
+      "Punjab",
+      "CM",
+      "Comedian",
+      "Anti-Drug"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Himanta Biswa Sarma",
+    "slug": "himanta-biswa-sarma",
+    "party": "BJP",
+    "position": "Chief Minister, Assam",
+    "state": "Assam",
+    "constituency": "Jalukbari",
+    "age": 55,
+    "education": "LLB, Gauhati University; Political Science MA",
+    "criminalCases": 1,
+    "assets": 185000000,
+    "liabilities": 50000000,
+    "controversies": [
+      {
+        "title": "Saradha Chit Fund Scam Link",
+        "date": "2013-01-01",
+        "description": "As senior Congress minister in Assam, faced allegations of proximity to Saradha Group promoter Sudipta Sen. ED and CBI investigated. Later switched to BJP in 2015. SC-monitored probe did not formally charge him.",
+        "source": "https://cbi.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Assam NRC Aftermath — Detention Camps",
+        "date": "2019-08-31",
+        "description": "19 lakh people excluded from NRC Assam. As Health Minister then CM, oversaw detention camp conditions criticised by human rights groups and NHRC.",
+        "source": "https://nhrc.nic.in",
+        "severity": "high"
+      },
+      {
+        "title": "Bulldozer Operations Against Muslims",
+        "date": "2021-09-01",
+        "description": "Bulldozer demolitions in Dhalpur, Sipajhar targeting alleged encroachments disproportionately affected Muslim communities. Human rights groups criticised targeting pattern. 2 protesters killed in police firing.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "Disproportionate Assets — ₹18 Crore Jump",
+        "date": "2021-04-01",
+        "description": "Assets jumped from ₹6.1 crore (2016 affidavit) to ₹185 crore (2021 affidavit) — a 30x increase on a minister's salary. Opposition demanded explanation.",
+        "source": "https://myneta.info/assambly2021/candidate.php?candidate_id=1",
+        "severity": "high"
+      }
+    ],
+    "children": [
+      {
+        "name": "Nandita Sarma (wife Riniki Bhuyan Sarma)",
+        "location": "India",
+        "occupation": "Wife is media baron — owns News Live TV channel (conflict of interest questioned)"
+      },
+      {
+        "name": "Son (minor)",
+        "location": "India",
+        "occupation": "Student"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 105000000,
+      "immovable": 80000000,
+      "vehicles": 8000000,
+      "gold": 5000000,
+      "cash": 2000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "Assam",
+      "CM",
+      "NRC",
+      "North East"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Devendra Fadnavis",
+    "slug": "devendra-fadnavis",
+    "party": "BJP",
+    "position": "Chief Minister, Maharashtra (2024-present); Former CM 2014-2019",
+    "state": "Maharashtra",
+    "constituency": "Nagpur South West",
+    "age": 55,
+    "education": "LLB, Government Law College, Nagpur; Diploma in Business Management",
+    "criminalCases": 2,
+    "assets": 180000000,
+    "liabilities": 1000000,
+    "controversies": [
+      {
+        "title": "False Affidavit — Criminal Cases Not Disclosed",
+        "date": "2014-10-01",
+        "description": "SC judgment 2014: Found guilty of not disclosing 2 pending criminal cases in his 2014 election affidavit — a violation that can disqualify an MP/MLA. SC directed EC to act. Case was later dropped.",
+        "source": "https://main.sci.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "NCP Split Mastermind",
+        "date": "2023-07-02",
+        "description": "Widely credited as the political strategist behind Ajit Pawar's split from NCP in July 2023, bringing Ajit's faction into BJP-led Mahayuti. Critics called it constitutional manipulation. 'Midnight operation' — similar to 2019 Devendra-Ajit midnight swearing-in fiasco.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Irrigation Scam Links",
+        "date": "2012-01-01",
+        "description": "₹70,000 crore Maharashtra irrigation scam happened partly under BJP-supported projects. As CM 2014-19, was accused of slow prosecution of Congress-era scam beneficiaries while pursuing selective anti-corruption action.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Divija Fadnavis",
+        "location": "India",
+        "occupation": "Daughter (young)"
+      },
+      {
+        "name": "Son (minor)",
+        "location": "India",
+        "occupation": "Student"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 100000000,
+      "immovable": 80000000,
+      "vehicles": 5000000,
+      "gold": 3000000,
+      "cash": 1000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "Maharashtra",
+      "CM",
+      "Nagpur",
+      "Brahmin"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Revanth Reddy",
+    "slug": "revanth-reddy",
+    "party": "INC",
+    "position": "Chief Minister, Telangana",
+    "state": "Telangana",
+    "constituency": "Kodangal",
+    "age": 55,
+    "education": "BTech, JNTU Hyderabad",
+    "criminalCases": 32,
+    "assets": 320000000,
+    "liabilities": 30000000,
+    "controversies": [
+      {
+        "title": "Cash-for-Vote Scandal — Arrested by ACB",
+        "date": "2015-11-01",
+        "description": "Anti-Corruption Bureau arrested Revanth Reddy for allegedly bribing a nominated MLA ₹50 lakh to vote for him in 2015 MLC elections. Video of cash exchange went viral. Was TDP MLA at that time. Released on bail.",
+        "source": "https://acbtelangana.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Group-2 Exam Paper Leak Controversy",
+        "date": "2024-07-01",
+        "description": "Telangana Group-2 Services exam paper leaked shortly after Revanth became CM. Exam cancelled. Opposition demanded resignation. CID investigation.",
+        "source": "https://tgpsc.telangana.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Phone Tapping Case — Against BRS",
+        "date": "2024-04-01",
+        "description": "Revanth govt's SIT arrested ex-Telangana DGP for alleged phone tapping of opposition politicians, judges, journalists during KCR's BRS rule. BRS claimed it was political victimisation. SIT found evidence of widespread illegal surveillance.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      }
+    ],
+    "children": [
+      {
+        "name": "Son (minor)",
+        "location": "India",
+        "occupation": "Student"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 200000000,
+      "immovable": 120000000,
+      "vehicles": 10000000,
+      "gold": 5000000,
+      "cash": 2000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "INC",
+      "Telangana",
+      "CM",
+      "South India",
+      "Congress Revival"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "K. Chandrashekar Rao",
+    "slug": "k-chandrashekar-rao",
+    "party": "BRS",
+    "position": "BRS President; Former CM Telangana (2014-2023)",
+    "state": "Telangana",
+    "constituency": "Gajwel (lost 2023)",
+    "age": 70,
+    "education": "MA Telugu Literature, Osmania University",
+    "criminalCases": 0,
+    "assets": 580000000,
+    "liabilities": 5000000,
+    "controversies": [
+      {
+        "title": "Phone Tapping Scandal",
+        "date": "2024-04-01",
+        "description": "SIT found that KCR's BRS government conducted systematic illegal phone tapping of politicians, journalists, judges, and opposition leaders for political intelligence. Multiple officials arrested.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "Cash-for-Jobs Allegations",
+        "date": "2022-07-01",
+        "description": "Opposition alleged illegal cash payments for government jobs during BRS rule in Telangana. Multiple arrests by Telangana Anti-Corruption Bureau after Congress came to power.",
+        "source": "https://acbtelangana.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Kaleshwaram Irrigation Scam",
+        "date": "2023-02-01",
+        "description": "CAG report flagged massive irregularities in Kaleshwaram lift irrigation project costing ₹80,000 crore. Cost overruns, kickback allegations. Sluice gates collapsed in 2022.",
+        "source": "https://cag.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Power Tariff Irregularities",
+        "date": "2023-01-01",
+        "description": "Telangana discoms accumulated ₹1.5 lakh crore debt under BRS rule. Expensive power purchase agreements signed at non-transparent rates.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "K. Taraka Rama Rao (KTR)",
+        "location": "India",
+        "occupation": "BRS Working President; Former IT Minister Telangana; Arrested in Formula-E payment case"
+      },
+      {
+        "name": "K. Kavitha",
+        "location": "India",
+        "occupation": "Former MLC; Arrested by ED in Delhi Liquor Policy scam Mar 2024, released Sep 2024"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 380000000,
+      "immovable": 200000000,
+      "vehicles": 15000000,
+      "gold": 25000000,
+      "cash": 5000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BRS",
+      "Telangana",
+      "Former CM",
+      "Dynastic",
+      "South India"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Naveen Patnaik",
+    "slug": "naveen-patnaik",
+    "party": "BJD",
+    "position": "BJD President; Former CM Odisha 2000-2024 (24 years)",
+    "state": "Odisha",
+    "constituency": "Hinjili (lost 2024 to BJP's Surama Padhi)",
+    "age": 79,
+    "education": "History, Delhi University (incomplete); Long-time in France and USA before politics",
+    "criminalCases": 0,
+    "assets": 640000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "Remote Control CM — VK Pandian Controversy",
+        "date": "2023-01-01",
+        "description": "VK Pandian, a retired IAS officer and Patnaik's private secretary, became de-facto power centre of BJD govt. Accused of running parallel government. BJP weaponised 'outsider' Pandian (Tamil origin) against BJD. Pandian was parachuted to contest 2024 elections — BJD was wiped out, winning just 51 of 147 seats.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "Odisha Train Accident — Balasore",
+        "date": "2023-06-02",
+        "description": "Three-train collision at Bahanaga Bazar, Balasore killed 293+ people — India's deadliest rail accident in decades. While Railway Ministry (Central Govt) was responsible, state disaster response was scrutinised.",
+        "source": "https://ndtv.com",
+        "severity": "high"
+      },
+      {
+        "title": "24-Year Rule — Democratic Stagnation",
+        "date": "2000-03-05",
+        "description": "Ruled Odisha for 24 consecutive years (longest serving non-NDA CM). While praised for stability and welfare schemes, critics said BJD suppressed meaningful opposition and democratic competition.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "None (unmarried)",
+        "location": "N/A",
+        "occupation": "N/A"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 440000000,
+      "immovable": 200000000,
+      "vehicles": 5000000,
+      "gold": 0,
+      "cash": 1000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJD",
+      "Odisha",
+      "Former CM",
+      "Longest Serving CM"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Shashi Tharoor",
+    "slug": "shashi-tharoor",
+    "party": "INC",
+    "position": "MP Thiruvananthapuram; INC Working Committee member",
+    "state": "Kerala",
+    "constituency": "Thiruvananthapuram",
+    "age": 69,
+    "education": "BA History, Presidency College, Kolkata; MPhil, Fletcher School, Tufts Univ., USA; PhD International Relations, Tufts University",
+    "criminalCases": 3,
+    "assets": 184000000,
+    "liabilities": 3000000,
+    "controversies": [
+      {
+        "title": "Wife Sunanda Pushkar's Death — Abetment Case",
+        "date": "2014-01-17",
+        "description": "Wife Sunanda Pushkar found dead in a Delhi hotel room in Jan 2014. Delhi Police filed abetment to suicide/murder charges against Tharoor. Sessions court discharged Tharoor in 2021 citing 'no reliable evidence.' Delhi HC reversed this in July 2023 — trial reinstated. Case ongoing.",
+        "source": "https://delhipolice.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "IPL Kochi Franchise Controversy",
+        "date": "2010-03-25",
+        "description": "As Minister of State, had interests in the Kochi IPL franchise (his then-partner Sunanda Pushkar had 'sweat equity'). Resigned from ministry amid conflict of interest controversy.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "\"Cattle Class\" Tweet",
+        "date": "2009-08-26",
+        "description": "Tweeted about travelling 'cattle class' (economy class) in solidarity with aam aadmi (common man) — caused controversy about elite politician's disconnect. As a government minister, he was expected to not mock public transport.",
+        "source": "https://ndtv.com",
+        "severity": "low"
+      }
+    ],
+    "children": [
+      {
+        "name": "Ishaan Tharoor",
+        "location": "USA",
+        "occupation": "Journalist at Washington Post",
+        "note": "Son from first marriage, works at Washington Post in the USA"
+      },
+      {
+        "name": "Kanishk Tharoor",
+        "location": "USA/UK",
+        "occupation": "Author, writes on global politics; lives abroad",
+        "note": "Author of fiction, based abroad"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 84000000,
+      "immovable": 100000000,
+      "vehicles": 5000000,
+      "gold": 2000000,
+      "cash": 500000
+    },
+    "education_abroad": true,
+    "tags": [
+      "INC",
+      "Kerala",
+      "UN (Former)",
+      "Author",
+      "Thiruvananthapuram"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Asaduddin Owaisi",
+    "slug": "asaduddin-owaisi",
+    "party": "AIMIM",
+    "position": "MP Hyderabad; AIMIM President",
+    "state": "Telangana",
+    "constituency": "Hyderabad",
+    "age": 56,
+    "education": "BA, Osmania University; Barrister-at-law, Lincoln's Inn, London, UK",
+    "criminalCases": 0,
+    "assets": 83000000,
+    "liabilities": 500000,
+    "controversies": [
+      {
+        "title": "Provocative Speeches — Charged under NSA",
+        "date": "1999-01-01",
+        "description": "Detained under National Security Act (NSA) in 1999 for inflammatory speech. Has faced multiple FIRs for hate speech-adjacent remarks though charges were largely not upheld.",
+        "source": "https://ndtv.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Brother Akbaruddin Owaisi — Hate Speech Conviction",
+        "date": "2012-01-01",
+        "description": "Brother Akbaruddin Owaisi (MLA) convicted for communally provocative speech. Sentenced to 2 years. Asaduddin distanced himself but opposition frequently links both.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Vote Splitter Accusations",
+        "date": "2022-01-01",
+        "description": "BJP and INC both accuse AIMIM of splitting Muslim votes — helping BJP win by dividing secular votes. AIMIM's presence in UP, Bihar, Gujarat seen as hurting opposition in close contests.",
+        "source": "https://scroll.in",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Children (not publicly disclosed)",
+        "location": "India",
+        "occupation": "Private life"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 43000000,
+      "immovable": 40000000,
+      "vehicles": 3000000,
+      "gold": 1000000,
+      "cash": 500000
+    },
+    "education_abroad": false,
+    "tags": [
+      "AIMIM",
+      "Hyderabad",
+      "Muslim Politics",
+      "Barrister",
+      "South India"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Uddhav Thackeray",
+    "slug": "uddhav-thackeray",
+    "party": "Shiv Sena (UBT)",
+    "position": "Shiv Sena (UBT) Chief; Former CM Maharashtra (2019-2022)",
+    "state": "Maharashtra",
+    "constituency": "None (Rajya Sabha, lost both contested seats)",
+    "age": 64,
+    "education": "Commerce graduate, Jai Hind College, Mumbai; Wildlife Photographer",
+    "criminalCases": 0,
+    "assets": 122000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "Shiv Sena Split — Lost Party Name and Symbol",
+        "date": "2022-06-20",
+        "description": "42 of 55 Shiv Sena MLAs followed Eknath Shinde in rebellion, collapsed Uddhav's MVA government June 2022. Election Commission gave Eknath Shinde's faction the 'Shiv Sena' name and 'Bow and Arrow' symbol in Feb 2023. Uddhav now leads 'Shiv Sena (UBT)' — a humiliating loss after 60+ years of Thackeray family building the party.",
+        "source": "https://electioncommission.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "COVID Lockdown Mismanagement",
+        "date": "2021-04-01",
+        "description": "Maharashtra had India's highest COVID deaths. Second wave hit Mumbai-Pune belt hardest. Criticism of late lockdowns, oxygen shortage, vaccine procurement delays.",
+        "source": "https://mohfw.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Alliance with Congress — Ideological Contradiction",
+        "date": "2019-11-23",
+        "description": "Formed Maharashtra Vikas Aghadi with Congress and NCP — parties with diametrically opposite ideology to Shiv Sena's Hindutva. Was dubbed 'opportunistic' by BJP. Considered a key factor in losing Shiv Sena workers' loyalty.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Aaditya Thackeray",
+        "location": "India",
+        "occupation": "MLA Worli; Shiv Sena (UBT) Youth Leader"
+      },
+      {
+        "name": "Tejas Thackeray",
+        "location": "India",
+        "occupation": "Wildlife photographer, businessman"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 72000000,
+      "immovable": 50000000,
+      "vehicles": 5000000,
+      "gold": 3000000,
+      "cash": 1000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "Shiv Sena UBT",
+      "Maharashtra",
+      "Thackeray Family",
+      "Former CM",
+      "Hindutva"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Eknath Shinde",
+    "slug": "eknath-shinde",
+    "party": "Shiv Sena",
+    "position": "Former CM Maharashtra (2022-2024); Currently Opposition",
+    "state": "Maharashtra",
+    "constituency": "Kopri-Pachpakhadi",
+    "age": 60,
+    "education": "SSLC (Matriculation); no college degree",
+    "criminalCases": 9,
+    "assets": 137000000,
+    "liabilities": 2000000,
+    "controversies": [
+      {
+        "title": "Shiv Sena Rebellion — Constitutional Crisis",
+        "date": "2022-06-20",
+        "description": "Broke away from Uddhav Thackeray with 40 rebel MLAs to Guwahati (Assam). Toppled MVA govt and became CM with BJP support. SC later ruled the Governor's action was flawed but said disqualification not feasible since assembly's 5-year term ended.",
+        "source": "https://main.sci.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Alleged Land Deals During CM Tenure",
+        "date": "2022-12-01",
+        "description": "Multiple media reports alleged that Shinde-era Maharashtra govt facilitated land deals and government contracts benefiting those close to him. Mahayuti lost 2024 Maha Lok Sabha elections initially.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Maharashtra Elections 2024 — Mahayuti Comeback",
+        "date": "2024-11-23",
+        "description": "Despite losing ground in Lok Sabha 2024, Mahayuti (Shinde-BJP-Ajit NCP) swept Maharashtra Vidhan Sabha Nov 2024 with 230+ seats. Shinde's faction won 57/80 seats. PM Modi became Fadnavis as new CM, Shinde stepped aside.",
+        "source": "https://electioncommission.gov.in",
+        "severity": "low"
+      }
+    ],
+    "children": [
+      {
+        "name": "Shrikant Shinde",
+        "location": "India",
+        "occupation": "MP Kalyan; Lok Sabha member"
+      },
+      {
+        "name": "Siddharth Shinde (deceased)",
+        "location": "N/A",
+        "occupation": "Passed away 2000 in an accident"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 87000000,
+      "immovable": 50000000,
+      "vehicles": 8000000,
+      "gold": 5000000,
+      "cash": 2000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "Shiv Sena",
+      "Maharashtra",
+      "Former CM",
+      "Rebellion",
+      "NDA"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Ajit Pawar",
+    "slug": "ajit-pawar",
+    "party": "NCP",
+    "position": "Deputy CM Maharashtra; NCP President (Ajit faction)",
+    "state": "Maharashtra",
+    "constituency": "Baramati",
+    "age": 65,
+    "education": "BSc Agriculture, Shri Shivaji Agriculture College, Amravati",
+    "criminalCases": 6,
+    "assets": 830000000,
+    "liabilities": 10000000,
+    "controversies": [
+      {
+        "title": "Irrigation Scam — ₹70,000 Crore",
+        "date": "2012-09-01",
+        "description": "Maharashtra Irrigation Dept under Ajit Pawar (Water Resources Minister 1999-2009, 2010-2014) saw ₹70,000 crore in contracts with 0% project completion in some cases. One of India's biggest water scam allegations. He was exonerated by NCP-Congress but investigated under BJP govt.",
+        "source": "https://cag.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "NCP Split — Joined BJP",
+        "date": "2023-07-02",
+        "description": "Split NCP in July 2023 with 8 ministers, joined BJP-led Maharashtra govt as Deputy CM. Supreme Court stayed his 'rebel MLA' disqualification. Sharad Pawar (uncle/party founder) calls this a family and political betrayal.",
+        "source": "https://electioncommission.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "2019 Midnight Swearing-In Drama",
+        "date": "2019-11-23",
+        "description": "In a dramatic midnight operation, Ajit Pawar was sworn in as Maharashtra Deputy CM under Devendra Fadnavis (BJP) without NCP sanction. Lasted only 80 hours — collapsed when NCP MLAs refused to join. Called 'greatest political drama of Indian democracy' by observers.",
+        "source": "https://ndtv.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Parth Pawar",
+        "location": "India",
+        "occupation": "NCP politician (lost 2024 LS from Maval)"
+      },
+      {
+        "name": "Jay Pawar",
+        "location": "India",
+        "occupation": "Businessman"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 530000000,
+      "immovable": 300000000,
+      "vehicles": 15000000,
+      "gold": 20000000,
+      "cash": 5000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "NCP",
+      "Maharashtra",
+      "Deputy CM",
+      "Irrigation Scam",
+      "Baramati"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Sanjay Raut",
+    "slug": "sanjay-raut",
+    "party": "Shiv Sena (UBT)",
+    "position": "Rajya Sabha MP; Shiv Sena (UBT) Chief Spokesperson",
+    "state": "Maharashtra",
+    "constituency": "Rajya Sabha (Maharashtra)",
+    "age": 63,
+    "education": "BA, Ruparel College, Mumbai; Journalist",
+    "criminalCases": 4,
+    "assets": 70000000,
+    "liabilities": 5000000,
+    "controversies": [
+      {
+        "title": "Patra Chawl Land Scam — Arrested by ED",
+        "date": "2022-07-31",
+        "description": "ED arrested Sanjay Raut on July 31, 2022 in ₹1,000+ crore alleged money laundering case. Linked to redevelopment of Patra Chawl housing society in Mumbai. Spent over 100 days in jail. Released on bail in Nov 2022. Trial ongoing.",
+        "source": "https://enforcementdirectorate.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Wife's Dalit Loan Controversy",
+        "date": "2021-01-01",
+        "description": "Wife Varsha Raut received ₹55 lakh in alleged loan from Swapna Patkar (associate of accused in Patra Chawl scam). Raut said it was a personal loan; ED called it money laundering proceeds.",
+        "source": "https://enforcementdirectorate.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Inflammatory Statements on Constitutional Institutions",
+        "date": "2023-01-01",
+        "description": "Known for provocative media statements. Made derogatory remarks about Maharashtra Governor, election commissioners — attracted privilege motion threats in Rajya Sabha.",
+        "source": "https://rajyasabha.nic.in",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Purvashi Raut",
+        "location": "India",
+        "occupation": "Daughter"
+      },
+      {
+        "name": "Son",
+        "location": "India",
+        "occupation": "Student"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 40000000,
+      "immovable": 30000000,
+      "vehicles": 2000000,
+      "gold": 2000000,
+      "cash": 500000
+    },
+    "education_abroad": false,
+    "tags": [
+      "Shiv Sena UBT",
+      "Maharashtra",
+      "Rajya Sabha",
+      "Journalist",
+      "Opposition"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Farooq Abdullah",
+    "slug": "farooq-abdullah",
+    "party": "NC",
+    "position": "MP Srinagar; National Conference President; Former CM J&K",
+    "state": "Jammu & Kashmir",
+    "constituency": "Srinagar",
+    "age": 87,
+    "education": "MBBS, SMS Medical College, Jaipur",
+    "criminalCases": 0,
+    "assets": 126000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "J&K Cricket Board Scam",
+        "date": "2014-01-01",
+        "description": "CBI probe into J&K Cricket Association funds misappropriation under Farooq Abdullah's presidency. ₹43 crore alleged irregularities in BCCI grants. Case ongoing for a decade.",
+        "source": "https://cbi.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Detained Under PSA (2019)",
+        "date": "2019-08-05",
+        "description": "Detained under Public Safety Act (PSA) after abrogation of Article 370 in August 2019. Spent months under detention at his own home. Detention described as arbitrary by opposition and international observers.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "China-Support Comments",
+        "date": "2020-12-01",
+        "description": "Made remarks seemingly supportive of China in India-China border dispute context. Caused huge controversy, accused of anti-national sentiment. He later clarified his position.",
+        "source": "https://ndtv.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Omar Abdullah",
+        "location": "India",
+        "occupation": "CM Jammu & Kashmir (J&K)"
+      },
+      {
+        "name": "Safia Abdullah",
+        "location": "India",
+        "occupation": "Daughter"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 76000000,
+      "immovable": 50000000,
+      "vehicles": 5000000,
+      "gold": 2000000,
+      "cash": 1000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "NC",
+      "J&K",
+      "Former CM",
+      "Doctor",
+      "Abdullah Family"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Omar Abdullah",
+    "slug": "omar-abdullah",
+    "party": "NC",
+    "position": "Chief Minister, Jammu & Kashmir (Oct 2024-present)",
+    "state": "Jammu & Kashmir",
+    "constituency": "Ganderbal",
+    "age": 55,
+    "education": "BSc, Sydenham College of Commerce, Mumbai",
+    "criminalCases": 0,
+    "assets": 87000000,
+    "liabilities": 2000000,
+    "controversies": [
+      {
+        "title": "Detained Under PSA 2019",
+        "date": "2019-08-05",
+        "description": "Detained under Public Safety Act (PSA) for 8 months after Article 370 abrogation. He was among the first leaders detained. Later wrote about the ordeal. International observers criticised India's detention of mainstream elected leaders.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "J&K Became Union Territory — Political Loss",
+        "date": "2019-08-05",
+        "description": "Under his 2009-2014 CM tenure J&K was full state with special status. By 2019, during NDA rule, J&K lost both statehood (downgraded to UT) and Article 370 special status — a major political setback for NC ideology.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Statehood Not Restored — NC Demand",
+        "date": "2024-10-17",
+        "description": "J&K restored to Assembly rule but NOT to full statehood. Omar became CM of UT (not state). PM Modi promised statehood restoration 'at appropriate time.' NC considers full statehood restoration its primary demand.",
+        "source": "https://jkgov.in",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Zahir Abdullah",
+        "location": "UK/India",
+        "occupation": "Studying/residing in UK",
+        "note": "Omar divorced wife Payal Nath (daughter of Prem Nath Nath, INC leader). Children largely live abroad."
+      },
+      {
+        "name": "Zamir Abdullah",
+        "location": "UK/India",
+        "occupation": "Son, based partly abroad"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 57000000,
+      "immovable": 30000000,
+      "vehicles": 3000000,
+      "gold": 2000000,
+      "cash": 500000
+    },
+    "education_abroad": true,
+    "tags": [
+      "NC",
+      "J&K",
+      "CM",
+      "Dynasty",
+      "Young Leader"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Chirag Paswan",
+    "slug": "chirag-paswan",
+    "party": "LJP (RV)",
+    "position": "Union Minister (Food Processing); MP Hajipur; LJP (Ram Vilas) President",
+    "state": "Bihar",
+    "constituency": "Hajipur",
+    "age": 42,
+    "education": "Studied acting at FTII Pune; BSc, Shri Ram College of Commerce, Delhi",
+    "criminalCases": 0,
+    "assets": 52000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "LJP Split — Fought Own Uncle Pashupati Paras",
+        "date": "2021-06-07",
+        "description": "Chirag used his father (late Ram Vilas Paswan)'s legacy to expel uncle Pashupati Kumar Paras from LJP president post. EC awarded 'LJP (Ram Vilas)' name to Chirag after long battle. His own NDA relationship improved when he won in 2024.",
+        "source": "https://electioncommission.gov.in",
+        "severity": "medium"
+      },
+      {
+        "title": "Acted Against NDA in Bihar 2020",
+        "date": "2020-10-28",
+        "description": "In Bihar 2020 elections, Chirag contested seats against JDU (Nitish Kumar's party) even though both were NDA allies — helping split NDA votes deliberately. Many accused him of working against NDA from within. JDU was weakened.",
+        "source": "https://electioncommission.gov.in",
+        "severity": "medium"
+      },
+      {
+        "title": "Claims of Dalit-Child of Hanuman",
+        "date": "2021-01-01",
+        "description": "Fashioned himself as 'Desh ka Chirag' (Light of the country) and 'Bajrang Bali ka bachcha' (Son of Hanuman) — an unusual identity politics mix for a Dalit leader traditionally associated with Ambedkarite movements.",
+        "source": "https://ndtv.com",
+        "severity": "low"
+      }
+    ],
+    "children": [
+      {
+        "name": "None (unmarried as of 2025)",
+        "location": "N/A",
+        "occupation": "N/A"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 32000000,
+      "immovable": 20000000,
+      "vehicles": 3000000,
+      "gold": 1000000,
+      "cash": 500000
+    },
+    "education_abroad": false,
+    "tags": [
+      "LJP",
+      "Bihar",
+      "Dalit",
+      "NDA",
+      "Dynastic",
+      "Young Leader"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Supriya Sule",
+    "slug": "supriya-sule",
+    "party": "NCP (SP)",
+    "position": "MP Baramati; NCP (SP) Working President",
+    "state": "Maharashtra",
+    "constituency": "Baramati",
+    "age": 55,
+    "education": "BA, University of Mumbai; MBA candidate; University of California Berkeley",
+    "criminalCases": 0,
+    "assets": 396000000,
+    "liabilities": 1000000,
+    "controversies": [
+      {
+        "title": "Baramati vs Baramati — Cousin-in-Law Battle",
+        "date": "2024-05-01",
+        "description": "In 2024 Lok Sabha, Supriya Sule fought against Sunetra Pawar (wife of cousin Ajit Pawar) from Baramati constituency. Unprecedented family vs family battle. Supriya won by 1.5 lakh votes — repudiation of Ajit's NCP split.",
+        "source": "https://electioncommission.gov.in",
+        "severity": "medium"
+      },
+      {
+        "title": "Dynastic Politics",
+        "date": "2019-01-01",
+        "description": "Daughter of Sharad Pawar, one of India's most powerful politicians. Critics call her a pure dynasty product — though she's built her own political identity in Baramati.",
+        "source": "https://thehindu.com",
+        "severity": "low"
+      },
+      {
+        "title": "Maharashtra Cooperative Bank Probe",
+        "date": "2020-01-01",
+        "description": "As daughter of Sharad Pawar who headed the Maharashtra State Cooperative Bank, faced questions about the ₹25,000 crore alleged scam. No charges directly against her.",
+        "source": "https://thehindu.com",
+        "severity": "low"
+      }
+    ],
+    "children": [
+      {
+        "name": "Vir Sadashiv Patankar",
+        "location": "USA",
+        "occupation": "Works in tech sector, USA",
+        "note": "Son studied and works in the United States"
+      },
+      {
+        "name": "Revati",
+        "location": "India",
+        "occupation": "Daughter"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 246000000,
+      "immovable": 150000000,
+      "vehicles": 5000000,
+      "gold": 10000000,
+      "cash": 1000000
+    },
+    "education_abroad": true,
+    "tags": [
+      "NCP SP",
+      "Maharashtra",
+      "Baramati",
+      "Pawar Family",
+      "Women Leader"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Jyotiraditya Scindia",
+    "slug": "jyotiraditya-scindia",
+    "party": "BJP",
+    "position": "Union Minister Telecommunications; Former Congress MP",
+    "state": "Madhya Pradesh",
+    "constituency": "Guna",
+    "age": 53,
+    "education": "AB Economics, Harvard University, USA; MBA, Stanford Graduate School of Business, USA",
+    "criminalCases": 0,
+    "assets": 3740000000,
+    "liabilities": 25000000,
+    "controversies": [
+      {
+        "title": "Defection to BJP — Toppled MP Congress Govt",
+        "date": "2020-03-10",
+        "description": "Resigned from Congress in March 2020 with 22 MLAs, joining BJP and collapsing Kamal Nath's Congress government in MP (which had 114/230 seats). Critics called it 'anti-democratic defection.' He got Rajya Sabha seat and ministry in return.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "Gwalior Royal Family — Inherited Wealth",
+        "date": "2021-01-01",
+        "description": "Declared ₹374 crore assets in 2019. Son of Madhavrao Scindia (former aviation minister). Old Gwalior Maharaja family with 800+ year legacy — immense inherited wealth including palaces, agricultural land.",
+        "source": "https://myneta.info/loksabha2019/candidate.php?candidate_id=6177",
+        "severity": "low"
+      },
+      {
+        "title": "Harvard-Stanford Roots, MP Problems",
+        "date": "2023-01-01",
+        "description": "Constituency Guna among MP's most backward areas. Despite Harvard-Stanford education and ministerial power, Guna's development indicators lag. Critics cite disconnect between elite background and ground reality.",
+        "source": "https://thehindu.com",
+        "severity": "low"
+      }
+    ],
+    "children": [
+      {
+        "name": "Mahanaryaman Scindia",
+        "location": "India",
+        "occupation": "Student/Young adult"
+      },
+      {
+        "name": "Ananya Raje Scindia",
+        "location": "India/USA",
+        "occupation": "Daughter",
+        "note": "Scindia himself educated at Harvard and Stanford"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 1740000000,
+      "immovable": 2000000000,
+      "vehicles": 50000000,
+      "gold": 100000000,
+      "cash": 5000000
+    },
+    "education_abroad": true,
+    "tags": [
+      "BJP",
+      "MP",
+      "Guna",
+      "Harvard",
+      "Maharaja",
+      "Telecom Minister"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Shivraj Singh Chouhan",
+    "slug": "shivraj-singh-chouhan",
+    "party": "BJP",
+    "position": "Union Agriculture Minister; Former CM Madhya Pradesh (4 terms)",
+    "state": "Madhya Pradesh",
+    "constituency": "Vidisha",
+    "age": 65,
+    "education": "MA Philosophy, Bhopal University",
+    "criminalCases": 0,
+    "assets": 11000000,
+    "liabilities": 2000000,
+    "controversies": [
+      {
+        "title": "Vyapam Scam — India's Biggest Jobs Scam",
+        "date": "2013-07-01",
+        "description": "MP's Professional Examination Board (Vyapam) was involved in systematic cheating ring for government jobs and medical admissions. 2,000+ accused arrested, 40+ mysterious deaths of witnesses/accused. Happened during Chouhan's CM tenure. CBI took over probe. HC found systemic rot.",
+        "source": "https://cbi.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Farmer Suicides — 2017 Mandsaur Firing",
+        "date": "2017-06-06",
+        "description": "5 farmers killed in police firing at Mandsaur during farmer protests against low MSP. Chouhan was CM. Incident shocked nation. He apologized and promised compensation.",
+        "source": "https://nhrc.nic.in",
+        "severity": "high"
+      },
+      {
+        "title": "Madhya Pradesh Became 'BIMARU' Again?",
+        "date": "2022-01-01",
+        "description": "MP's Human Development Index remained among India's lowest despite 18+ years of BJP rule under Chouhan. Critics said governance prioritized central transfers over structural development.",
+        "source": "https://niti.gov.in",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Kartikey Chouhan",
+        "location": "India",
+        "occupation": "Active in BJP politics, MP"
+      },
+      {
+        "name": "Kunal Chouhan",
+        "location": "India",
+        "occupation": "Businessman"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 6000000,
+      "immovable": 5000000,
+      "vehicles": 500000,
+      "gold": 200000,
+      "cash": 100000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "MP",
+      "Agriculture Minister",
+      "Former CM",
+      "OBC"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Manohar Lal Khattar",
+    "slug": "manohar-lal-khattar",
+    "party": "BJP",
+    "position": "Union Minister (Housing); Former CM Haryana (2014-2024)",
+    "state": "Haryana",
+    "constituency": "Karnal",
+    "age": 70,
+    "education": "BA, Arya College, Ambala",
+    "criminalCases": 0,
+    "assets": 7000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "Haryana Farmer Protests — 2021",
+        "date": "2021-01-26",
+        "description": "Haryana police blocked protesting farmers at state borders during 2020-21 farm law protests. Water cannons, tear gas used in peak winter. Khattar government accused of heavy-handedness against Punjabi/Haryanvi farmers.",
+        "source": "https://nhrc.nic.in",
+        "severity": "high"
+      },
+      {
+        "title": "Karnal Lathi Charge — IAS officer ordered lathicharge",
+        "date": "2021-08-28",
+        "description": "IAS officer Ayush Sinha issued order to police to 'break heads' of protesting farmers at Karnal. Video went viral. National uproar. Government eventually suspended and settled with farmers after protests.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "Nuh Violence Haryana 2023",
+        "date": "2023-07-31",
+        "description": "Communal violence in Nuh district, Haryana killed 6+. VHP procession attacked. Retaliatory violence. Bulldozer demolitions of Muslim properties triggered national debate. Khattar government under scrutiny.",
+        "source": "https://nhrc.nic.in",
+        "severity": "high"
+      }
+    ],
+    "children": [
+      {
+        "name": "Son (keeps private life)",
+        "location": "India",
+        "occupation": "Private"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 4000000,
+      "immovable": 3000000,
+      "vehicles": 0,
+      "gold": 0,
+      "cash": 100000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "Haryana",
+      "Former CM",
+      "RSS",
+      "Housing Minister"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Bhupendra Patel",
+    "slug": "bhupendra-patel",
+    "party": "BJP",
+    "position": "Chief Minister, Gujarat",
+    "state": "Gujarat",
+    "constituency": "Ghatlodiya",
+    "age": 62,
+    "education": "Diploma in Civil Engineering, Gujarat University",
+    "criminalCases": 0,
+    "assets": 82000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "Shadow of Modi — Seen as Proxy CM",
+        "date": "2021-09-13",
+        "description": "Installed as Gujarat CM in 2021 replacing Vijay Rupani just 4 months before elections. Seen as a placeholder/loyal RSS pracharak with no independent political identity. Critics say real power lies with Modi-Shah even in Gujarat governance.",
+        "source": "https://thehindu.com",
+        "severity": "low"
+      },
+      {
+        "title": "Morbi Bridge Collapse",
+        "date": "2022-10-30",
+        "description": "Britain-era Morbi suspension bridge collapsed killing 135+ people. Bridge was reopened after 'renovation' without safety certificates. Oreva Group given maintenance contract without proper tendering. Bhupendra Patel govt faced negligence criticism.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "AAP Leader Arrested Before Gujarat Elections",
+        "date": "2022-11-01",
+        "description": "AAP's Gopal Italia arrested on sedition charges days before 2022 Gujarat elections. Critics called it political vendetta. SC granted bail. BJP swept Gujarat with 156/182 seats.",
+        "source": "https://main.sci.gov.in",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Son and Daughter (private)",
+        "location": "India",
+        "occupation": "Private life"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 52000000,
+      "immovable": 30000000,
+      "vehicles": 3000000,
+      "gold": 2000000,
+      "cash": 500000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "Gujarat",
+      "CM",
+      "Patidar",
+      "Modi Protege"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Pushkar Singh Dhami",
+    "slug": "pushkar-singh-dhami",
+    "party": "BJP",
+    "position": "Chief Minister, Uttarakhand",
+    "state": "Uttarakhand",
+    "constituency": "Champawat",
+    "age": 49,
+    "education": "LLB, Lucknow University",
+    "criminalCases": 0,
+    "assets": 31000000,
+    "liabilities": 2000000,
+    "controversies": [
+      {
+        "title": "Lost Own Seat — Became CM After Defeat",
+        "date": "2022-03-10",
+        "description": "Lost his own Khatima constituency in 2022 Uttarakhand elections but BJP made him CM anyway. Won Champawat bypoll. This violates spirit of electoral accountability — constitutionally allowed for 6 months but politically criticised.",
+        "source": "https://electioncommission.gov.in",
+        "severity": "medium"
+      },
+      {
+        "title": "Uniform Civil Code — Uttarakhand First State",
+        "date": "2024-02-06",
+        "description": "Uttarakhand became first Indian state to implement Uniform Civil Code (UCC). Opposition said it targeted Muslim personal law. Dhami seen as BJP's face on UCC implementation.",
+        "source": "https://ukgov.in",
+        "severity": "medium"
+      },
+      {
+        "title": "Joshimath Sinking — Delayed Response",
+        "date": "2023-01-01",
+        "description": "Joshimath town in Uttarakhand began sinking from massive construction-induced land subsidence. 600+ houses cracked. Emergency displacement of thousands. State government criticized for delayed response and continued tunnel/NTPC projects near the city.",
+        "source": "https://ndtv.com",
+        "severity": "high"
+      }
+    ],
+    "children": [
+      {
+        "name": "Son and Daughter (young)",
+        "location": "India",
+        "occupation": "Students"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 21000000,
+      "immovable": 10000000,
+      "vehicles": 1000000,
+      "gold": 500000,
+      "cash": 200000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "Uttarakhand",
+      "CM",
+      "UCC",
+      "Himalayas"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Sukhwinder Singh Sukhu",
+    "slug": "sukhwinder-singh-sukhu",
+    "party": "INC",
+    "position": "Chief Minister, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "constituency": "Nadaun",
+    "age": 60,
+    "education": "MA, Himachal Pradesh University; LLB",
+    "criminalCases": 0,
+    "assets": 17000000,
+    "liabilities": 3000000,
+    "controversies": [
+      {
+        "title": "HP Financial Crisis — OPS Burden",
+        "date": "2023-01-01",
+        "description": "Sukhu's Congress govt restored Old Pension Scheme (OPS) fulfilling election promise — but it added ₹2,000+ crore annual burden to HP's already debt-laden finances. HP has one of India's highest debt-to-GSDP ratios.",
+        "source": "https://hpvidhansabha.nic.in",
+        "severity": "medium"
+      },
+      {
+        "title": "Congress MLAs Revolt — Almost Lost Govt",
+        "date": "2024-02-27",
+        "description": "6 Congress MLAs voted against the state budget — a rare rebellion. Cross-voted in Rajya Sabha elections (BJP candidate won). Sukhu survived only with Governor intervention and anti-defection action against rebel MLAs. Shows fragile political hold.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "Apple Growers' Protests",
+        "date": "2023-07-01",
+        "description": "HP apple farmers protested against high import duties, infrastructure issues, low MSP, and alleged cartelization by cold storage companies. Sukhu govt promised action but implementation delayed.",
+        "source": "https://thehindu.com",
+        "severity": "low"
+      }
+    ],
+    "children": [
+      {
+        "name": "Son and Daughter (young)",
+        "location": "India",
+        "occupation": "Students"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 12000000,
+      "immovable": 5000000,
+      "vehicles": 1000000,
+      "gold": 500000,
+      "cash": 200000
+    },
+    "education_abroad": false,
+    "tags": [
+      "INC",
+      "HP",
+      "CM",
+      "Himachal Pradesh",
+      "OPS"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Bhajan Lal Sharma",
+    "slug": "bhajan-lal-sharma",
+    "party": "BJP",
+    "position": "Chief Minister, Rajasthan",
+    "state": "Rajasthan",
+    "constituency": "Sanganer",
+    "age": 58,
+    "education": "MA, Rajasthan University",
+    "criminalCases": 0,
+    "assets": 32000000,
+    "liabilities": 500000,
+    "controversies": [
+      {
+        "title": "Surprise CM Choice — Over Vasundhara Raje",
+        "date": "2023-12-15",
+        "description": "BJP bypassed Vasundhara Raje (senior BJP leader, 2x Rajasthan CM) to install relatively unknown first-time MLA Bhajan Lal Sharma. Seen as Modi-Shah asserting control over state BJP politics. Raje supporters were furious.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Paper Leaks — Rajasthan Exam Fraud",
+        "date": "2024-02-01",
+        "description": "Multiple competitive exam papers (REET, SI recruitment) leaked under previous Congress and now BJP govts. Rajasthan became infamous nationally for paper leak culture. New govt promised anti-paper leak law.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "Revenue Intelligence HQ Shooting",
+        "date": "2024-01-01",
+        "description": "A man entered Revenue Intelligence Office in Jaipur and opened fire. Security lapses exposed. Highlights law and order concerns in state capital.",
+        "source": "https://ndtv.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Son and Daughter",
+        "location": "India",
+        "occupation": "Private"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 22000000,
+      "immovable": 10000000,
+      "vehicles": 1000000,
+      "gold": 500000,
+      "cash": 200000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "Rajasthan",
+      "CM",
+      "First-time MLA",
+      "RSS"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Mohan Yadav",
+    "slug": "mohan-yadav",
+    "party": "BJP",
+    "position": "Chief Minister, Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "constituency": "Ujjain South",
+    "age": 59,
+    "education": "PhD History, Vikram University, Ujjain",
+    "criminalCases": 2,
+    "assets": 48000000,
+    "liabilities": 1000000,
+    "controversies": [
+      {
+        "title": "Bypass of Experienced Leaders — Surprise CM",
+        "date": "2023-12-11",
+        "description": "BJP bypassed Shivraj Singh Chouhan (4x CM) and Narottam Mishra to install Mohan Yadav — sending a message about OBC outreach for 2024 Lok Sabha elections. Shock appointment for party insiders.",
+        "source": "https://thehindu.com",
+        "severity": "low"
+      },
+      {
+        "title": "Criminal Cases Declared in Affidavit",
+        "date": "2023-11-01",
+        "description": "Declared 2 pending criminal cases in 2023 election affidavit. One case related to an alleged incident in 2004, another in 2008. Details in EC affidavit.",
+        "source": "https://myneta.info/mpassembly2023/candidate.php?candidate_id=1",
+        "severity": "medium"
+      },
+      {
+        "title": "Ujjain Mahakal Corridor — Land Acquisition Disputes",
+        "date": "2022-10-11",
+        "description": "Ujjain Mahakal Temple Corridor, inaugurated by PM Modi, displaced several hundred families. Compensation disputes led to protests. Mohan Yadav as MP overseen the process, faced local backlash.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Son and daughter",
+        "location": "India",
+        "occupation": "Private"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 28000000,
+      "immovable": 20000000,
+      "vehicles": 2000000,
+      "gold": 1000000,
+      "cash": 500000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "MP",
+      "CM",
+      "OBC",
+      "Yadav",
+      "Hindutva"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Nayab Singh Saini",
+    "slug": "nayab-singh-saini",
+    "party": "BJP",
+    "position": "Chief Minister, Haryana",
+    "state": "Haryana",
+    "constituency": "Ladbha Majra",
+    "age": 51,
+    "education": "BA Political Science, Kurukshetra University",
+    "criminalCases": 0,
+    "assets": 27000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "Replacement of Khattar — 6 Months Before Election",
+        "date": "2024-03-12",
+        "description": "BJP replaced Khattar with Saini just months before Haryana elections. This 'CM churn' strategy (install new CM to neutralise anti-incumbency) was seen as political trickery. BJP eventually won Oct 2024 elections surprisingly.",
+        "source": "https://thehindu.com",
+        "severity": "low"
+      },
+      {
+        "title": "Farmers Protests — Shambhu Border Standoff",
+        "date": "2024-02-13",
+        "description": "Haryana police blocked farmers marching to Delhi from Shambhu border using teargas, concrete barricades, drones. Kinnaur farmer Shubhkaran Singh died after being shot with rubber bullets. Major controversy about farmer rights.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "Agniveer Scheme Controversy",
+        "date": "2024-05-01",
+        "description": "As Haryana CM, had to implement controversial Agnipath/Agniveer 4-year short-term army recruitment scheme. Haryana has traditionally high army recruitment. Youth protests against Agniveer happened across Haryana.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Son",
+        "location": "India",
+        "occupation": "Private"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 17000000,
+      "immovable": 10000000,
+      "vehicles": 1000000,
+      "gold": 500000,
+      "cash": 200000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "Haryana",
+      "CM",
+      "OBC",
+      "New Leader"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Mohan Majhi",
+    "slug": "mohan-majhi",
+    "party": "BJP",
+    "position": "Chief Minister, Odisha (June 2024-present)",
+    "state": "Odisha",
+    "constituency": "Keonjhar",
+    "age": 52,
+    "education": "MA, Fakir Mohan University",
+    "criminalCases": 4,
+    "assets": 23000000,
+    "liabilities": 500000,
+    "controversies": [
+      {
+        "title": "Criminal Cases — Filed by Tribals",
+        "date": "2023-01-01",
+        "description": "4 pending criminal cases declared in 2024 affidavit. Cases primarily relating to protests/demonstrations from his opposition years. ADR flagged as concerning.",
+        "source": "https://myneta.info/odisha2024/candidate.php?candidate_id=1",
+        "severity": "medium"
+      },
+      {
+        "title": "Odisha Mining Corruption — End of BJD Era",
+        "date": "2024-06-10",
+        "description": "Ended 24 years of BJD rule in Odisha. Installed as CM over senior leaders, signalling Modi-Shah's preference for tribal CM. Will have to deal with massive post-BJD corruption cases in Odisha mining sector.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Anti-Conversion Law Push",
+        "date": "2024-08-01",
+        "description": "Plans to enact tough anti-conversion law in tribal-dominated Odisha — targeting Christian missionary activities. Opposition and Christians communities protested.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Son and daughter",
+        "location": "India",
+        "occupation": "Private"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 13000000,
+      "immovable": 10000000,
+      "vehicles": 1000000,
+      "gold": 500000,
+      "cash": 200000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "Odisha",
+      "CM",
+      "Tribal",
+      "ST",
+      "New Leader"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Kamal Nath",
+    "slug": "kamal-nath",
+    "party": "INC",
+    "position": "Former CM Madhya Pradesh; MP Chhindwara; INC Senior Leader",
+    "state": "Madhya Pradesh",
+    "constituency": "Chhindwara",
+    "age": 78,
+    "education": "BA, Doon School (secondary); St. Xavier's College, Calcutta",
+    "criminalCases": 0,
+    "assets": 3810000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "1984 Sikh Riots Alleged Role",
+        "date": "1984-11-01",
+        "description": "Accused by multiple witnesses and fact-finding committees of leading a mob of 2,000+ attacking a Sikh gurudwara and gas station during 1984 anti-Sikh riots after Indira Gandhi's assassination. Never charged or convicted. Has denied all allegations. Major unresolved controversy.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "MP Horse-Trading — Lost Govt in 15 Months",
+        "date": "2020-03-20",
+        "description": "Congress govt in MP with 114 seats lost 22 MLAs to BJP in March 2020 Jyotiraditya Scindia defection. Govt fell after 15 months. CBI raided multiple offices/residences linked to Kamal Nath even as opposition leader.",
+        "source": "https://cbi.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Anti-India Comments Alleged",
+        "date": "2023-11-01",
+        "description": "BJP accused Kamal Nath of India-critical statements before MP elections. Nath denied, said remarks were misrepresented. Lost MP elections Dec 2023 to BJP.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Nakul Nath",
+        "location": "India",
+        "occupation": "MP Chhindwara (won 2024 despite Kamal Nath's political troubles)"
+      },
+      {
+        "name": "Bhavna Nath",
+        "location": "India",
+        "occupation": "Daughter"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 2810000000,
+      "immovable": 1000000000,
+      "vehicles": 50000000,
+      "gold": 20000000,
+      "cash": 5000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "INC",
+      "MP",
+      "Former CM",
+      "Senior Leader",
+      "1984 Riots"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Vasundhara Raje",
+    "slug": "vasundhara-raje",
+    "party": "BJP",
+    "position": "Former CM Rajasthan (2x); BJP Senior Leader",
+    "state": "Rajasthan",
+    "constituency": "Jhalrapatan",
+    "age": 72,
+    "education": "Economics, Sophia College, Mumbai",
+    "criminalCases": 0,
+    "assets": 670000000,
+    "liabilities": 8000000,
+    "controversies": [
+      {
+        "title": "Sanjay Dutt Passport Controversy",
+        "date": "2007-07-01",
+        "description": "As External Affairs Minister (Vajpayee era), raised questions about her role in facilitating passport for actor Sanjay Dutt (then accused in TADA case). Cleared by inquiry but controversy persisted.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Lalit Modi Affair — Visa Controversy",
+        "date": "2015-06-01",
+        "description": "Was found to have recommended (in affidavit) to UK authorities that Lalit Modi (disgraced IPL founder, facing ED probe) be given travel documents. Both Vasundhara and Sushma Swaraj faced demands for resignation.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "Bypassed for Rajasthan CM 2023",
+        "date": "2023-12-15",
+        "description": "Modi-Shah bypassed Vasundhara Raje despite BJP's comfortable majority in Rajasthan 2023, installing first-time MLA Bhajan Lal Sharma instead. Seen as marginalisation of Raje faction within BJP. She stayed sulking on the sidelines during campaign.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Dushyant Singh",
+        "location": "India (studied USA)",
+        "occupation": "MP Jhalawar-Baran; married to Niharika Raje who is related to Kiran Mazumdar Shaw",
+        "note": "Dushyant Singh studied in USA and is MP from Jhalawar-Baran"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 370000000,
+      "immovable": 300000000,
+      "vehicles": 10000000,
+      "gold": 15000000,
+      "cash": 2000000
+    },
+    "education_abroad": true,
+    "tags": [
+      "BJP",
+      "Rajasthan",
+      "Former CM",
+      "Scindia Family (by birth)",
+      "Women Leader"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "HD Kumaraswamy",
+    "slug": "hd-kumaraswamy",
+    "party": "JDU",
+    "position": "Union Minister (Heavy Industries); Former CM Karnataka",
+    "state": "Karnataka",
+    "constituency": "Mandya",
+    "age": 65,
+    "education": "BSc, Vishweswaraiah Institute of Technology, Bengaluru",
+    "criminalCases": 6,
+    "assets": 1490000000,
+    "liabilities": 340000000,
+    "controversies": [
+      {
+        "title": "Bellary Mining Scam — Family Links",
+        "date": "2008-01-01",
+        "description": "Karnataka's Bellary region iron ore mining scam under BJP-JD(S) govts. CAG reported ₹16,085 crore loss. Gali Janardhana Reddy (Bellary miner) had close ties with JD(S) govt. Kumaraswamy's family links investigated.",
+        "source": "https://cag.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Da(u)d: Leaked Audio Tape",
+        "date": "2007-09-01",
+        "description": "Audio tape of conversation between Kumaraswamy and a mining baron (allegedly Gali Janardhana Reddy) surfaced — discussing mining concessions in exchange for political support. Called 'CM tape' — denied authenticity but caused major political damage.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "JD(S)-BJP Coalition — Party Switch",
+        "date": "2023-09-26",
+        "description": "JD(S) had been avowedly anti-BJP for decades. HD Deve Gowda (father, ex-PM) opposed BJP strongly. But HD Kumaraswamy aligned JD(S) with BJP for 2024 elections — abandoned secular-JD(S) ideology for power. Won Mandya. Got ministerial berth.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Nikhil Kumaraswamy",
+        "location": "India",
+        "occupation": "JD(S) politician, Actor (Kannada films), Contested elections"
+      },
+      {
+        "name": "Shrutha Kumaraswamy",
+        "location": "India",
+        "occupation": "Daughter"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 740000000,
+      "immovable": 750000000,
+      "vehicles": 20000000,
+      "gold": 30000000,
+      "cash": 5000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "JDU",
+      "Karnataka",
+      "Former CM",
+      "Deve Gowda Family",
+      "NDA"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Piyush Goyal",
+    "slug": "piyush-goyal",
+    "party": "BJP",
+    "position": "Union Minister Commerce & Industry; Rajya Sabha MP",
+    "state": "Maharashtra",
+    "constituency": "Rajya Sabha (Maharashtra)",
+    "age": 60,
+    "education": "CA (Chartered Accountant); LLB, Mumbai University",
+    "criminalCases": 0,
+    "assets": 780000000,
+    "liabilities": 4000000,
+    "controversies": [
+      {
+        "title": "Electricity Sector Privatisation Controversy",
+        "date": "2020-01-01",
+        "description": "Electricity Amendment Bill 2020 tabled under his Ministries period (Power Ministry earlier). State DISCOMs opposed it. Farmers feared end of subsidised power.",
+        "source": "https://powermin.gov.in",
+        "severity": "medium"
+      },
+      {
+        "title": "Railway Safety Record — Accidents During Tenure",
+        "date": "2017-09-19",
+        "description": "Multiple train derailments and accidents in 2017-18 when he was Railway Minister. He blamed saboteurs. Critics pointed to deferred maintenance, budget cuts.",
+        "source": "https://indianrailways.gov.in",
+        "severity": "medium"
+      },
+      {
+        "title": "Wealth Jump — Declared ₹78 Crore Assets",
+        "date": "2023-01-01",
+        "description": "Declared ₹78 crore assets in 2023 Rajya Sabha affidavit. His family (father Vedprakash Goyal was BJP Treasurer) has extensive business interests raising perpetual conflict-of-interest questions.",
+        "source": "https://myneta.info",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Dhruv Goyal",
+        "location": "India",
+        "occupation": "Businessman"
+      },
+      {
+        "name": "Radhika Goyal",
+        "location": "India",
+        "occupation": "Businesswoman"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 480000000,
+      "immovable": 300000000,
+      "vehicles": 5000000,
+      "gold": 3000000,
+      "cash": 1000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "Commerce Minister",
+      "Maharashtra",
+      "Rajya Sabha",
+      "Business Background"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Dimple Yadav",
+    "slug": "dimple-yadav",
+    "party": "SP",
+    "position": "MP Mainpuri; SP Leader",
+    "state": "Uttar Pradesh",
+    "constituency": "Mainpuri",
+    "age": 47,
+    "education": "BA, Chandigarh University",
+    "criminalCases": 0,
+    "assets": 470000000,
+    "liabilities": 3000000,
+    "controversies": [
+      {
+        "title": "Dynastic Political Entry",
+        "date": "2012-01-01",
+        "description": "Won Kannauj Lok Sabha in 2012 uncontested — when all other candidates withdrew after Akhilesh Yadav became CM. Critics called it proxy election — not a genuine democratic choice. Symbol of dynastic politics.",
+        "source": "https://electioncommission.gov.in",
+        "severity": "medium"
+      },
+      {
+        "title": "Mainpuri Seat — Mulayam's Legacy",
+        "date": "2022-12-05",
+        "description": "Won Mainpuri bypass election in 2022 after death of Mulayam Singh Yadav. Contested and held the family's 'pocket borough' seat. Now holds Mainpuri for SP family.",
+        "source": "https://electioncommission.gov.in",
+        "severity": "low"
+      },
+      {
+        "title": "No Independent Political Identity Critique",
+        "date": "2024-01-01",
+        "description": "Political analysts consistently note she has no independent identity beyond being Akhilesh's wife. In Parliament, speaks rarely. Critics say she's occupying a seat that could go to a non-dynastic leader.",
+        "source": "https://thehindu.com",
+        "severity": "low"
+      }
+    ],
+    "children": [
+      {
+        "name": "Aditi Yadav",
+        "location": "India",
+        "occupation": "Student"
+      },
+      {
+        "name": "Arjun Yadav",
+        "location": "India",
+        "occupation": "Student"
+      },
+      {
+        "name": "Tina (youngest daughter)",
+        "location": "India",
+        "occupation": "Student"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 270000000,
+      "immovable": 200000000,
+      "vehicles": 10000000,
+      "gold": 5000000,
+      "cash": 1000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "SP",
+      "UP",
+      "Women",
+      "Mainpuri",
+      "Yadav Family"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Jayant Chaudhary",
+    "slug": "jayant-chaudhary",
+    "party": "RLD",
+    "position": "Union Minister Skill Development; MP Baghpat; RLD Chief",
+    "state": "Uttar Pradesh",
+    "constituency": "Baghpat",
+    "age": 45,
+    "education": "BA Politics, Philosophy, Economics, Oxford University, UK",
+    "criminalCases": 0,
+    "assets": 73000000,
+    "liabilities": 2000000,
+    "controversies": [
+      {
+        "title": "Switched from INDIA Bloc to NDA",
+        "date": "2024-03-02",
+        "description": "Was in INDIA alliance with SP. Pulled out of INDIA bloc days before 2024 Lok Sabha elections and joined NDA. Opposition called it betrayal of farmers who supported him after farm law protests. He won Baghpat convincingly.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Grandfather Charan Singh — PM Narrative",
+        "date": "2024-07-27",
+        "description": "Grandfather Charan Singh was conferred Bharat Ratna in 2024 (posthumously) — after RLD joined NDA. Opposition called it political 'gift' to get RLD support. Jayant is seen as using grandfather's legacy rather than building own identity.",
+        "source": "https://thehindu.com",
+        "severity": "low"
+      },
+      {
+        "title": "Oxford-Educated, Rural Voter Base Disconnect",
+        "date": "2023-01-01",
+        "description": "Oxford-educated Union Minister from UP's Jat farming community — rare combination. Critics note disconnect between elite education and the rural agrarian issues of his constituency Baghpat.",
+        "source": "https://thehindu.com",
+        "severity": "low"
+      }
+    ],
+    "children": [
+      {
+        "name": "None (not married as of 2025)",
+        "location": "N/A",
+        "occupation": "N/A"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 43000000,
+      "immovable": 30000000,
+      "vehicles": 2000000,
+      "gold": 1000000,
+      "cash": 500000
+    },
+    "education_abroad": true,
+    "tags": [
+      "RLD",
+      "UP",
+      "NDA",
+      "Oxford",
+      "Jat Leader",
+      "Charan Singh Legacy"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "JP Nadda",
+    "slug": "jp-nadda",
+    "party": "BJP",
+    "position": "BJP National President; Union Minister Health",
+    "state": "Himachal Pradesh",
+    "constituency": "Rajya Sabha (Gujarat)",
+    "age": 64,
+    "education": "LLB, Patna University; BA, Patna College",
+    "criminalCases": 0,
+    "assets": 52000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "HP Elections Loss — Own Home State",
+        "date": "2022-12-08",
+        "description": "As BJP President, BJP lost to Congress in Himachal Pradesh 2022 elections — embarrassment since it's his home state. Amit Shah publicly blamed incumbency and internal party issues.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      },
+      {
+        "title": "West Bengal Attack on Convoy",
+        "date": "2020-12-10",
+        "description": "BJP President's convoy was allegedly attacked by TMC workers in Diamond Harbour during WB poll campaign visit. Stone pelting on his vehicle — captured on video. Central forces deployed, caused state vs centre standoff.",
+        "source": "https://ndtv.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Seen as Modi-Shah Proxy",
+        "date": "2021-01-01",
+        "description": "Critics say Nadda as BJP president has no independent voice and acts only as operational arm of Modi-Shah. 'First among equals' in name only. Organisation has become extremely centralised.",
+        "source": "https://thehindu.com",
+        "severity": "low"
+      }
+    ],
+    "children": [
+      {
+        "name": "Harshvardhan Nadda",
+        "location": "India",
+        "occupation": "Son, active in Himachal Pradesh BJP"
+      },
+      {
+        "name": "Aditi Nadda",
+        "location": "India",
+        "occupation": "Daughter"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 32000000,
+      "immovable": 20000000,
+      "vehicles": 1500000,
+      "gold": 1000000,
+      "cash": 500000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "BJP President",
+      "Health Minister",
+      "Rajya Sabha",
+      "RSS"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Dharmendra Pradhan",
+    "slug": "dharmendra-pradhan",
+    "party": "BJP",
+    "position": "Union Minister Education; Rajya Sabha MP",
+    "state": "Odisha",
+    "constituency": "Rajya Sabha",
+    "age": 54,
+    "education": "MA Political Science, Utkal University",
+    "criminalCases": 0,
+    "assets": 115000000,
+    "liabilities": 1000000,
+    "controversies": [
+      {
+        "title": "NEET Paper Leak Crisis — Biggest Exam Scandal",
+        "date": "2024-05-07",
+        "description": "NEET-UG 2024 paper leaked. 67 students scored perfect 720/720 (unprecedented). CBI arrested several people. States demanded scrapping NEET. As Education Minister, Pradhan faced massive opposition calls to resign. NEET-PG postponed. Government set up high-level review committee.",
+        "source": "https://cbi.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "NEP 2020 — Three-Language Formula Controversy",
+        "date": "2020-07-29",
+        "description": "National Education Policy 2020 with three-language formula faced Tamil Nadu-led protests accusing it of Hindi imposition. Pradhan as Education Minister defended NEP despite south India objections.",
+        "source": "https://education.gov.in",
+        "severity": "medium"
+      },
+      {
+        "title": "UGC-NET Cancellation 2024",
+        "date": "2024-06-19",
+        "description": "UGC-NET exam cancelled a day after it was held due to integrity concerns. Dark web leak alleged. Second major exam controversy in same month as NEET scandal.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      }
+    ],
+    "children": [
+      {
+        "name": "Son and daughter",
+        "location": "India",
+        "occupation": "Private"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 65000000,
+      "immovable": 50000000,
+      "vehicles": 3000000,
+      "gold": 2000000,
+      "cash": 500000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "Education Minister",
+      "Odisha",
+      "NEET",
+      "NEP"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Vishnu Deo Sai",
+    "slug": "vishnu-deo-sai",
+    "party": "BJP",
+    "position": "Chief Minister, Chhattisgarh",
+    "state": "Chhattisgarh",
+    "constituency": "Kunkuri",
+    "age": 61,
+    "education": "BA, Govt. College Jashpur",
+    "criminalCases": 0,
+    "assets": 31000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "Maoist Violence in Bastar — State Response",
+        "date": "2023-12-14",
+        "description": "Chhattisgarh CM since Dec 2023 under whom security forces conducted major Maoist operations in Bastar. 200+ Maoists killed in 2024 — highest ever. Opposition and human rights groups allege some were fake encounters.",
+        "source": "https://nhrc.nic.in",
+        "severity": "high"
+      },
+      {
+        "title": "Adivasi Displacement — Mining",
+        "date": "2024-01-01",
+        "description": "Mining expansion in Chhattisgarh's tribal belt continues displacing Adivasi communities. Vishnu Deo Sai, himself a tribal (ST) CM, faces criticism for prioritising corporate mining over tribal forest rights.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Surprise CM — Over Senior BJP Leaders",
+        "date": "2023-12-13",
+        "description": "Installed as CM to fulfil Modi's promise of a tribal CM for CG. Bypassed senior BJP leaders Raman Singh and Brijmohan Agrawal. ST CM status seen as BJP's electoral strategy for tribal votes.",
+        "source": "https://thehindu.com",
+        "severity": "low"
+      }
+    ],
+    "children": [
+      {
+        "name": "Son and daughter",
+        "location": "India",
+        "occupation": "Private"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 21000000,
+      "immovable": 10000000,
+      "vehicles": 1000000,
+      "gold": 500000,
+      "cash": 200000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "Chhattisgarh",
+      "CM",
+      "Tribal",
+      "ST",
+      "NDA"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Abhishek Banerjee",
+    "slug": "abhishek-banerjee",
+    "party": "TMC",
+    "position": "MP Diamond Harbour; TMC National General Secretary; Mamata's nephew",
+    "state": "West Bengal",
+    "constituency": "Diamond Harbour",
+    "age": 37,
+    "education": "BBA, University of London (Distant, Jadavpur campus); MA Politics, Calcutta University",
+    "criminalCases": 3,
+    "assets": 75000000,
+    "liabilities": 2000000,
+    "controversies": [
+      {
+        "title": "Coal Scam — ED Summons",
+        "date": "2021-09-02",
+        "description": "ED summoned Abhishek multiple times in Bengal coal scam involving ₹1,300 crore. His wife Rujira Banerjee (Thai national) also summoned. They challenged summons in SC. Case ongoing.",
+        "source": "https://enforcementdirectorate.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Rujira Banerjee Passport Controversy",
+        "date": "2021-03-01",
+        "description": "Wife Rujira Banerjee (Thai national) obtained Indian passport on address of a relative — scrutinised under passport rules. SC took suo motu cognizance of MEA's permission for travel without passport.",
+        "source": "https://main.sci.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Rapid Rise — Zero-to-National-GS in 5 years",
+        "date": "2019-01-01",
+        "description": "Rose from being a politically unknown young man to General Secretary of national party solely due to being Mamata's nephew. Critics say TMC has become a family party — 'Banerjee Parivar vs Everyone.'",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Son and daughter (young)",
+        "location": "India/Thailand",
+        "occupation": "Children of Abhishek and Rujira (Thai-origin wife)"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 45000000,
+      "immovable": 30000000,
+      "vehicles": 5000000,
+      "gold": 2000000,
+      "cash": 1000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "TMC",
+      "West Bengal",
+      "Dynastic",
+      "ED Probe",
+      "Diamond Harbour"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Aaditya Thackeray",
+    "slug": "aaditya-thackeray",
+    "party": "Shiv Sena (UBT)",
+    "position": "MLA Worli; Yuva Sena President; Uddhav's Son",
+    "state": "Maharashtra",
+    "constituency": "Worli",
+    "age": 34,
+    "education": "BA Politics, University of Mumbai; St. Xavier's College; Yale University (Environment Policy, Short Program)",
+    "criminalCases": 0,
+    "assets": 112000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "Disha Salian Death Mystery",
+        "date": "2020-06-08",
+        "description": "Talent manager Disha Salian died days before actor Sushant Singh Rajput's death. BJP accused Aaditya Thackeray of involvement at a party she attended before her death. Police investigations found no involvement. BJP called it politically motivated after Sena-Congress-NCP alliance formed.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Mahayuti Victory — UBT Struggles",
+        "date": "2024-11-23",
+        "description": "Aaditya won Worli in Nov 2024 Maha elections but UBT won only 20 of 95 seats. The Thackeray political legacy has shrunk dramatically since MVA 2019. Aaditya seen as future UBT leader but faces uphill battle.",
+        "source": "https://electioncommission.gov.in",
+        "severity": "medium"
+      },
+      {
+        "title": "Environmental Activism vs Mumbai Development",
+        "date": "2022-01-01",
+        "description": "As Environment Minister in MVA govt, pushed Coastal Road, Metro projects that environmental groups said harmed Aarey forest and sea ecology. His rhetoric on environment contrasted with policy decisions.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "None (young, unmarried)",
+        "location": "N/A",
+        "occupation": "N/A"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 62000000,
+      "immovable": 50000000,
+      "vehicles": 5000000,
+      "gold": 3000000,
+      "cash": 1000000
+    },
+    "education_abroad": true,
+    "tags": [
+      "Shiv Sena UBT",
+      "Maharashtra",
+      "Worli",
+      "Thackeray Family",
+      "Youth"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Chandrashekhar Azad",
+    "slug": "chandrashekhar-azad",
+    "party": "AzSP",
+    "position": "MP Nagina; Azad Samaj Party (Kanshi Ram) President",
+    "state": "Uttar Pradesh",
+    "constituency": "Nagina",
+    "age": 37,
+    "education": "LLB, incomplete; primarily community organiser",
+    "criminalCases": 7,
+    "assets": 5000000,
+    "liabilities": 100000,
+    "controversies": [
+      {
+        "title": "Bhim Army — Violence Allegations",
+        "date": "2017-05-05",
+        "description": "Bhim Army (which he founded) was accused by UP Police of instigating violence in caste clashes in Saharanpur 2017. Chandrashekhar arrested under NSA, spent 16 months in jail. SC ordered his release. Case seen as political persecution by Dalit rights groups.",
+        "source": "https://main.sci.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Protest at Jantar Mantar",
+        "date": "2020-08-01",
+        "description": "Led demonstrations at Jantar Mantar for Hathras gang-rape victim's justice. Case of Dalit woman who died after rape in UP. UP police handling of case was strongly criticised nationally.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Criminal Cases — All Protest-Related",
+        "date": "2023-01-01",
+        "description": "7 pending criminal cases — all related to Dalit rights protests, demonstrations, and confrontations with UP police during Yogi Adityanath govt. He calls them cases of state repression.",
+        "source": "https://myneta.info/loksabha2024/candidate.php?candidate_id=1",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "None (unmarried)",
+        "location": "N/A",
+        "occupation": "N/A"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 3000000,
+      "immovable": 2000000,
+      "vehicles": 200000,
+      "gold": 0,
+      "cash": 100000
+    },
+    "education_abroad": false,
+    "tags": [
+      "AzSP",
+      "Dalit Rights",
+      "Bhim Army",
+      "UP",
+      "Anti-BJP"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Tejasvi Surya",
+    "slug": "tejasvi-surya",
+    "party": "BJP",
+    "position": "MP Bangalore South; BJYM National President",
+    "state": "Karnataka",
+    "constituency": "Bangalore South",
+    "age": 33,
+    "education": "LLB, R.V. Law College, Bengaluru",
+    "criminalCases": 0,
+    "assets": 40000000,
+    "liabilities": 500000,
+    "controversies": [
+      {
+        "title": "Social Media Communal Posts",
+        "date": "2020-04-01",
+        "description": "Twitter post against Muslim meat traders during COVID lockdown went viral — accused of communal targeting under guise of lockdown enforcement. FIR registered in Karnataka.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      },
+      {
+        "title": "Sexual Harassment Allegations (unproven)",
+        "date": "2021-02-01",
+        "description": "Anonymous allegations on social media about past behaviour. He denied all allegations. No FIR filed, no police investigation.",
+        "source": "https://scroll.in",
+        "severity": "medium"
+      },
+      {
+        "title": "Youngest BJP MP — Rapid Rise",
+        "date": "2019-05-23",
+        "description": "Won Bangalore South at 28 — youngest BJP MP in 2019. Made BJYM (youth wing) president. Critics say rise was more due to ideological alignment with Hindutva than grassroots work.",
+        "source": "https://thehindu.com",
+        "severity": "low"
+      }
+    ],
+    "children": [
+      {
+        "name": "None (unmarried)",
+        "location": "N/A",
+        "occupation": "N/A"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 25000000,
+      "immovable": 15000000,
+      "vehicles": 2000000,
+      "gold": 500000,
+      "cash": 200000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "BJYM",
+      "Karnataka",
+      "Young Leader",
+      "Bangalore"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Anurag Thakur",
+    "slug": "anurag-thakur",
+    "party": "BJP",
+    "position": "MP Hamirpur; Former Sports Minister; BJP Leader",
+    "state": "Himachal Pradesh",
+    "constituency": "Hamirpur",
+    "age": 49,
+    "education": "BA, Doaba College, Jalandhar",
+    "criminalCases": 2,
+    "assets": 132000000,
+    "liabilities": 5000000,
+    "controversies": [
+      {
+        "title": "Anti-Muslim Hate Speech Chant",
+        "date": "2020-01-28",
+        "description": "Led 'desh ke gaddaro ko, goli maaro saalon ko' (shoot the traitors) chant at BJP rally during Delhi elections. SC took suo motu notice. He was removed from campaigning. FIR registered for hate speech incitement (section 153A).",
+        "source": "https://main.sci.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "BCCI Conflict of Interest",
+        "date": "2017-01-01",
+        "description": "Was Himachal Pradesh Cricket Association president while being Union Minister of State for Finance — conflict of interest under BCCI constitution and MCC guidelines. SC-appointed Lodha Committee raised objections.",
+        "source": "https://main.sci.gov.in",
+        "severity": "medium"
+      },
+      {
+        "title": "Dropped from Cabinet After Lok Sabha Loss (indirect)",
+        "date": "2024-06-10",
+        "description": "BJP performed below expectations in HP in 2024 LS. Anurag Thakur, the state BJP's face, was removed from Cabinet by PM Modi — seen as accountability for underperformance in HP.",
+        "source": "https://ndtv.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      {
+        "name": "Son and daughter",
+        "location": "India",
+        "occupation": "Private"
+      }
+    ],
+    "assetBreakdown": {
+      "movable": 82000000,
+      "immovable": 50000000,
+      "vehicles": 5000000,
+      "gold": 2000000,
+      "cash": 1000000
+    },
+    "education_abroad": false,
+    "tags": [
+      "BJP",
+      "HP",
+      "Former Sports Minister",
+      "Hamirpur",
+      "Hate Speech FIR"
+    ]
   }
 ]

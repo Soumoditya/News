@@ -44,9 +44,28 @@ export function getPartyColor(party: string): string {
     TDP: '#FFEB3B',
     AIADMK: '#00BFA5',
     BRS: '#FF6F00',
+    NC: '#00897B',
+    BJD: '#006400',
+    AIMIM: '#006400',
+    RLD: '#FF7043',
+    LJP: '#1976D2',
+    'LJP (RV)': '#1976D2',
+    AzSP: '#4A148C',
+    NPP: '#795548',
+    SHS: '#FF6B00',
     Independent: '#9E9E9E',
   };
   return map[party] || '#888888';
+}
+
+export function getPartyShortName(party: string): string {
+  const map: Record<string, string> = {
+    'Shiv Sena (UBT)': 'SS-UBT',
+    'NCP (SP)': 'NCP-SP',
+    'LJP (RV)': 'LJP-RV',
+    'K. Chandrashekar Rao': 'BRS',
+  };
+  return map[party] || party;
 }
 
 export function timeAgo(dateStr: string): string {

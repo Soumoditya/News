@@ -5,7 +5,7 @@ import { Search, Filter, AlertTriangle, TrendingUp, MapPin, Users } from "lucide
 import politicians from "@/data/politicians.json";
 import { formatINR, getPartyColor, getSeverityColor } from "@/lib/utils";
 
-const PARTIES = ["All", "BJP", "INC", "AAP", "TMC", "SP", "BSP", "RJD", "JDU", "NCP (SP)", "DMK"];
+const PARTIES = ["All", "BJP", "INC", "AAP", "TMC", "SP", "BSP", "RJD", "JDU", "NCP (SP)", "NCP", "DMK", "CPM", "NC", "BRS", "BJD", "TDP", "Shiv Sena", "Shiv Sena (UBT)", "AIMIM", "SAD", "JMM", "RLD", "LJP (RV)", "AzSP"];
 const STATES = ["All", ...Array.from(new Set(politicians.map((p) => p.state))).sort()];
 const SORT_OPTIONS = [
   { value: "criminalCases", label: "Most Cases" },
