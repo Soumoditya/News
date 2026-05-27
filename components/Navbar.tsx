@@ -53,7 +53,7 @@ export default function Navbar() {
             </div>
             <div>
               <div style={{ fontFamily: "'Bebas Neue', sans-serif", fontSize: 22, color: "#fff", letterSpacing: 1, lineHeight: 1 }}>
-                NAGRK<span style={{ color: "#FF6B2B" }}>NAZAR</span>
+                NAGRIK<span style={{ color: "#FF6B2B" }}>NAZAR</span>
               </div>
               <div style={{ fontSize: 9, color: "#888", letterSpacing: 3, textTransform: "uppercase" }}>
                 The Citizen's Eye

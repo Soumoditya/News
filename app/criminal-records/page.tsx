@@ -217,8 +217,44 @@ export default function CriminalRecordsPage() {
         </div>
 
         {/* Source note */}
+        {/* ADR India Link */}
         <div style={{
-          marginTop: "3rem",
+          marginTop: "2rem",
+          padding: "1.25rem 1.5rem",
+          background: "rgba(255,107,43,0.05)",
+          border: "1px solid rgba(255,107,43,0.15)",
+          borderRadius: 12,
+          display: "flex",
+          gap: "1rem",
+          alignItems: "center",
+          flexWrap: "wrap",
+        }}>
+          <div style={{ flex: 1, minWidth: 200 }}>
+            <div style={{ color: "#FF6B2B", fontWeight: 700, fontSize: 14, marginBottom: 4 }}>
+              🔍 Look up any politician's affidavit yourself
+            </div>
+            <div style={{ color: "#666", fontSize: 12 }}>
+              Every criminal case, asset, and liability is self-declared in EC affidavits — publicly accessible.
+            </div>
+          </div>
+          <div style={{ display: "flex", gap: "0.75rem", flexWrap: "wrap" }}>
+            <a href="https://myneta.info" target="_blank" rel="noopener noreferrer"
+              style={{ padding: "8px 16px", background: "rgba(255,107,43,0.15)", border: "1px solid rgba(255,107,43,0.3)", borderRadius: 8, color: "#FF6B2B", textDecoration: "none", fontSize: 13, fontWeight: 600 }}>
+              myneta.info ↗
+            </a>
+            <a href="https://adrindia.org" target="_blank" rel="noopener noreferrer"
+              style={{ padding: "8px 16px", background: "rgba(255,255,255,0.04)", border: "1px solid rgba(255,255,255,0.08)", borderRadius: 8, color: "#888", textDecoration: "none", fontSize: 13 }}>
+              ADR India ↗
+            </a>
+            <a href="https://affidavit.eci.gov.in" target="_blank" rel="noopener noreferrer"
+              style={{ padding: "8px 16px", background: "rgba(255,255,255,0.04)", border: "1px solid rgba(255,255,255,0.08)", borderRadius: 8, color: "#888", textDecoration: "none", fontSize: 13 }}>
+              ECI Affidavits ↗
+            </a>
+          </div>
+        </div>
+
+        <div style={{
+          marginTop: "1.5rem",
           padding: "1.5rem",
           background: "rgba(255,255,255,0.02)",
           border: "1px solid rgba(255,255,255,0.05)",
@@ -227,9 +263,15 @@ export default function CriminalRecordsPage() {
           color: "#555",
           lineHeight: 1.8,
         }}>
-          <strong style={{ color: "#888" }}>Data Sources:</strong> Association for Democratic Reforms (ADR India) — adr-india.org; Election Commission of India affidavits. All data is self-declared by politicians. For national picture: ADR 2024 Lok Sabha election analysis — 251 of 543 elected MPs declared criminal cases in their EC affidavits.
+          <strong style={{ color: "#888" }}>Data Sources:</strong> Association for Democratic Reforms (ADR India) —{" "}
+          <a href="https://adrindia.org" target="_blank" rel="noopener" style={{ color: "#FF6B2B" }}>adrindia.org</a>;{" "}
+          EC Affidavit portal —{" "}
+          <a href="https://affidavit.eci.gov.in" target="_blank" rel="noopener" style={{ color: "#FF6B2B" }}>affidavit.eci.gov.in</a>;{" "}
+          Candidate search —{" "}
+          <a href="https://myneta.info" target="_blank" rel="noopener" style={{ color: "#FF6B2B" }}>myneta.info</a>.
+          All data is self-declared by politicians. ADR 2024 Lok Sabha analysis: 251 of 543 elected MPs declared criminal cases.
           <br /><br />
-          <strong style={{ color: "#888" }}>Legal Note:</strong> Pending criminal cases are not convictions. The data here is publicly available information from government sources. Politicians are presumed innocent until proven guilty.
+          <strong style={{ color: "#888" }}>Legal Note:</strong> Pending cases ≠ convictions. Politicians are presumed innocent until proven guilty by a court of law.
         </div>
       </div>
 

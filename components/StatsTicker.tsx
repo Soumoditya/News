@@ -1,18 +1,24 @@
 "use client";
 
 const TICKER_ITEMS = [
-  "🔴 251 out of 543 Lok Sabha MPs have declared criminal cases",
-  "🟠 46% of elected representatives have pending cases",
-  "⚠️ Electoral Bonds declared unconstitutional by Supreme Court — ₹16,518 Cr collected",
-  "💰 Union Budget 2024-25: ₹47.96 Lakh Crore",
-  "🔴 ₹11.3 Lakh Crore goes to interest payments — 23.5% of budget",
-  "📊 Lalu Prasad Yadav: 59 pending criminal cases — convicted in Fodder Scam",
-  "🔴 Sandeshkhali: CBI investigating TMC leader Sheikh Shahjahan for atrocities",
-  "💼 Mayawati's declared assets: ₹112 Crore",
-  "⚠️ Pegasus spyware: 300+ Indian phone numbers targeted including journalists, opposition",
-  "🟠 Delhi Excise Scam: Kejriwal granted bail by Supreme Court",
-  "📈 India GDP 2024-25: ₹329 Lakh Crore",
-  "🔴 Manipur violence: 200+ killed, 60,000+ displaced since May 2023",
+  "🔴 251 out of 543 Lok Sabha MPs have declared criminal cases in EC affidavits — Source: ADR India 2024",
+  "🟠 46% of elected MPs in 18th Lok Sabha have pending criminal cases",
+  "⚠️ SC struck down Electoral Bonds Feb 2024 — ₹16,518 Cr raised by parties via opaque bonds",
+  "💰 Union Budget 2024-25: ₹47.96 Lakh Crore total expenditure",
+  "🔴 ₹11.3 Lakh Crore (23.5% of budget) goes to interest payments on govt debt",
+  "📊 Lalu Prasad Yadav: 59 pending cases — convicted in 4 Fodder Scam judgments",
+  "🔴 WB Teacher Scam: SC cancelled 25,753 illegal appointments — ₹50 Cr cash seized",
+  "💼 Mayawati self-declared assets: ₹112 Crore in 2022 EC affidavit",
+  "⚠️ Pegasus spyware: 300+ Indian numbers targeted — journalists, opposition, activists",
+  "🟠 Delhi Excise Scam: Kejriwal arrested March 2024, SC bail. AAP lost Delhi Feb 2025.",
+  "📈 India GDP 2024-25: ₹329 Lakh Crore — 5th largest economy globally",
+  "🔴 Manipur ethnic violence: 200+ killed, 60,000+ displaced since May 2023 — still ongoing",
+  "🏛️ SC Bulldozer Justice ruling Oct 2024 — executive cannot demolish homes as punishment",
+  "⚖️ Hemant Soren (Jharkhand CM) arrested by ED Jan 2024 — released June 2024, re-elected Nov 2024",
+  "🟠 Rahul Gandhi is LoP in 18th Lok Sabha — first Congress LoP since 2014",
+  "💰 23 states have debt-to-GSDP ratio above 30% — financial stress mounting",
+  "🔴 India ranked 159/180 in Press Freedom Index 2024 — Reporters Without Borders",
+  "📊 Priyanka Gandhi Vadra won Wayanad bypoll Nov 2024 — first-time MP",
 ];
 
 export default function StatsTicker() {
@@ -78,7 +84,7 @@ export default function StatsTicker() {
             gap: "4rem",
             whiteSpace: "nowrap",
             width: "max-content",
-            animation: "ticker 60s linear infinite",
+            animation: "ticker 80s linear infinite",
           }}
         >
           {doubled.map((item, i) => (

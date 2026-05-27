@@ -273,24 +273,27 @@ export default function PoliticiansPage() {
                     </div>
                   )}
 
-                  {/* Children info */}
-                  {p.children.some((c: any) => c.location !== "India" && c.location !== "N/A") && (
+                  {/* Family Abroad badge */}
+                  {p.education_abroad && p.children.some((c: any) => c.location !== "India" && c.location !== "N/A" && !c.location.startsWith("Bihar") && !c.location.startsWith("India")) && (
                     <div style={{
-                      display: "flex",
-                      alignItems: "center",
-                      gap: 6,
-                      fontSize: 11,
-                      color: "#888",
-                      padding: "0.5rem",
-                      background: "rgba(255,183,3,0.05)",
-                      border: "1px solid rgba(255,183,3,0.15)",
-                      borderRadius: 6,
+                      padding: "0.6rem 0.75rem",
+                      background: "rgba(255,183,3,0.08)",
+                      border: "1px solid rgba(255,183,3,0.25)",
+                      borderRadius: 8,
                     }}>
-                      <Users size={11} color="#FFB703" />
-                      <span style={{ color: "#FFB703" }}>Children/Family abroad:</span>
-                      {p.children.filter((c: any) => c.location !== "India" && c.location !== "N/A").map((c: any, i: number) => (
-                        <span key={i}>{c.location}</span>
-                      ))}
+                      <div style={{ display: "flex", alignItems: "center", gap: 6, marginBottom: "0.3rem" }}>
+                        <Users size={11} color="#FFB703" />
+                        <span style={{ color: "#FFB703", fontSize: 11, fontWeight: 700, letterSpacing: 0.5 }}>FAMILY ABROAD</span>
+                      </div>
+                      <div style={{ display: "flex", flexWrap: "wrap", gap: 4 }}>
+                        {p.children
+                          .filter((c: any) => c.location !== "India" && c.location !== "N/A" && !c.location.startsWith("Bihar") && !c.location.startsWith("India"))
+                          .map((c: any, i: number) => (
+                            <span key={i} style={{ fontSize: 11, color: "#999", background: "rgba(255,183,3,0.06)", padding: "2px 6px", borderRadius: 4 }}>
+                              ✈️ {c.location.split("(")[0].trim()}
+                            </span>
+                          ))}
+                      </div>
                     </div>
                   )}
                 </div>
