@@ -9,8 +9,9 @@ const links = [
   { href: "/parties", label: "Parties" },
   { href: "/criminal-records", label: "Criminal Records" },
   { href: "/controversies", label: "Controversies" },
-  { href: "/budget", label: "Budget Tracker" },
-  { href: "/news", label: "Live News" },
+  { href: "/budget", label: "Budget" },
+  { href: "/glossary", label: "🎓 Glossary" },
+  { href: "/news", label: "News" },
 ];
 
 export default function Navbar() {

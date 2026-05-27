@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import { AlertTriangle, TrendingUp, Users, Gavel, IndianRupee, Newspaper, ArrowRight, Shield, ChevronRight } from "lucide-react";
+import { AlertTriangle, TrendingUp, Users, Gavel, IndianRupee, Newspaper, ArrowRight, Shield, ChevronRight, BookOpen } from "lucide-react";
 import politicians from "@/data/politicians.json";
 import parties from "@/data/parties.json";
 import controversies from "@/data/controversies.json";
@@ -8,6 +8,7 @@ import { formatCrore, getPartyColor, getSeverityColor } from "@/lib/utils";
 import StatsTicker from "@/components/StatsTicker";
 import HeroSection from "@/components/HeroSection";
 import AnimatedSection from "@/components/AnimatedSection";
+import InteractiveCharts from "@/components/InteractiveCharts";
 
 const totalCriminalMPs = 251;
 const totalMPs = 543;
@@ -24,6 +25,71 @@ export default function HomePage() {
     <>
       <HeroSection />
       <StatsTicker />
+
+      {/* Start Here — Beginner's Guide */}
+      <section style={{ padding: "3rem 1.5rem 0", maxWidth: 1400, margin: "0 auto" }}>
+        <div style={{
+          background: "linear-gradient(135deg, rgba(107,123,232,0.08), rgba(6,182,212,0.05))",
+          border: "1px solid rgba(107,123,232,0.2)",
+          borderRadius: 20,
+          padding: "2rem",
+          display: "grid",
+          gridTemplateColumns: "auto 1fr",
+          gap: "1.5rem",
+          alignItems: "flex-start",
+        }} className="guide-grid">
+          <div style={{
+            width: 56, height: 56, borderRadius: 14,
+            background: "rgba(107,123,232,0.2)",
+            display: "flex", alignItems: "center", justifyContent: "center",
+            fontSize: 28, flexShrink: 0,
+          }}>🎓</div>
+          <div>
+            <div style={{ fontSize: 11, letterSpacing: 3, color: "#6B7BE8", textTransform: "uppercase", marginBottom: "0.4rem" }}>
+              New to Indian Politics?
+            </div>
+            <h2 style={{ color: "#fff", fontWeight: 700, fontSize: 18, marginBottom: "0.75rem" }}>
+              Don't know what CBI, ED, CAG, or Electoral Bonds mean? Start here.
+            </h2>
+            <p style={{ color: "#888", fontSize: 13, lineHeight: 1.7, marginBottom: "1rem", maxWidth: 650 }}>
+              This platform is for everyone — from political veterans to first-time voters. Our Glossary explains every term in plain language with real examples.
+              Understand what a "pending case" means, how party funds work, and why some politicians have 50+ FIRs.
+            </p>
+            <div style={{ display: "flex", gap: "0.75rem", flexWrap: "wrap" }}>
+              <Link href="/glossary" style={{
+                background: "rgba(107,123,232,0.2)",
+                border: "1px solid rgba(107,123,232,0.4)",
+                color: "#6B7BE8",
+                padding: "10px 20px",
+                borderRadius: 8,
+                textDecoration: "none",
+                fontWeight: 700,
+                fontSize: 13,
+                display: "flex",
+                alignItems: "center",
+                gap: 6,
+              }}>
+                <BookOpen size={15} /> Open Glossary
+              </Link>
+              <div style={{ display: "flex", gap: 6, flexWrap: "wrap", alignItems: "center" }}>
+                {["What is CBI?", "What is ED?", "Electoral Bonds", "Pending cases ≠ conviction"].map((item) => (
+                  <Link key={item} href="/glossary" style={{
+                    padding: "6px 12px",
+                    borderRadius: 6,
+                    border: "1px solid rgba(107,123,232,0.15)",
+                    color: "#888",
+                    textDecoration: "none",
+                    fontSize: 12,
+                    background: "rgba(107,123,232,0.04)",
+                  }}>
+                    {item}
+                  </Link>
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
       {/* Key Statistics */}
       <section style={{ padding: "5rem 1.5rem", maxWidth: 1400, margin: "0 auto" }}>
@@ -140,6 +206,11 @@ export default function HomePage() {
             </Link>
           ))}
         </div>
+      </section>
+
+      {/* Interactive Charts */}
+      <section style={{ padding: "0 1.5rem 3rem", maxWidth: 1400, margin: "0 auto" }}>
+        <InteractiveCharts />
       </section>
 
       {/* Most Wanted — Politicians with Most Cases */}
@@ -551,6 +622,7 @@ export default function HomePage() {
       <style>{`
         @media (max-width: 768px) {
           .budget-grid { grid-template-columns: 1fr !important; }
+          .guide-grid { grid-template-columns: 1fr !important; }
         }
       `}</style>
     </>
