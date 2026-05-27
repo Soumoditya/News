@@ -8,6 +8,21 @@ export function generateStaticParams() {
   return politicians.map((p) => ({ slug: p.slug }));
 }
 
+function getCountryFlag(location: string): string {
+  if (!location || location === "N/A" || location === "India") return "🇮🇳";
+  const loc = location.toLowerCase();
+  if (loc.includes("usa") || loc.includes("united states") || loc.includes("us ")) return "🇺🇸";
+  if (loc.includes("uk") || loc.includes("united kingdom") || loc.includes("britain") || loc.includes("england") || loc.includes("scotland")) return "🇬🇧";
+  if (loc.includes("australia")) return "🇦🇺";
+  if (loc.includes("canada")) return "🇨🇦";
+  if (loc.includes("singapore")) return "🇸🇬";
+  if (loc.includes("germany")) return "🇩🇪";
+  if (loc.includes("france")) return "🇫🇷";
+  if (loc.includes("cambridge") || loc.includes("oxford")) return "🇬🇧";
+  if (loc.includes("international")) return "🌍";
+  return "🌍";
+}
+
 export default function PoliticianPage({ params }: { params: { slug: string } }) {
   const p = politicians.find((x) => x.slug === params.slug);
   if (!p) notFound();
@@ -21,6 +36,10 @@ export default function PoliticianPage({ params }: { params: { slug: string } })
     { label: "Gold & Jewellery", value: p.assetBreakdown.gold, icon: "💎" },
     { label: "Cash in Hand", value: p.assetBreakdown.cash, icon: "💵" },
   ];
+
+  const familyAbroad = p.children.filter(
+    (c: any) => c.location && c.location !== "India" && c.location !== "N/A" && !c.location.startsWith("Bihar") && !c.location.startsWith("India")
+  );
 
   return (
     <div style={{ minHeight: "100vh", paddingTop: 64 }}>
@@ -77,6 +96,17 @@ export default function PoliticianPage({ params }: { params: { slug: string } })
                     fontWeight: 700,
                   }}>{p.criminalCases} Criminal Cases</span>
                 )}
+                {p.education_abroad && (
+                  <span style={{
+                    background: "rgba(255,183,3,0.15)",
+                    border: "1px solid rgba(255,183,3,0.3)",
+                    color: "#FFB703",
+                    padding: "4px 14px",
+                    borderRadius: 6,
+                    fontSize: 13,
+                    fontWeight: 700,
+                  }}>✈️ Family Abroad</span>
+                )}
               </div>
 
               <h1 style={{
@@ -113,7 +143,7 @@ export default function PoliticianPage({ params }: { params: { slug: string } })
             { icon: <Gavel size={24} color="#E63946" />, val: p.criminalCases, label: "Criminal Cases", color: "#E63946", big: true },
             { icon: <TrendingUp size={24} color="#FFB703" />, val: formatINR(totalAssets), label: "Total Assets", color: "#FFB703", big: false },
             { icon: <AlertTriangle size={24} color="#FF6B2B" />, val: p.controversies.length, label: "Controversies", color: "#FF6B2B", big: true },
-            { icon: <Users size={24} color="#06b6d4" />, val: p.children.filter((c: any) => c.location !== "India" && c.location !== "N/A").length, label: "Family Abroad", color: "#06b6d4", big: true },
+            { icon: <Users size={24} color="#06b6d4" />, val: familyAbroad.length, label: "Family Abroad", color: "#06b6d4", big: true },
           ].map((s, i) => (
             <div key={i} style={{
               padding: "1.5rem",
@@ -238,13 +268,16 @@ export default function PoliticianPage({ params }: { params: { slug: string } })
                 borderRadius: 12,
               }}>
                 {p.children.map((c: any, i: number) => {
-                  const isAbroad = c.location && c.location !== "India" && c.location !== "N/A" && c.location !== "N/A (monk)";
+                  const isAbroad = c.location && c.location !== "India" && c.location !== "N/A" && !c.location.startsWith("Bihar") && !c.location.startsWith("India");
+                  const flag = getCountryFlag(c.location);
                   return (
                     <div key={i} style={{
                       padding: "1rem 0",
                       borderBottom: i < p.children.length - 1 ? "1px solid rgba(255,255,255,0.04)" : "none",
                     }}>
-                      <div style={{ color: "#fff", fontWeight: 700, fontSize: 15, marginBottom: "0.4rem" }}>{c.name}</div>
+                      <div style={{ color: "#fff", fontWeight: 700, fontSize: 15, marginBottom: "0.4rem" }}>
+                        {flag} {c.name}
+                      </div>
                       <div style={{ display: "flex", gap: "1rem", fontSize: 13, marginBottom: c.note ? "0.5rem" : 0, flexWrap: "wrap" }}>
                         <span style={{ color: isAbroad ? "#FFB703" : "#666", fontWeight: isAbroad ? 600 : 400 }}>
                           {isAbroad ? "🌍" : "📍"} {c.location}
@@ -280,6 +313,56 @@ export default function PoliticianPage({ params }: { params: { slug: string } })
                 * Family information compiled from EC affidavits, official interviews &amp; public records
               </div>
             </div>
+
+            {/* Family Abroad Detail Section */}
+            {familyAbroad.length > 0 && (
+              <div>
+                <h2 style={{ fontFamily: "'Bebas Neue', sans-serif", fontSize: 28, color: "#fff", letterSpacing: 1, marginBottom: "1.5rem", display: "flex", alignItems: "center", gap: 10 }}>
+                  <Users size={22} color="#FFB703" />
+                  FAMILY ABROAD
+                </h2>
+                <div style={{
+                  padding: "1.5rem",
+                  background: "rgba(255,183,3,0.04)",
+                  border: "2px solid rgba(255,183,3,0.25)",
+                  borderRadius: 12,
+                }}>
+                  <div style={{ fontSize: 12, color: "#888", marginBottom: "1.25rem", lineHeight: 1.7, padding: "0.75rem", background: "rgba(255,183,3,0.06)", borderRadius: 6 }}>
+                    ⚠️ These family members live or study outside India while this leader holds public office in India — a detail that matters for accountability and anti-corruption scrutiny.
+                  </div>
+                  <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+                    {familyAbroad.map((c: any, i: number) => {
+                      const flag = getCountryFlag(c.location);
+                      return (
+                        <div key={i} style={{
+                          display: "grid",
+                          gridTemplateColumns: "auto 1fr",
+                          gap: "1rem",
+                          padding: "1.25rem",
+                          background: "rgba(255,183,3,0.06)",
+                          border: "1px solid rgba(255,183,3,0.15)",
+                          borderRadius: 10,
+                        }}>
+                          <div style={{ fontSize: 42, lineHeight: 1 }}>{flag}</div>
+                          <div>
+                            <div style={{ color: "#fff", fontWeight: 700, fontSize: 16, marginBottom: "0.35rem" }}>{c.name}</div>
+                            <div style={{ color: "#FFB703", fontSize: 13, fontWeight: 600, marginBottom: "0.25rem" }}>📍 {c.location}</div>
+                            {c.occupation && c.occupation !== "N/A" && (
+                              <div style={{ color: "#888", fontSize: 12, marginBottom: c.note ? "0.4rem" : 0 }}>💼 {c.occupation}</div>
+                            )}
+                            {c.note && (
+                              <div style={{ fontSize: 11, color: "#666", fontStyle: "italic", lineHeight: 1.6, marginTop: "0.25rem", borderTop: "1px solid rgba(255,255,255,0.05)", paddingTop: "0.4rem" }}>
+                                ℹ️ {c.note}
+                              </div>
+                            )}
+                          </div>
+                        </div>
+                      );
+                    })}
+                  </div>
+                </div>
+              </div>
+            )}
 
             {/* Tags */}
             <div>

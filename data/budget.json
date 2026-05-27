@@ -51,6 +51,7 @@
       "responsible_cm": "Yogi Adityanath",
       "responsible_party": "BJP",
       "districts": 75,
+      "note": "₹1.23 lakh crore in unpaid dues to contractors as of 2024. 45% of projects delayed beyond original deadline.",
       "key_projects": [
         { "name": "Expressway Network", "cost_cr": 45000, "progress_pct": 78, "status": "ongoing" },
         { "name": "Ganga Expressway", "cost_cr": 36230, "progress_pct": 92, "status": "ongoing" },
@@ -191,6 +192,7 @@
       "responsible_cm": "Mamata Banerjee",
       "responsible_party": "TMC",
       "districts": 23,
+      "note": "CAG flagged ₹3,000 crore unspent in school infrastructure. Teacher scam drained recruitment credibility.",
       "key_projects": [
         { "name": "Kolkata Metro Extension", "cost_cr": 8000, "progress_pct": 60, "status": "ongoing" },
         { "name": "Tajpur Deep Sea Port", "cost_cr": 15000, "progress_pct": 15, "status": "delayed" }
