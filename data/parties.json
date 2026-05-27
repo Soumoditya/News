@@ -1,0 +1,283 @@
+[
+  {
+    "id": 1,
+    "name": "Bharatiya Janata Party",
+    "abbr": "BJP",
+    "slug": "bjp",
+    "color": "#FF9933",
+    "founded": 1980,
+    "ideology": "Hindu Nationalism, Right-Wing, Economic Liberalism",
+    "president": "J.P. Nadda",
+    "symbol": "Lotus",
+    "currentSeats": 240,
+    "totalSeats": 543,
+    "alliance": "NDA",
+    "headquarters": "New Delhi",
+    "members_with_criminal_cases": 87,
+    "total_members_checked": 240,
+    "total_assets_cr": 6046,
+    "avg_assets_cr": 25.2,
+    "key_leaders": ["Narendra Modi", "Amit Shah", "J.P. Nadda", "Yogi Adityanath", "Smriti Irani", "Rajnath Singh"],
+    "major_schemes": [
+      { "name": "PM Jan Dhan Yojana", "beneficiaries": "520M+", "year": 2014 },
+      { "name": "PM Awas Yojana", "beneficiaries": "40M+ houses", "year": 2016 },
+      { "name": "Swachh Bharat Mission", "beneficiaries": "600M+", "year": 2014 },
+      { "name": "PM Kisan Samman Nidhi", "beneficiaries": "110M+", "year": 2019 }
+    ],
+    "controversies": [
+      "Electoral Bond Scheme (SC declared unconstitutional 2024)",
+      "CAA-NRC protests and minorities concerns",
+      "Pegasus spyware surveillance allegations",
+      "Manipur ethnic violence 2023",
+      "Press Freedom Index decline"
+    ],
+    "scandals": [
+      { "name": "Electoral Bond Quid Pro Quo", "amount_cr": 8000, "year": 2024 },
+      { "name": "Vyapam Scam (MP)", "amount_cr": 2000, "year": 2015 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Indian National Congress",
+    "abbr": "INC",
+    "slug": "congress",
+    "color": "#138808",
+    "founded": 1885,
+    "ideology": "Social Democracy, Secularism, Centrism",
+    "president": "Mallikarjun Kharge",
+    "symbol": "Hand",
+    "currentSeats": 99,
+    "totalSeats": 543,
+    "alliance": "INDIA",
+    "headquarters": "New Delhi",
+    "members_with_criminal_cases": 31,
+    "total_members_checked": 99,
+    "total_assets_cr": 3456,
+    "avg_assets_cr": 34.9,
+    "key_leaders": ["Rahul Gandhi", "Mallikarjun Kharge", "Priyanka Gandhi", "Sonia Gandhi", "P. Chidambaram"],
+    "major_schemes": [
+      { "name": "MGNREGS", "beneficiaries": "100M+", "year": 2005 },
+      { "name": "RTI Act", "beneficiaries": "1.4B", "year": 2005 },
+      { "name": "National Food Security Act", "beneficiaries": "800M+", "year": 2013 }
+    ],
+    "controversies": [
+      "2G Spectrum Scam (UPA 2)",
+      "Coalgate Scam (UPA 2)",
+      "Commonwealth Games Corruption 2010",
+      "Robert Vadra land deals",
+      "National Herald case"
+    ],
+    "scandals": [
+      { "name": "2G Spectrum Scam", "amount_cr": 176000, "year": 2008 },
+      { "name": "Coalgate Scam", "amount_cr": 185000, "year": 2012 },
+      { "name": "Commonwealth Games", "amount_cr": 70000, "year": 2010 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Samajwadi Party",
+    "abbr": "SP",
+    "slug": "sp",
+    "color": "#E30611",
+    "founded": 1992,
+    "ideology": "Social Democracy, Secularism, OBC Welfare",
+    "president": "Akhilesh Yadav",
+    "symbol": "Cycle",
+    "currentSeats": 37,
+    "totalSeats": 543,
+    "alliance": "INDIA",
+    "headquarters": "Lucknow",
+    "members_with_criminal_cases": 22,
+    "total_members_checked": 37,
+    "total_assets_cr": 890,
+    "avg_assets_cr": 24.1,
+    "key_leaders": ["Akhilesh Yadav", "Dimple Yadav", "Ramgopal Yadav", "Azam Khan"],
+    "major_schemes": [
+      { "name": "Kanya Vidya Dhan", "beneficiaries": "1.5M girls", "year": 2012 },
+      { "name": "Samajwadi Pension Scheme", "beneficiaries": "4M+", "year": 2014 }
+    ],
+    "controversies": [
+      "Mining mafia connections",
+      "Muzaffarnagar riots 2013",
+      "Goonda tax allegations",
+      "Azam Khan multiple cases (sexual harassment, corruption)"
+    ],
+    "scandals": [
+      { "name": "Illegal Mining Scam", "amount_cr": 5000, "year": 2015 },
+      { "name": "Azam Khan Land Grab", "amount_cr": 200, "year": 2019 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "All India Trinamool Congress",
+    "abbr": "TMC",
+    "slug": "tmc",
+    "color": "#20BEF0",
+    "founded": 1998,
+    "ideology": "Social Democracy, Regionalism, Secularism",
+    "president": "Mamata Banerjee",
+    "symbol": "Flowers and Grass",
+    "currentSeats": 29,
+    "totalSeats": 543,
+    "alliance": "INDIA",
+    "headquarters": "Kolkata",
+    "members_with_criminal_cases": 19,
+    "total_members_checked": 29,
+    "total_assets_cr": 670,
+    "avg_assets_cr": 23.1,
+    "key_leaders": ["Mamata Banerjee", "Abhishek Banerjee", "Derek O'Brien", "Sudip Bandyopadhyay"],
+    "major_schemes": [
+      { "name": "Lakshmir Bhandar", "beneficiaries": "20M+ women", "year": 2021 },
+      { "name": "Duare Sarkar", "beneficiaries": "100M+", "year": 2020 },
+      { "name": "Kanyashree", "beneficiaries": "8M+ girls", "year": 2013 }
+    ],
+    "controversies": [
+      "Rose Valley & Saradha chit fund scam",
+      "Narada sting operation",
+      "Sandeshkhali atrocities 2024",
+      "RG Kar hospital rape-murder 2024",
+      "Post-poll violence 2021"
+    ],
+    "scandals": [
+      { "name": "Saradha Chit Fund", "amount_cr": 2500, "year": 2013 },
+      { "name": "Rose Valley Ponzi", "amount_cr": 17000, "year": 2015 },
+      { "name": "Narada Sting", "amount_cr": 100, "year": 2016 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Aam Aadmi Party",
+    "abbr": "AAP",
+    "slug": "aap",
+    "color": "#0066CC",
+    "founded": 2012,
+    "ideology": "Anti-corruption, Social Democracy, Progressive",
+    "president": "Arvind Kejriwal",
+    "symbol": "Broom",
+    "currentSeats": 3,
+    "totalSeats": 543,
+    "alliance": "INDIA",
+    "headquarters": "New Delhi",
+    "members_with_criminal_cases": 8,
+    "total_members_checked": 22,
+    "total_assets_cr": 234,
+    "avg_assets_cr": 10.6,
+    "key_leaders": ["Arvind Kejriwal", "Bhagwant Mann", "Manish Sisodia", "Atishi Marlena", "Raghav Chadha"],
+    "major_schemes": [
+      { "name": "Free Electricity (Delhi 200 units)", "beneficiaries": "5M households", "year": 2015 },
+      { "name": "Mohalla Clinics", "beneficiaries": "500+ clinics", "year": 2015 },
+      { "name": "Delhi Govt Schools Upgrade", "beneficiaries": "1M+ students", "year": 2016 }
+    ],
+    "controversies": [
+      "Delhi Excise Policy Scam — Kejriwal arrested",
+      "Sisodia arrested (excise policy)",
+      "Sheesh Mahal renovation controversy",
+      "Multiple MLAs with cases",
+      "Punjab drug & mining scams allegations"
+    ],
+    "scandals": [
+      { "name": "Delhi Excise Scam", "amount_cr": 100, "year": 2022 },
+      { "name": "Sheesh Mahal Renovation", "amount_cr": 33, "year": 2022 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Bahujan Samaj Party",
+    "abbr": "BSP",
+    "slug": "bsp",
+    "color": "#0F00B5",
+    "founded": 1984,
+    "ideology": "Dalit Rights, Social Justice, Ambedkarite",
+    "president": "Mayawati",
+    "symbol": "Elephant",
+    "currentSeats": 0,
+    "totalSeats": 543,
+    "alliance": "None",
+    "headquarters": "Lucknow",
+    "members_with_criminal_cases": 2,
+    "total_members_checked": 10,
+    "total_assets_cr": 456,
+    "avg_assets_cr": 45.6,
+    "key_leaders": ["Mayawati", "Satish Chandra Mishra", "Danish Ali"],
+    "major_schemes": [
+      { "name": "Ambedkar Villages Program", "beneficiaries": "15,000+ villages", "year": 2007 },
+      { "name": "Mahamaya Garib Arthik Madad Yojana", "beneficiaries": "Millions", "year": 2007 }
+    ],
+    "controversies": [
+      "Mayawati disproportionate assets",
+      "Taj Corridor scam",
+      "BSP fund collection methodology",
+      "Statues & memorials spending controversy"
+    ],
+    "scandals": [
+      { "name": "Taj Heritage Corridor", "amount_cr": 175, "year": 2002 },
+      { "name": "Disproportionate Assets Case", "amount_cr": 1000, "year": 2010 }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Rashtriya Janata Dal",
+    "abbr": "RJD",
+    "slug": "rjd",
+    "color": "#22AA00",
+    "founded": 1997,
+    "ideology": "Social Democracy, OBC-Muslim-Dalit Alliance",
+    "president": "Lalu Prasad Yadav",
+    "symbol": "Hurricane Lamp",
+    "currentSeats": 4,
+    "totalSeats": 543,
+    "alliance": "INDIA",
+    "headquarters": "Patna",
+    "members_with_criminal_cases": 8,
+    "total_members_checked": 4,
+    "total_assets_cr": 234,
+    "avg_assets_cr": 58.5,
+    "key_leaders": ["Lalu Prasad Yadav", "Tejashwi Yadav", "Misa Bharti", "Tej Pratap Yadav"],
+    "major_schemes": [
+      { "name": "Railway Expansion (Lalu era)", "beneficiaries": "Millions", "year": 2004 }
+    ],
+    "controversies": [
+      "Fodder Scam — Lalu convicted",
+      "Jungle Raj (1990-97 Bihar)",
+      "Land-for-job scam",
+      "Dynasty politics"
+    ],
+    "scandals": [
+      { "name": "Fodder Scam", "amount_cr": 950, "year": 1996 },
+      { "name": "Land for Job Scam", "amount_cr": 50, "year": 2022 }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Dravida Munnetra Kazhagam",
+    "abbr": "DMK",
+    "slug": "dmk",
+    "color": "#CC0000",
+    "founded": 1949,
+    "ideology": "Dravidian Politics, Social Justice, Federalism",
+    "president": "M.K. Stalin",
+    "symbol": "Rising Sun",
+    "currentSeats": 22,
+    "totalSeats": 543,
+    "alliance": "INDIA",
+    "headquarters": "Chennai",
+    "members_with_criminal_cases": 11,
+    "total_members_checked": 22,
+    "total_assets_cr": 560,
+    "avg_assets_cr": 25.5,
+    "key_leaders": ["M.K. Stalin", "Udhayanidhi Stalin", "Kanimozhi", "T.R. Baalu"],
+    "major_schemes": [
+      { "name": "Kalaignar Magalir Urimai Thittam (₹1000/month women)", "beneficiaries": "10M women", "year": 2023 },
+      { "name": "Tamil Nadu Breakfast Scheme", "beneficiaries": "1.7M students", "year": 2022 }
+    ],
+    "controversies": [
+      "2G Spectrum Scam (A. Raja, DMK minister)",
+      "Udhayanidhi as minister despite no political experience",
+      "Kanimozhi 2G scam accused (later acquitted)",
+      "Dynasty politics criticism"
+    ],
+    "scandals": [
+      { "name": "2G Spectrum (A. Raja)", "amount_cr": 176000, "year": 2008 }
+    ]
+  }
+]

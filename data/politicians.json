@@ -1,0 +1,601 @@
+[
+  {
+    "id": 1,
+    "name": "Narendra Modi",
+    "slug": "narendra-modi",
+    "party": "BJP",
+    "position": "Prime Minister of India",
+    "state": "Gujarat",
+    "constituency": "Varanasi",
+    "age": 73,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Modi_cropped.jpg/440px-Modi_cropped.jpg",
+    "education": "MA Political Science (Distance), Gujarat University",
+    "criminalCases": 0,
+    "assets": 3200000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "2002 Gujarat Riots",
+        "date": "2002-02-27",
+        "description": "Accused of complicity in the 2002 Gujarat communal riots that killed 1,000+. Supreme Court gave him clean chit in 2022.",
+        "source": "https://www.supremecourt.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Electoral Bond Scheme",
+        "date": "2018-01-02",
+        "description": "Introduced Electoral Bond scheme declared unconstitutional by Supreme Court in 2024 for lack of transparency.",
+        "source": "https://www.sci.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Demonetisation",
+        "date": "2016-11-08",
+        "description": "Unilateral demonetisation of ₹500 and ₹1000 notes caused massive economic disruption, 100+ deaths, long queues.",
+        "source": "https://rbi.org.in",
+        "severity": "high"
+      },
+      {
+        "title": "MGNREGS Budget Cuts",
+        "date": "2022-02-01",
+        "description": "Reduced MGNREGS (rural employment) budget by ₹25,000 crore amid high unemployment.",
+        "source": "https://indiabudget.gov.in",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      { "name": "None (married 1968, separated)", "location": "India", "occupation": "N/A" }
+    ],
+    "assetBreakdown": {
+      "movable": 1200000,
+      "immovable": 2000000,
+      "vehicles": 0,
+      "gold": 0,
+      "cash": 52000
+    },
+    "education_abroad": false,
+    "tags": ["PM", "BJP", "OBC", "Gujarat"]
+  },
+  {
+    "id": 2,
+    "name": "Rahul Gandhi",
+    "slug": "rahul-gandhi",
+    "party": "INC",
+    "position": "Leader of Opposition, MP Wayanad",
+    "state": "Kerala",
+    "constituency": "Wayanad",
+    "age": 53,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rahul_Gandhi.jpg/440px-Rahul_Gandhi.jpg",
+    "education": "MPhil, Trinity College, Cambridge University",
+    "criminalCases": 4,
+    "assets": 150000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "Rafale Deal Allegations",
+        "date": "2018-09-28",
+        "description": "Alleged wrongdoing in Rafale fighter jet procurement. SC gave clean chit to government. Gandhi's comments in SC drawn as contempt.",
+        "source": "https://www.supremecourt.gov.in",
+        "severity": "medium"
+      },
+      {
+        "title": "Criminal Defamation - Modi Surname",
+        "date": "2023-02-10",
+        "description": "Convicted by Surat court for criminal defamation for 'Modi surname thieves' remark. Disqualified as MP for 2 months.",
+        "source": "https://timesofindia.com",
+        "severity": "high"
+      },
+      {
+        "title": "Bharat Jodo Yatra Political Drama",
+        "date": "2022-09-07",
+        "description": "Critics called Bharat Jodo march political stunt amid party organisational weaknesses.",
+        "source": "https://ndtv.com",
+        "severity": "low"
+      }
+    ],
+    "children": [
+      { "name": "None (unmarried)", "location": "India", "occupation": "N/A" }
+    ],
+    "assetBreakdown": {
+      "movable": 50000000,
+      "immovable": 100000000,
+      "vehicles": 2800000,
+      "gold": 0,
+      "cash": 200000
+    },
+    "education_abroad": true,
+    "tags": ["LoP", "INC", "Wayanad", "Gandhi Family"]
+  },
+  {
+    "id": 3,
+    "name": "Arvind Kejriwal",
+    "slug": "arvind-kejriwal",
+    "party": "AAP",
+    "position": "Former CM Delhi, MP (Candidate)",
+    "state": "Delhi",
+    "constituency": "New Delhi",
+    "age": 55,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arvind_Kejriwal_-_2023.jpg/440px-Arvind_Kejriwal_-_2023.jpg",
+    "education": "B.Tech Mechanical Engineering, IIT Kharagpur",
+    "criminalCases": 12,
+    "assets": 8500000,
+    "liabilities": 200000,
+    "controversies": [
+      {
+        "title": "Delhi Excise Policy Scam",
+        "date": "2022-08-19",
+        "description": "CBI and ED alleged ₹100 crore scam in new excise policy. Kejriwal arrested March 2024, granted bail by SC.",
+        "source": "https://cbi.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Sheesh Mahal Controversy",
+        "date": "2022-09-01",
+        "description": "BJP alleged ₹33 crore spent on CM's official bungalow renovation (called 'Sheesh Mahal'). CAG report flagged irregularities.",
+        "source": "https://cag.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Promise vs Reality: Free Electricity",
+        "date": "2020-02-11",
+        "description": "Free electricity beyond 200 units subsidised but Delhi power tariff among highest in India. Subsidy burden rose ₹3,200 crore.",
+        "source": "https://delhi.gov.in",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      { "name": "Harshita Kejriwal", "location": "India", "occupation": "Student/Graduate" },
+      { "name": "Pulkit Kejriwal", "location": "India", "occupation": "Student" }
+    ],
+    "assetBreakdown": {
+      "movable": 3500000,
+      "immovable": 5000000,
+      "vehicles": 0,
+      "gold": 130000,
+      "cash": 50000
+    },
+    "education_abroad": false,
+    "tags": ["AAP", "Delhi", "IIT", "Anti-corruption"]
+  },
+  {
+    "id": 4,
+    "name": "Mamata Banerjee",
+    "slug": "mamata-banerjee",
+    "party": "TMC",
+    "position": "Chief Minister, West Bengal",
+    "state": "West Bengal",
+    "constituency": "Bhowanipore",
+    "age": 69,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mamata_Banerjee-2.jpg/440px-Mamata_Banerjee-2.jpg",
+    "education": "MA History, Calcutta University; LLB",
+    "criminalCases": 2,
+    "assets": 22000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "Sandeshkhali Violence Against Women",
+        "date": "2024-01-05",
+        "description": "TMC leaders accused of land grab and sexual violence against women in Sandeshkhali. CBI/ED investigation ordered by HC.",
+        "source": "https://www.calcuttahighcourt.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "RG Kar Hospital Rape-Murder",
+        "date": "2024-08-09",
+        "description": "Trainee doctor raped and murdered in RG Kar Medical College. State police accused of evidence tampering. CBI took over investigation.",
+        "source": "https://cbi.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Rose Valley Chit Fund Scam",
+        "date": "2013-01-01",
+        "description": "TMC leaders accused of connections with ₹17,000 crore Rose Valley Ponzi scheme. ED investigations ongoing.",
+        "source": "https://enforcementdirectorate.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "TMC Syndicate Corruption",
+        "date": "2015-01-01",
+        "description": "TMC party workers accused of running 'syndicate raj' — extorting money from construction projects, businesses across Bengal.",
+        "source": "https://ndtv.com",
+        "severity": "high"
+      }
+    ],
+    "children": [
+      { "name": "None (unmarried/widowed)", "location": "India", "occupation": "N/A" }
+    ],
+    "assetBreakdown": {
+      "movable": 12000000,
+      "immovable": 10000000,
+      "vehicles": 0,
+      "gold": 50000,
+      "cash": 120000
+    },
+    "education_abroad": false,
+    "tags": ["TMC", "West Bengal", "CM", "Anti-BJP"]
+  },
+  {
+    "id": 5,
+    "name": "Amit Shah",
+    "slug": "amit-shah",
+    "party": "BJP",
+    "position": "Union Home Minister",
+    "state": "Gujarat",
+    "constituency": "Gandhinagar",
+    "age": 59,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Amit_Shah_2019.jpg/440px-Amit_Shah_2019.jpg",
+    "education": "BSc Biochemistry, Gujarat University",
+    "criminalCases": 4,
+    "assets": 48000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "Sohrabuddin Fake Encounter Case",
+        "date": "2005-11-26",
+        "description": "Accused of role in fake encounter of gangster Sohrabuddin Sheikh and wife. Discharged by special CBI court in 2014.",
+        "source": "https://cbi.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Illegal Surveillance Allegations",
+        "date": "2012-06-20",
+        "description": "Phone tapping controversy — alleged illegal surveillance of woman at Modi's behest when he was Gujarat CM. Revealed by The Caravan.",
+        "source": "https://caravanmagazine.in",
+        "severity": "high"
+      },
+      {
+        "title": "Electoral Bond Architect",
+        "date": "2018-01-02",
+        "description": "As key strategist, co-designed Electoral Bond scheme declared unconstitutional by Supreme Court in 2024.",
+        "source": "https://www.sci.gov.in",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      { "name": "Jay Shah", "location": "India", "occupation": "BCCI Secretary, ICC Chairman" }
+    ],
+    "assetBreakdown": {
+      "movable": 28000000,
+      "immovable": 20000000,
+      "vehicles": 1500000,
+      "gold": 800000,
+      "cash": 450000
+    },
+    "education_abroad": false,
+    "tags": ["BJP", "Home Minister", "Gujarat", "BJP President (Former)"]
+  },
+  {
+    "id": 6,
+    "name": "Akhilesh Yadav",
+    "slug": "akhilesh-yadav",
+    "party": "SP",
+    "position": "MP Kannauj, Former CM Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "constituency": "Kannauj",
+    "age": 50,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Akhilesh_yadav.jpg/440px-Akhilesh_yadav.jpg",
+    "education": "BE Environmental Engineering, Mysore; MS, Univ. of Sydney, Australia",
+    "criminalCases": 7,
+    "assets": 45000000,
+    "liabilities": 1000000,
+    "controversies": [
+      {
+        "title": "Goonda Tax / Extortion Allegations",
+        "date": "2012-01-01",
+        "description": "SP government's tenure marked by goonda tax allegations, anti-romeo squad excesses, power sector corruption.",
+        "source": "https://thehindu.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Mining Mafia Connection",
+        "date": "2014-01-01",
+        "description": "UP mining mafia flourished during SP rule. CBI investigations linked SP-era officials to illegal sand mining worth billions.",
+        "source": "https://cbi.gov.in",
+        "severity": "high"
+      }
+    ],
+    "children": [
+      { "name": "Aditi Yadav", "location": "India", "occupation": "Student" },
+      { "name": "Arjun Yadav", "location": "India", "occupation": "Student" }
+    ],
+    "assetBreakdown": {
+      "movable": 20000000,
+      "immovable": 25000000,
+      "vehicles": 5000000,
+      "gold": 2000000,
+      "cash": 300000
+    },
+    "education_abroad": true,
+    "tags": ["SP", "Uttar Pradesh", "OBC", "Yadav Family"]
+  },
+  {
+    "id": 7,
+    "name": "Mayawati",
+    "slug": "mayawati",
+    "party": "BSP",
+    "position": "BSP National President, Former CM UP (4 times)",
+    "state": "Uttar Pradesh",
+    "constituency": "Rajya Sabha",
+    "age": 68,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mayawati_-_2017.jpg/440px-Mayawati_-_2017.jpg",
+    "education": "BA Arts, Kalindi College, Delhi University; LLB",
+    "criminalCases": 6,
+    "assets": 1120000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "Disproportionate Assets Case",
+        "date": "2007-01-01",
+        "description": "SC/IT raids revealed assets disproportionate to known income. BSP worker donations of crores raised eyebrows.",
+        "source": "https://supremecourt.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Taj Corridor Scam",
+        "date": "2002-01-01",
+        "description": "Accused of corruption in Taj Heritage Corridor project. CBI filed FIR but SP Govt later dropped charges.",
+        "source": "https://cbi.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "BSP Fund Misappropriation",
+        "date": "2012-01-01",
+        "description": "IT Dept found discrepancies in BSP fund collection and Mayawati's personal accounts.",
+        "source": "https://incometax.gov.in",
+        "severity": "high"
+      }
+    ],
+    "children": [
+      { "name": "None (unmarried)", "location": "N/A", "occupation": "N/A" }
+    ],
+    "assetBreakdown": {
+      "movable": 700000000,
+      "immovable": 400000000,
+      "vehicles": 10000000,
+      "gold": 5000000,
+      "cash": 5000000
+    },
+    "education_abroad": false,
+    "tags": ["BSP", "Dalit", "UP", "CM (4x)"]
+  },
+  {
+    "id": 8,
+    "name": "Nitish Kumar",
+    "slug": "nitish-kumar",
+    "party": "JDU",
+    "position": "Chief Minister, Bihar",
+    "state": "Bihar",
+    "constituency": "Bihar CM",
+    "age": 73,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nitish_Kumar_2016.jpg/440px-Nitish_Kumar_2016.jpg",
+    "education": "BE Electrical Engineering, NIT Patna",
+    "criminalCases": 1,
+    "assets": 15000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "Multiple Party Switches",
+        "date": "2022-08-10",
+        "description": "Nitish Kumar switched alliances 7+ times — NDA to Mahagathbandhan to NDA — earning label 'Paltoo Ram' (turncoat) from opponents.",
+        "source": "https://ndtv.com",
+        "severity": "medium"
+      },
+      {
+        "title": "Liquor Ban Failure",
+        "date": "2016-04-01",
+        "description": "Total liquor ban in Bihar led to 73 deaths from hooch tragedy in 2021-22. Bootlegging flourished with alleged police connivance.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      }
+    ],
+    "children": [
+      { "name": "Nishant Kumar", "location": "India", "occupation": "Businessman" }
+    ],
+    "assetBreakdown": {
+      "movable": 8000000,
+      "immovable": 7000000,
+      "vehicles": 500000,
+      "gold": 200000,
+      "cash": 180000
+    },
+    "education_abroad": false,
+    "tags": ["JDU", "Bihar", "CM", "NDA"]
+  },
+  {
+    "id": 9,
+    "name": "Yogi Adityanath",
+    "slug": "yogi-adityanath",
+    "party": "BJP",
+    "position": "Chief Minister, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "constituency": "Gorakhpur",
+    "age": 51,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Yogi_Adityanath.jpg/440px-Yogi_Adityanath.jpg",
+    "education": "BSc Mathematics, HNB Garhwal University",
+    "criminalCases": 6,
+    "assets": 1500000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "Communal Violence Speeches",
+        "date": "2007-01-27",
+        "description": "Multiple FIRs for hate speech and incitement. Arrested in 2007 for inciting communal violence in Gorakhpur.",
+        "source": "https://ncrb.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Encounter Raj — 200+ Encounter Killings",
+        "date": "2017-03-19",
+        "description": "UP Police conducted 10,000+ encounters, 200+ killed since 2017. Human rights groups raised concerns about extrajudicial killings.",
+        "source": "https://nhrc.nic.in",
+        "severity": "high"
+      },
+      {
+        "title": "Covid Management Failures",
+        "date": "2021-04-01",
+        "description": "Bodies floating in Ganges, mass burial grounds exposed massive under-reporting of Covid deaths in UP.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      }
+    ],
+    "children": [
+      { "name": "None (monk, celibate)", "location": "N/A", "occupation": "N/A" }
+    ],
+    "assetBreakdown": {
+      "movable": 1000000,
+      "immovable": 500000,
+      "vehicles": 0,
+      "gold": 10000,
+      "cash": 25000
+    },
+    "education_abroad": false,
+    "tags": ["BJP", "UP", "CM", "Hindu Monk", "Gorakhnath Peeth"]
+  },
+  {
+    "id": 10,
+    "name": "Lalu Prasad Yadav",
+    "slug": "lalu-prasad-yadav",
+    "party": "RJD",
+    "position": "RJD Chief, Former CM Bihar, Former Railway Minister",
+    "state": "Bihar",
+    "constituency": "Patna Sahib",
+    "age": 76,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Lalu_Prasad.jpg/440px-Lalu_Prasad.jpg",
+    "education": "BA, Patna University; LLB",
+    "criminalCases": 59,
+    "assets": 52000000,
+    "liabilities": 2000000,
+    "controversies": [
+      {
+        "title": "Fodder Scam — Convicted",
+        "date": "1996-01-22",
+        "description": "Bihar fodder scam — ₹950 crore embezzled from Animal Husbandry dept. Convicted in 4 cases. Served jail time. 5-year election ban.",
+        "source": "https://cbi.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Land-For-Job Scam",
+        "date": "2022-05-18",
+        "description": "As Railway Minister, CBI alleges he gave railway jobs in exchange for land transfers to family members.",
+        "source": "https://cbi.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Jungle Raj in Bihar",
+        "date": "1990-03-10",
+        "description": "Bihar under Lalu's CM tenure (1990-97) saw near-collapse of law and order, known as 'Jungle Raj'. Kidnapping industries flourished.",
+        "source": "https://thehindu.com",
+        "severity": "high"
+      }
+    ],
+    "children": [
+      { "name": "Tej Pratap Yadav", "location": "Bihar, India", "occupation": "MLA Bihar" },
+      { "name": "Tejashwi Yadav", "location": "Bihar, India", "occupation": "Deputy CM Bihar (Former)" },
+      { "name": "Misa Bharti", "location": "India", "occupation": "MP Patliputra" },
+      { "name": "Rohini Acharya", "location": "Singapore (previously)", "occupation": "Politician/Homemaker" }
+    ],
+    "assetBreakdown": {
+      "movable": 22000000,
+      "immovable": 30000000,
+      "vehicles": 3000000,
+      "gold": 1500000,
+      "cash": 500000
+    },
+    "education_abroad": false,
+    "tags": ["RJD", "Bihar", "OBC", "Convicted", "Fodder Scam"]
+  },
+  {
+    "id": 11,
+    "name": "Smriti Irani",
+    "slug": "smriti-irani",
+    "party": "BJP",
+    "position": "Former Union Minister, Former MP Amethi",
+    "state": "Uttar Pradesh",
+    "constituency": "Amethi",
+    "age": 47,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Smriti_Irani_in_2019.jpg/440px-Smriti_Irani_in_2019.jpg",
+    "education": "BA Part-1 (not completed), Delhi University; disputed degree controversy",
+    "criminalCases": 2,
+    "assets": 24000000,
+    "liabilities": 500000,
+    "controversies": [
+      {
+        "title": "Educational Qualification Controversy",
+        "date": "2014-05-26",
+        "description": "Stated she had BA degree from Delhi University in 2004 affidavit, then BA Part 1 in 2014. Made HRD Minister despite disputed credentials.",
+        "source": "https://electioncommission.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "Goa Bar Controversy",
+        "date": "2023-07-21",
+        "description": "Her daughter allegedly ran a bar in Goa at underage. Family denied allegations; controversy sparked political storm.",
+        "source": "https://ndtv.com",
+        "severity": "medium"
+      },
+      {
+        "title": "FTII Controversy",
+        "date": "2015-06-01",
+        "description": "As I&B Minister, appointed Gajendra Chauhan (TV actor) as FTII chair causing student protests and national debate.",
+        "source": "https://thehindu.com",
+        "severity": "low"
+      }
+    ],
+    "children": [
+      { "name": "Zoish Irani", "location": "India", "occupation": "Student (alleged bar controversy)" },
+      { "name": "Shanelle Irani", "location": "India", "occupation": "Student" }
+    ],
+    "assetBreakdown": {
+      "movable": 10000000,
+      "immovable": 14000000,
+      "vehicles": 2000000,
+      "gold": 1200000,
+      "cash": 200000
+    },
+    "education_abroad": false,
+    "tags": ["BJP", "Women", "TV Actress (Former)", "HRD Minister (Former)"]
+  },
+  {
+    "id": 12,
+    "name": "Sharad Pawar",
+    "slug": "sharad-pawar",
+    "party": "NCP (SP)",
+    "position": "NCP (SP) Chief, Former Agriculture Minister",
+    "state": "Maharashtra",
+    "constituency": "Baramati",
+    "age": 83,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sharad_Pawar.jpg/440px-Sharad_Pawar.jpg",
+    "education": "BA, Brihan Maharashtra College of Commerce",
+    "criminalCases": 3,
+    "assets": 68000000,
+    "liabilities": 0,
+    "controversies": [
+      {
+        "title": "Maharashtra Co-operative Bank Scam",
+        "date": "2019-09-25",
+        "description": "ED summoned Pawar over alleged irregularities in Maharashtra State Co-operative Bank worth ₹25,000 crore.",
+        "source": "https://enforcementdirectorate.gov.in",
+        "severity": "high"
+      },
+      {
+        "title": "IPL Corruption Allegations",
+        "date": "2013-03-01",
+        "description": "As BCCI president, faced calls to resign over IPL spot-fixing scandal and alleged conflict of interest.",
+        "source": "https://cricbuzz.com",
+        "severity": "medium"
+      }
+    ],
+    "children": [
+      { "name": "Supriya Sule", "location": "India", "occupation": "MP Baramati, NCP (SP)" }
+    ],
+    "assetBreakdown": {
+      "movable": 38000000,
+      "immovable": 30000000,
+      "vehicles": 3000000,
+      "gold": 2000000,
+      "cash": 500000
+    },
+    "education_abroad": false,
+    "tags": ["NCP", "Maharashtra", "Agriculture", "Cricket Politics"]
+  }
+]

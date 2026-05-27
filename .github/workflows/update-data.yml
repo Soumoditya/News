@@ -1,0 +1,79 @@
+name: Daily Data Update
+
+on:
+  schedule:
+    # Run at 6 AM IST (00:30 UTC) every day
+    - cron: "30 0 * * *"
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch latest news data
+        env:
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+        run: |
+          node -e "
+          const https = require('https');
+          const fs = require('fs');
+
+          const apiKey = process.env.GNEWS_API_KEY;
+          if (!apiKey) {
+            console.log('No API key, skipping news fetch');
+            process.exit(0);
+          }
+
+          const queries = [
+            'india+politics+parliament+BJP+Congress',
+            'india+corruption+scam+CBI+ED',
+            'india+budget+economy+finance'
+          ];
+
+          const fetchNews = (q) => new Promise((resolve, reject) => {
+            const url = 'https://gnews.io/api/v4/search?q=' + q + '&lang=en&country=in&max=10&apikey=' + apiKey;
+            https.get(url, (res) => {
+              let data = '';
+              res.on('data', chunk => data += chunk);
+              res.on('end', () => {
+                try { resolve(JSON.parse(data).articles || []); }
+                catch(e) { resolve([]); }
+              });
+            }).on('error', reject);
+          });
+
+          Promise.all(queries.map(fetchNews)).then(results => {
+            const all = results.flat();
+            const unique = all.filter((a, i, arr) => arr.findIndex(b => b.url === a.url) === i);
+            fs.writeFileSync('data/news-cache.json', JSON.stringify({
+              lastUpdated: new Date().toISOString(),
+              articles: unique
+            }, null, 2));
+            console.log('Saved ' + unique.length + ' articles');
+          });
+          "
+
+      - name: Update last-updated timestamp
+        run: |
+          echo "{\"lastUpdated\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\", \"source\": \"GitHub Actions\"}" > data/meta.json
+
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "NagrikNazar Bot"
+          git add data/news-cache.json data/meta.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "🤖 Auto-update: Daily data refresh $(date -u +%Y-%m-%d)"
+          git push
