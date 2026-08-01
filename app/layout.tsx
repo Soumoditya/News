@@ -7,17 +7,17 @@ export const metadata: Metadata = {
   title: "NagrikNazar — The Citizen's Eye on Indian Politics",
   description:
     "India's most comprehensive political transparency platform. Track politician criminal records, assets, controversies, budget allocation, and government project progress. Built for every Indian citizen.",
-  keywords: "india politics transparency, politician criminal records, budget tracker, neta exposed, election commission data, ADR india",
+  keywords: "india politics transparency, politician criminal records, budget tracker, election commission data, ADR india, myneta, PRS, non-partisan accountability",
   openGraph: {
     title: "NagrikNazar — The Citizen's Eye",
-    description: "Exposing the truth about Indian politics for every citizen.",
+    description: "A non-partisan, fully-sourced view of Indian politics — criminal records, assets, budgets and controversies, every claim traceable to an official record.",
     type: "website",
     locale: "en_IN",
   },
   twitter: {
     card: "summary_large_image",
     title: "NagrikNazar — The Citizen's Eye",
-    description: "Exposing the truth about Indian politics for every citizen.",
+    description: "A non-partisan, fully-sourced view of Indian politics. Every claim traceable to an official record.",
   },
 };
 

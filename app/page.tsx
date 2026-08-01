@@ -99,9 +99,9 @@ export default function HomePage() {
               18th Lok Sabha Data
             </div>
             <h2 style={{ fontFamily: "'Bebas Neue', sans-serif", fontSize: "clamp(2.5rem, 5vw, 4rem)", color: "#fff", letterSpacing: 1, lineHeight: 1.1 }}>
-              THE NUMBERS THEY DON'T WANT<br />
+              THE NUMBERS,<br />
               <span style={{ background: "linear-gradient(135deg, #FF6B2B, #E63946)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}>
-                YOU TO SEE
+                FROM OFFICIAL RECORDS
               </span>
             </h2>
           </div>

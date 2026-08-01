@@ -58,6 +58,49 @@ export function getPartyColor(party: string): string {
   return map[party] || '#888888';
 }
 
+/**
+ * ECI-allotted election symbols (public domain), rendered as recognizable
+ * emoji stand-ins — deliberately NOT the trademarked party logos, to keep
+ * the site's visual identity distinctive without any IP risk.
+ */
+export function getPartySymbol(party: string): string {
+  const map: Record<string, string> = {
+    BJP: '🪷',              // Lotus
+    INC: '✋',              // Hand
+    AAP: '🧹',             // Broom
+    TMC: '🌸',             // Flowers & grass
+    SP: '🚲',              // Bicycle
+    BSP: '🐘',             // Elephant
+    RJD: '🏮',             // Hurricane lantern
+    JDU: '🏹',             // Arrow
+    DMK: '🌅',             // Rising sun
+    AIADMK: '🍃',          // Two leaves
+    SAD: '⚖️',             // Weighing scale (takri)
+    NCP: '🕐',             // Clock
+    'NCP (SP)': '🎺',      // Man blowing turha (trumpet)
+    'NCP(SP)': '🎺',
+    'Shiv Sena': '🏹',     // Bow & arrow
+    SHS: '🏹',
+    'Shiv Sena (UBT)': '🔥', // Flaming torch (mashaal)
+    CPI: '🌾',             // Ears of corn & sickle
+    CPM: '☭',              // Hammer, sickle & star
+    YSRCP: '🪭',           // Ceiling fan
+    TDP: '🚲',             // Bicycle
+    BRS: '🚗',             // Car
+    BJD: '🐚',             // Conch
+    AIMIM: '🪁',           // Kite
+    RLD: '🚰',             // Hand pump
+    LJP: '🚁',             // Helicopter
+    'LJP (RV)': '🚁',
+    NPP: '📖',             // Book
+    JMM: '🏹',             // Bow & arrow
+    NC: '🚜',              // Plough
+    AzSP: '✊',            // (Azad Samaj Party)
+    Independent: '👤',
+  };
+  return map[party] || '🗳️';
+}
+
 export function getPartyShortName(party: string): string {
   const map: Record<string, string> = {
     'Shiv Sena (UBT)': 'SS-UBT',

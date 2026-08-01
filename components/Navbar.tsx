@@ -11,6 +11,7 @@ const links = [
   { href: "/controversies", label: "Controversies" },
   { href: "/budget", label: "Budget" },
   { href: "/glossary", label: "🎓 Glossary" },
+  { href: "/methodology", label: "Methodology" },
   { href: "/news", label: "News" },
 ];
 

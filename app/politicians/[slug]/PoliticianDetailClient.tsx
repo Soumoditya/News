@@ -6,7 +6,9 @@ import {
   ArrowLeft, Calendar, Newspaper, Search, Scale, FileText,
   ChevronDown, ChevronUp, Clock, Shield, Activity,
 } from "lucide-react";
-import { formatINR, getPartyColor, getSeverityColor } from "@/lib/utils";
+import { formatINR, getPartyColor, getSeverityColor, getPartySymbol } from "@/lib/utils";
+import { myNeta, indiaKanoon, eCourts, googleNews } from "@/lib/sources";
+import SourceTag from "@/components/SourceTag";
 
 interface Controversy {
   title: string;
@@ -14,6 +16,9 @@ interface Controversy {
   description: string;
   source: string;
   severity: string;
+  sourceLabel?: string;
+  verifiedOn?: string;
+  officialSource?: string;
 }
 
 interface Child {
@@ -47,6 +52,8 @@ interface Politician {
   };
   education_abroad: boolean;
   tags: string[];
+  myNetaUrl?: string;
+  verifiedOn?: string;
 }
 
 interface NewsArticle {
@@ -85,90 +92,37 @@ function timeAgoStr(dateStr: string): string {
   return `${Math.floor(diffDays / 365)} years ago`;
 }
 
-function SourceButtons({ controversy, politicianName }: { controversy: Controversy; politicianName: string }) {
-  const q = encodeURIComponent(`${politicianName} ${controversy.title}`);
-  const kanoonQ = encodeURIComponent(controversy.title);
-  const mynetaQ = encodeURIComponent(politicianName);
+function LinkChip({ href, color, icon, label }: { href: string; color: string; icon: React.ReactNode; label: string }) {
+  return (
+    <a
+      href={href}
+      target="_blank"
+      rel="noopener noreferrer"
+      style={{
+        display: "inline-flex", alignItems: "center", gap: 4,
+        padding: "4px 10px", borderRadius: 6,
+        background: `${color}1f`,
+        border: `1px solid ${color}40`,
+        color, fontSize: 11, fontWeight: 600,
+        textDecoration: "none", whiteSpace: "nowrap",
+      }}
+    >
+      {icon} {label}
+    </a>
+  );
+}
 
+function SourceButtons({ controversy, politicianName }: { controversy: Controversy; politicianName: string }) {
+  const topic = `${politicianName} ${controversy.title}`;
   return (
     <div style={{ display: "flex", flexWrap: "wrap", gap: 6, marginTop: 10 }}>
-      <a
-        href={`https://news.google.com/search?q=${q}&hl=en-IN&gl=IN&ceid=IN:en`}
-        target="_blank"
-        rel="noopener noreferrer"
-        style={{
-          display: "inline-flex", alignItems: "center", gap: 4,
-          padding: "4px 10px", borderRadius: 6,
-          background: "rgba(66,133,244,0.12)",
-          border: "1px solid rgba(66,133,244,0.25)",
-          color: "#4285F4", fontSize: 11, fontWeight: 600,
-          textDecoration: "none", whiteSpace: "nowrap",
-        }}
-      >
-        <Newspaper size={10} /> Google News
-      </a>
-      <a
-        href={`https://indiankanoon.org/search/?formInput=${kanoonQ}`}
-        target="_blank"
-        rel="noopener noreferrer"
-        style={{
-          display: "inline-flex", alignItems: "center", gap: 4,
-          padding: "4px 10px", borderRadius: 6,
-          background: "rgba(255,152,0,0.12)",
-          border: "1px solid rgba(255,152,0,0.25)",
-          color: "#FF9800", fontSize: 11, fontWeight: 600,
-          textDecoration: "none", whiteSpace: "nowrap",
-        }}
-      >
-        <Scale size={10} /> IndiaKanoon
-      </a>
-      <a
-        href={`https://myneta.info/candidate/index.php?candidate_id=0&action=show_all&sort=default&start=0&limit=20&queryString=${mynetaQ}`}
-        target="_blank"
-        rel="noopener noreferrer"
-        style={{
-          display: "inline-flex", alignItems: "center", gap: 4,
-          padding: "4px 10px", borderRadius: 6,
-          background: "rgba(76,175,80,0.12)",
-          border: "1px solid rgba(76,175,80,0.25)",
-          color: "#4CAF50", fontSize: 11, fontWeight: 600,
-          textDecoration: "none", whiteSpace: "nowrap",
-        }}
-      >
-        <FileText size={10} /> Myneta.info
-      </a>
-      {controversy.source && (
-        <a
-          href={controversy.source}
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{
-            display: "inline-flex", alignItems: "center", gap: 4,
-            padding: "4px 10px", borderRadius: 6,
-            background: "rgba(156,39,176,0.12)",
-            border: "1px solid rgba(156,39,176,0.25)",
-            color: "#9C27B0", fontSize: 11, fontWeight: 600,
-            textDecoration: "none", whiteSpace: "nowrap",
-          }}
-        >
-          <ExternalLink size={10} /> Official Source
-        </a>
+      <LinkChip href={googleNews(topic)} color="#4285F4" icon={<Newspaper size={10} />} label="News coverage" />
+      <LinkChip href={indiaKanoon(controversy.title)} color="#FF9800" icon={<Scale size={10} />} label="Court records" />
+      <LinkChip href={myNeta(politicianName)} color="#4CAF50" icon={<FileText size={10} />} label="MyNeta affidavit" />
+      <LinkChip href={eCourts()} color="#009688" icon={<Shield size={10} />} label="Case status" />
+      {controversy.officialSource && (
+        <LinkChip href={controversy.officialSource} color="#9C27B0" icon={<ExternalLink size={10} />} label="Official source" />
       )}
-      <a
-        href={`https://ecourts.gov.in/ecourts_home/index.php`}
-        target="_blank"
-        rel="noopener noreferrer"
-        style={{
-          display: "inline-flex", alignItems: "center", gap: 4,
-          padding: "4px 10px", borderRadius: 6,
-          background: "rgba(0,150,136,0.12)",
-          border: "1px solid rgba(0,150,136,0.25)",
-          color: "#009688", fontSize: 11, fontWeight: 600,
-          textDecoration: "none", whiteSpace: "nowrap",
-        }}
-      >
-        <Shield size={10} /> eCourts
-      </a>
     </div>
   );
 }
@@ -291,26 +245,40 @@ export default function PoliticianDetailClient({ p }: { p: Politician }) {
           </Link>
 
           <div style={{ display: "grid", gridTemplateColumns: "auto 1fr", gap: "2rem", alignItems: "start" }} className="profile-grid">
-            <div style={{
-              width: 120, height: 120, borderRadius: 24,
-              background: `${partyColor}20`,
-              border: `3px solid ${partyColor}50`,
-              display: "flex", alignItems: "center", justifyContent: "center",
-              fontFamily: "'Bebas Neue', sans-serif", fontSize: 52, color: partyColor,
-              flexShrink: 0,
-              boxShadow: `0 0 40px ${partyColor}20`,
-            }}>
-              {p.name.split(" ").map((n: string) => n[0]).join("").slice(0, 2)}
+            <div style={{ position: "relative", flexShrink: 0 }}>
+              <div style={{
+                width: 120, height: 120, borderRadius: 24,
+                background: `${partyColor}20`,
+                border: `3px solid ${partyColor}50`,
+                display: "flex", alignItems: "center", justifyContent: "center",
+                fontFamily: "'Bebas Neue', sans-serif", fontSize: 52, color: partyColor,
+                boxShadow: `0 0 40px ${partyColor}20`,
+              }}>
+                {p.name.split(" ").map((n: string) => n[0]).join("").slice(0, 2)}
+              </div>
+              {/* ECI election symbol badge */}
+              <div title={`${p.party} election symbol`} style={{
+                position: "absolute", bottom: -8, right: -8,
+                width: 40, height: 40, borderRadius: 12,
+                background: "var(--surface-0, #0a0a0c)",
+                border: `2px solid ${partyColor}50`,
+                display: "flex", alignItems: "center", justifyContent: "center",
+                fontSize: 20,
+                boxShadow: "var(--shadow-sm)",
+              }}>
+                {getPartySymbol(p.party)}
+              </div>
             </div>
 
             <div>
               <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginBottom: "0.75rem" }}>
                 <span style={{
+                  display: "inline-flex", alignItems: "center", gap: 5,
                   background: `${partyColor}22`,
                   color: partyColor,
                   padding: "4px 14px", borderRadius: 6, fontSize: 13, fontWeight: 700,
                   border: `1px solid ${partyColor}30`,
-                }}>{p.party}</span>
+                }}><span aria-hidden>{getPartySymbol(p.party)}</span> {p.party}</span>
                 {p.criminalCases > 0 && (
                   <span style={{
                     background: "rgba(230,57,70,0.15)", border: "1px solid rgba(230,57,70,0.3)",
@@ -350,13 +318,13 @@ export default function PoliticianDetailClient({ p }: { p: Politician }) {
               </div>
 
               <div style={{ display: "flex", gap: 6, marginTop: "1rem", flexWrap: "wrap" }}>
-                <a href={`https://news.google.com/search?q=${encodeURIComponent(p.name + " India")}&hl=en-IN&gl=IN`} target="_blank" rel="noopener noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "6px 12px", borderRadius: 6, background: "rgba(255,255,255,0.04)", border: "1px solid rgba(255,255,255,0.08)", color: "#888", fontSize: 12, textDecoration: "none" }}>
+                <a href={googleNews(p.name + " India")} target="_blank" rel="noopener noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "6px 12px", borderRadius: 6, background: "rgba(255,255,255,0.04)", border: "1px solid rgba(255,255,255,0.08)", color: "#888", fontSize: 12, textDecoration: "none" }}>
                   <Search size={11} /> Google News
                 </a>
-                <a href={`https://myneta.info/candidate/index.php?action=show_all&sort=default&queryString=${encodeURIComponent(p.name)}`} target="_blank" rel="noopener noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "6px 12px", borderRadius: 6, background: "rgba(255,255,255,0.04)", border: "1px solid rgba(255,255,255,0.08)", color: "#888", fontSize: 12, textDecoration: "none" }}>
-                  <FileText size={11} /> EC Affidavit
+                <a href={p.myNetaUrl || myNeta(p.name)} target="_blank" rel="noopener noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "6px 12px", borderRadius: 6, background: "rgba(255,255,255,0.04)", border: "1px solid rgba(255,255,255,0.08)", color: "#888", fontSize: 12, textDecoration: "none" }}>
+                  <FileText size={11} /> EC Affidavit (MyNeta)
                 </a>
-                <a href={`https://indiankanoon.org/search/?formInput=${encodeURIComponent(p.name)}`} target="_blank" rel="noopener noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "6px 12px", borderRadius: 6, background: "rgba(255,255,255,0.04)", border: "1px solid rgba(255,255,255,0.08)", color: "#888", fontSize: 12, textDecoration: "none" }}>
+                <a href={indiaKanoon(p.name)} target="_blank" rel="noopener noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "6px 12px", borderRadius: 6, background: "rgba(255,255,255,0.04)", border: "1px solid rgba(255,255,255,0.08)", color: "#888", fontSize: 12, textDecoration: "none" }}>
                   <Scale size={11} /> Court Records
                 </a>
                 <a href={`https://eci.gov.in`} target="_blank" rel="noopener noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 5, padding: "6px 12px", borderRadius: 6, background: "rgba(255,255,255,0.04)", border: "1px solid rgba(255,255,255,0.08)", color: "#888", fontSize: 12, textDecoration: "none" }}>
@@ -427,6 +395,7 @@ export default function PoliticianDetailClient({ p }: { p: Politician }) {
                           <span style={{ background: `${sColor}20`, color: sColor, padding: "2px 8px", borderRadius: 4, fontSize: 10, fontWeight: 700, textTransform: "uppercase", letterSpacing: 1 }}>{c.severity}</span>
                           <span style={{ color: "#555", fontSize: 11, display: "flex", alignItems: "center", gap: 3 }}><Calendar size={10} />{c.date}</span>
                           <span style={{ color: "#444", fontSize: 11 }}>{timeAgoStr(c.date)}</span>
+                          <SourceTag source={c.source} sourceLabel={c.sourceLabel || "Source"} verifiedOn={c.verifiedOn} compact />
                         </div>
                         <h4 style={{ color: "#fff", fontWeight: 700, fontSize: 15, lineHeight: 1.4 }}>{c.title}</h4>
                       </div>
