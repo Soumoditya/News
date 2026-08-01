@@ -1,0 +1,112 @@
+[
+  {
+    "party": "BJP",
+    "alliance": "NDA",
+    "year": "2024",
+    "remark": "During the Lok Sabha campaign, referred to a community as 'infiltrators' with 'more children' while discussing wealth redistribution — widely criticised as communal.",
+    "action": "Opposition & activists filed complaints with the Election Commission",
+    "source": "https://news.google.com/search?q=Modi%20infiltrators%20more%20children%20speech%20Election%20Commission%20complaint%202024&hl=en-IN&gl=IN&ceid=IN:en",
+    "sourceLabel": "News coverage",
+    "verifiedOn": "2026-08-01",
+    "contested": true
+  },
+  {
+    "party": "BJP",
+    "alliance": "NDA",
+    "year": "2022",
+    "remark": "A then-BJP spokesperson's remarks on Prophet Muhammad triggered domestic FIRs and international diplomatic protests; the party suspended her.",
+    "action": "Multiple FIRs; party suspension; Supreme Court remarks",
+    "source": "https://news.google.com/search?q=Nupur%20Sharma%20Prophet%20remark%20FIR%20Supreme%20Court%20suspension&hl=en-IN&gl=IN&ceid=IN:en",
+    "sourceLabel": "News coverage",
+    "verifiedOn": "2026-08-01",
+    "contested": false
+  },
+  {
+    "party": "BJP",
+    "alliance": "NDA",
+    "year": "2020",
+    "remark": "A Union minister was widely reported leading a 'goli maaro' (shoot the) chant at a Delhi rally ahead of the riots; drew an EC campaign ban.",
+    "action": "Election Commission campaigning ban",
+    "source": "https://news.google.com/search?q=Anurag%20Thakur%20goli%20maaro%20slogan%20Election%20Commission%20ban%20Delhi&hl=en-IN&gl=IN&ceid=IN:en",
+    "sourceLabel": "News coverage",
+    "verifiedOn": "2026-08-01",
+    "contested": false
+  },
+  {
+    "party": "BJP",
+    "alliance": "NDA",
+    "year": "2018-2024",
+    "remark": "UP CM's speeches invoking '80 vs 20' and 'bulldozer' rhetoric were repeatedly flagged as polarising; the Supreme Court later curbed punitive demolitions.",
+    "action": "EC notices over the years; SC demolition guidelines (2024)",
+    "source": "https://news.google.com/search?q=Yogi%20Adityanath%2080%20vs%2020%20bulldozer%20speech%20Election%20Commission%20notice&hl=en-IN&gl=IN&ceid=IN:en",
+    "sourceLabel": "News coverage",
+    "verifiedOn": "2026-08-01",
+    "contested": false
+  },
+  {
+    "party": "INC",
+    "alliance": "INDIA",
+    "year": "2024",
+    "remark": "A senior Congress leader's 'shakti' remark and past 'maut ka saudagar'/'chai wala' style jibes were seized on as personal or divisive by opponents.",
+    "action": "Political controversy; EC scrutiny of campaign speech",
+    "source": "https://news.google.com/search?q=Congress%20leader%20divisive%20remark%20Election%20Commission%20notice%202024&hl=en-IN&gl=IN&ceid=IN:en",
+    "sourceLabel": "News coverage",
+    "verifiedOn": "2026-08-01",
+    "contested": true
+  },
+  {
+    "party": "SP",
+    "alliance": "INDIA",
+    "year": "2022",
+    "remark": "An SP leader faced FIRs over communal remarks made during the UP assembly campaign.",
+    "action": "FIR registered",
+    "source": "https://news.google.com/search?q=Samajwadi%20Party%20leader%20communal%20remark%20FIR%20UP%20campaign&hl=en-IN&gl=IN&ceid=IN:en",
+    "sourceLabel": "News coverage",
+    "verifiedOn": "2026-08-01",
+    "contested": true
+  },
+  {
+    "party": "AIMIM",
+    "alliance": "INDIA",
+    "year": "2013-2023",
+    "remark": "AIMIM chief's speeches have periodically drawn hate-speech complaints and FIRs from opponents; he denies inciting hatred.",
+    "action": "Multiple complaints/FIRs over the years",
+    "source": "https://news.google.com/search?q=Asaduddin%20Owaisi%20hate%20speech%20FIR%20complaint&hl=en-IN&gl=IN&ceid=IN:en",
+    "sourceLabel": "News coverage",
+    "verifiedOn": "2026-08-01",
+    "contested": true
+  },
+  {
+    "party": "TMC",
+    "alliance": "INDIA",
+    "year": "2021-2024",
+    "remark": "TMC leaders faced EC action and FIRs over communal or threatening remarks during Bengal elections.",
+    "action": "EC notices; FIRs",
+    "source": "https://news.google.com/search?q=TMC%20leader%20communal%20remark%20Election%20Commission%20notice%20FIR%20Bengal&hl=en-IN&gl=IN&ceid=IN:en",
+    "sourceLabel": "News coverage",
+    "verifiedOn": "2026-08-01",
+    "contested": true
+  },
+  {
+    "party": "DMK",
+    "alliance": "INDIA",
+    "year": "2023",
+    "remark": "A DMK leader's 'Sanatana Dharma' comparison remarks sparked nationwide backlash and police complaints.",
+    "action": "Multiple police complaints/FIRs",
+    "source": "https://news.google.com/search?q=Udhayanidhi%20Stalin%20Sanatana%20Dharma%20remark%20FIR%20complaint&hl=en-IN&gl=IN&ceid=IN:en",
+    "sourceLabel": "News coverage",
+    "verifiedOn": "2026-08-01",
+    "contested": true
+  },
+  {
+    "party": "BJP",
+    "alliance": "NDA",
+    "year": "2021",
+    "remark": "A Union minister's alleged remarks during the farmers' agitation preceded the Lakhimpur Kheri violence; his son was charged.",
+    "action": "Criminal case (son charged); demands for minister's removal",
+    "source": "https://news.google.com/search?q=Ajay%20Mishra%20Teni%20Lakhimpur%20Kheri%20remark%20case&hl=en-IN&gl=IN&ceid=IN:en",
+    "sourceLabel": "News coverage",
+    "verifiedOn": "2026-08-01",
+    "contested": true
+  }
+]

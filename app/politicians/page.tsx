@@ -3,7 +3,8 @@ import { useState, useMemo } from "react";
 import Link from "next/link";
 import { Search, Filter, AlertTriangle, TrendingUp, MapPin, Users } from "lucide-react";
 import politicians from "@/data/politicians.json";
-import { formatINR, getPartyColor, getSeverityColor } from "@/lib/utils";
+import { formatINR, getPartyColor, getSeverityColor, getPartySymbol } from "@/lib/utils";
+import { myNeta, googleNews, indiaKanoon, prs } from "@/lib/sources";
 
 const PARTIES = ["All", "BJP", "INC", "AAP", "TMC", "SP", "BSP", "RJD", "JDU", "NCP (SP)", "NCP", "DMK", "CPM", "NC", "BRS", "BJD", "TDP", "Shiv Sena", "Shiv Sena (UBT)", "AIMIM", "SAD", "JMM", "RLD", "LJP (RV)", "AzSP"];
 const STATES = ["All", ...Array.from(new Set(politicians.map((p) => p.state))).sort()];
@@ -205,13 +206,14 @@ export default function PoliticiansPage() {
                       <div style={{ color: "#666", fontSize: 12, marginBottom: "0.4rem" }}>{p.position}</div>
                       <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
                         <span style={{
+                          display: "inline-flex", alignItems: "center", gap: 4,
                           background: `${getPartyColor(p.party)}20`,
                           color: getPartyColor(p.party),
                           padding: "2px 8px",
                           borderRadius: 4,
                           fontSize: 11,
                           fontWeight: 600,
-                        }}>{p.party}</span>
+                        }}><span aria-hidden>{getPartySymbol(p.party)}</span>{p.party}</span>
                         <span style={{ color: "#555", fontSize: 11, display: "flex", alignItems: "center", gap: 3 }}>
                           <MapPin size={10} />{p.state}
                         </span>
@@ -303,11 +305,17 @@ export default function PoliticiansPage() {
         </div>
 
         {filtered.length === 0 && (
-          <div style={{ textAlign: "center", padding: "4rem", color: "#555" }}>
-            <Search size={48} color="#333" style={{ margin: "0 auto 1rem", display: "block" }} />
-            <div>No politicians found matching your filters.</div>
+          <div style={{ textAlign: "center", padding: "3rem 1rem 1rem", color: "#555" }}>
+            <Search size={40} color="#333" style={{ margin: "0 auto 0.75rem", display: "block" }} />
+            <div style={{ marginBottom: "0.5rem" }}>No profile in our database matches that.</div>
+            <div style={{ fontSize: 13, color: "#777" }}>
+              But you can still pull up {search ? `“${search}”` : "any leader"} from official records below 👇
+            </div>
           </div>
         )}
+
+        {/* Universal research — works for ANY neta, including local leaders not yet profiled */}
+        <ResearchAnyNeta term={search} />
       </div>
 
       <style>{`
@@ -315,6 +323,45 @@ export default function PoliticiansPage() {
           .filter-grid { grid-template-columns: 1fr !important; }
         }
       `}</style>
+    </div>
+  );
+}
+
+function ResearchAnyNeta({ term }: { term: string }) {
+  const q = term.trim() || "your local MLA / MP";
+  const links = [
+    { label: "EC affidavit (MyNeta)", href: myNeta(q), color: "#4CAF50", desc: "Cases, assets, education" },
+    { label: "Latest news", href: googleNews(q + " India"), color: "#4285F4", desc: "Live coverage" },
+    { label: "Court records", href: indiaKanoon(q), color: "#FF9800", desc: "Judgments & cases" },
+    { label: "Legislative track", href: prs(q), color: "#8b5cf6", desc: "Attendance, questions" },
+  ];
+  return (
+    <div style={{
+      marginTop: "1.5rem",
+      padding: "1.5rem",
+      background: "linear-gradient(135deg, rgba(6,182,212,0.06), rgba(139,92,246,0.05))",
+      border: "1px solid rgba(6,182,212,0.2)",
+      borderRadius: 16,
+    }}>
+      <div style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: "0.4rem" }}>
+        <Search size={16} color="#06b6d4" />
+        <span style={{ color: "#fff", fontWeight: 700, fontSize: 15 }}>Research ANY neta — even local leaders</span>
+      </div>
+      <p style={{ color: "#888", fontSize: 13, lineHeight: 1.7, marginBottom: "1rem", maxWidth: 640 }}>
+        Not everyone is profiled here yet — but every candidate in India files an affidavit with the Election Commission.
+        {term.trim() ? <> Pull up <strong style={{ color: "#ccc" }}>“{term.trim()}”</strong> instantly:</> : <> Type a name above, or jump straight to the official records:</>}
+      </p>
+      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(200px, 1fr))", gap: "0.75rem" }}>
+        {links.map((l) => (
+          <a key={l.label} href={l.href} target="_blank" rel="noopener noreferrer" className="lift" style={{
+            display: "block", padding: "0.9rem 1rem", borderRadius: 10,
+            background: `${l.color}12`, border: `1px solid ${l.color}30`, textDecoration: "none",
+          }}>
+            <div style={{ color: l.color, fontWeight: 700, fontSize: 13, marginBottom: 2 }}>{l.label} ↗</div>
+            <div style={{ color: "#777", fontSize: 11 }}>{l.desc}</div>
+          </a>
+        ))}
+      </div>
     </div>
   );
 }
