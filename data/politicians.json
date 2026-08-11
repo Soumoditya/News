@@ -18,29 +18,41 @@
         "title": "2002 Gujarat Riots",
         "date": "2002-02-27",
         "description": "Accused of complicity in the 2002 Gujarat communal riots that killed 1,000+. Supreme Court gave him clean chit in 2022.",
-        "source": "https://www.supremecourt.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Narendra%20Modi%202002%20Gujarat%20Riots&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://www.supremecourt.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Electoral Bond Scheme",
         "date": "2018-01-02",
         "description": "Introduced Electoral Bond scheme declared unconstitutional by Supreme Court in 2024 for lack of transparency.",
-        "source": "https://www.sci.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Narendra%20Modi%20Electoral%20Bond%20Scheme&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://www.sci.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Demonetisation",
         "date": "2016-11-08",
         "description": "Unilateral demonetisation of ₹500 and ₹1000 notes caused massive economic disruption, 100+ deaths, long queues.",
-        "source": "https://rbi.org.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Narendra%20Modi%20Demonetisation&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://rbi.org.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "MGNREGS Budget Cuts",
         "date": "2022-02-01",
         "description": "Reduced MGNREGS (rural employment) budget by ₹25,000 crore amid high unemployment.",
-        "source": "https://indiabudget.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Narendra%20Modi%20MGNREGS%20Budget%20Cuts&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://indiabudget.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -63,7 +75,9 @@
       "BJP",
       "OBC",
       "Gujarat"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Narendra%20Modi",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 2,
@@ -84,22 +98,31 @@
         "title": "Rafale Deal Allegations",
         "date": "2018-09-28",
         "description": "Alleged wrongdoing in Rafale fighter jet procurement. SC gave clean chit to government. Gandhi's comments in SC drawn as contempt.",
-        "source": "https://www.supremecourt.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Rahul%20Gandhi%20Rafale%20Deal%20Allegations&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://www.supremecourt.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Criminal Defamation - Modi Surname",
         "date": "2023-02-10",
         "description": "Convicted by Surat court for criminal defamation for 'Modi surname thieves' remark. Disqualified as MP for 2 months. Supreme Court stayed the conviction.",
-        "source": "https://main.sci.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Rahul%20Gandhi%20Criminal%20Defamation%20-%20Modi%20Surname&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://main.sci.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Bharat Jodo Yatra Political Drama",
         "date": "2022-09-07",
         "description": "Critics called Bharat Jodo march political stunt amid party organisational weaknesses.",
-        "source": "https://ndtv.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Rahul%20Gandhi%20Bharat%20Jodo%20Yatra%20Political%20Drama&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://ndtv.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -123,7 +146,9 @@
       "INC",
       "Rae Bareli",
       "Gandhi Family"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Rahul%20Gandhi",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 3,
@@ -144,29 +169,41 @@
         "title": "Delhi Excise Policy Scam",
         "date": "2022-08-19",
         "description": "CBI and ED alleged ₹100 crore scam in new excise policy. Kejriwal arrested March 2024, granted bail by SC.",
-        "source": "https://cbi.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Arvind%20Kejriwal%20Delhi%20Excise%20Policy%20Scam&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cbi.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Sheesh Mahal Controversy",
         "date": "2022-09-01",
         "description": "BJP alleged ₹33 crore spent on CM's official bungalow renovation (called 'Sheesh Mahal'). CAG report flagged irregularities.",
-        "source": "https://cag.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Arvind%20Kejriwal%20Sheesh%20Mahal%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cag.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Promise vs Reality: Free Electricity",
         "date": "2020-02-11",
         "description": "Free electricity beyond 200 units subsidised but Delhi power tariff among highest in India. Subsidy burden rose ₹3,200 crore.",
-        "source": "https://delhi.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Arvind%20Kejriwal%20Promise%20vs%20Reality%3A%20Free%20Electricity&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://delhi.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Delhi Election Loss 2025",
         "date": "2025-02-08",
         "description": "AAP wiped out in Delhi, winning only 22 of 70 seats. Kejriwal lost his own New Delhi constituency by 4,000+ votes to BJP's Parvesh Verma.",
-        "source": "https://electioncommission.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Arvind%20Kejriwal%20Delhi%20Election%20Loss%202025&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -195,7 +232,9 @@
       "Delhi",
       "IIT",
       "Anti-corruption"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Arvind%20Kejriwal",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 4,
@@ -216,36 +255,51 @@
         "title": "Sandeshkhali Violence Against Women",
         "date": "2024-01-05",
         "description": "TMC leaders accused of land grab and sexual violence against women in Sandeshkhali. CBI/ED investigation ordered by HC.",
-        "source": "https://www.calcuttahighcourt.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Mamata%20Banerjee%20Sandeshkhali%20Violence%20Against%20Women&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://www.calcuttahighcourt.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "RG Kar Hospital Rape-Murder",
         "date": "2024-08-09",
         "description": "Trainee doctor raped and murdered in RG Kar Medical College. State police accused of evidence tampering. CBI took over investigation.",
-        "source": "https://cbi.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Mamata%20Banerjee%20RG%20Kar%20Hospital%20Rape-Murder&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cbi.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Rose Valley Chit Fund Scam",
         "date": "2013-01-01",
         "description": "TMC leaders accused of connections with ₹17,000 crore Rose Valley Ponzi scheme. ED investigations ongoing.",
-        "source": "https://enforcementdirectorate.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Mamata%20Banerjee%20Rose%20Valley%20Chit%20Fund%20Scam&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://enforcementdirectorate.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "TMC Syndicate Corruption",
         "date": "2015-01-01",
         "description": "TMC party workers accused of running 'syndicate raj' — extorting money from construction projects, businesses across Bengal.",
-        "source": "https://ndtv.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Mamata%20Banerjee%20TMC%20Syndicate%20Corruption&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://ndtv.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "West Bengal School Jobs Scam",
         "date": "2022-05-17",
         "description": "SC ordered CBI probe into alleged irregularities in 25,753 teacher appointments. Former education minister Partha Chatterjee arrested. ₹50 crore+ cash seized from his associate Arpita Mukherjee.",
-        "source": "https://main.sci.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Mamata%20Banerjee%20West%20Bengal%20School%20Jobs%20Scam&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://main.sci.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -274,7 +328,9 @@
       "West Bengal",
       "CM",
       "Anti-BJP"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Mamata%20Banerjee",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 5,
@@ -295,22 +351,31 @@
         "title": "Sohrabuddin Fake Encounter Case",
         "date": "2005-11-26",
         "description": "Accused of role in fake encounter of gangster Sohrabuddin Sheikh and wife. Discharged by special CBI court in 2014.",
-        "source": "https://cbi.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Amit%20Shah%20Sohrabuddin%20Fake%20Encounter%20Case&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cbi.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Illegal Surveillance Allegations",
         "date": "2012-06-20",
         "description": "Phone tapping controversy — alleged illegal surveillance of woman at Modi's behest when he was Gujarat CM. Revealed by The Caravan.",
-        "source": "https://caravanmagazine.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Amit%20Shah%20Illegal%20Surveillance%20Allegations&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://caravanmagazine.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Electoral Bond Architect",
         "date": "2018-01-02",
         "description": "As key strategist, co-designed Electoral Bond scheme declared unconstitutional by Supreme Court in 2024.",
-        "source": "https://www.sci.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Amit%20Shah%20Electoral%20Bond%20Architect&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://www.sci.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -334,7 +399,9 @@
       "Home Minister",
       "Gujarat",
       "BJP President (Former)"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Amit%20Shah",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 6,
@@ -355,15 +422,21 @@
         "title": "Goonda Tax / Extortion Allegations",
         "date": "2012-01-01",
         "description": "SP government's tenure marked by goonda tax allegations, anti-romeo squad excesses, power sector corruption.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Akhilesh%20Yadav%20Goonda%20Tax%20/%20Extortion%20Allegations&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Mining Mafia Connection",
         "date": "2014-01-01",
         "description": "UP mining mafia flourished during SP rule. CBI investigations linked SP-era officials to illegal sand mining worth billions.",
-        "source": "https://cbi.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Akhilesh%20Yadav%20Mining%20Mafia%20Connection&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cbi.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -391,7 +464,9 @@
       "Uttar Pradesh",
       "OBC",
       "Yadav Family"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Akhilesh%20Yadav",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 7,
@@ -412,22 +487,31 @@
         "title": "Disproportionate Assets Case",
         "date": "2007-01-01",
         "description": "SC/IT raids revealed assets disproportionate to known income. BSP worker donations of crores raised eyebrows.",
-        "source": "https://supremecourt.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Mayawati%20Disproportionate%20Assets%20Case&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://supremecourt.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Taj Corridor Scam",
         "date": "2002-01-01",
         "description": "Accused of corruption in Taj Heritage Corridor project. CBI filed FIR but SP Govt later dropped charges.",
-        "source": "https://cbi.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Mayawati%20Taj%20Corridor%20Scam&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cbi.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "BSP Fund Misappropriation",
         "date": "2012-01-01",
         "description": "IT Dept found discrepancies in BSP fund collection and Mayawati's personal accounts.",
-        "source": "https://incometax.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Mayawati%20BSP%20Fund%20Misappropriation&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://incometax.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -450,7 +534,9 @@
       "Dalit",
       "UP",
       "CM (4x)"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Mayawati",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 8,
@@ -471,15 +557,21 @@
         "title": "Multiple Party Switches",
         "date": "2022-08-10",
         "description": "Nitish Kumar switched alliances 7+ times — NDA to Mahagathbandhan to NDA — earning label 'Paltoo Ram' (turncoat) from opponents. Most recently switched BACK to NDA from INDIA bloc in February 2024 (left Mahagathbandhan). NDA won Bihar overwhelmingly in 2024 Lok Sabha.",
-        "source": "https://ndtv.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Nitish%20Kumar%20Multiple%20Party%20Switches&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://ndtv.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Liquor Ban Failure",
         "date": "2016-04-01",
         "description": "Total liquor ban in Bihar led to 73 deaths from hooch tragedy in 2021-22. Bootlegging flourished with alleged police connivance.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Nitish%20Kumar%20Liquor%20Ban%20Failure&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -502,7 +594,9 @@
       "Bihar",
       "CM",
       "NDA"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Nitish%20Kumar",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 9,
@@ -523,29 +617,41 @@
         "title": "Communal Violence Speeches",
         "date": "2007-01-27",
         "description": "Multiple FIRs for hate speech and incitement. Arrested in 2007 for inciting communal violence in Gorakhpur.",
-        "source": "https://ncrb.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Yogi%20Adityanath%20Communal%20Violence%20Speeches&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://ncrb.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Encounter Raj — 200+ Encounter Killings",
         "date": "2017-03-19",
         "description": "UP Police conducted 10,000+ encounters, 200+ killed since 2017. Human rights groups raised concerns about extrajudicial killings.",
-        "source": "https://nhrc.nic.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Yogi%20Adityanath%20Encounter%20Raj%20%E2%80%94%20200%2B%20Encounter%20Killings&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://nhrc.nic.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Covid Management Failures",
         "date": "2021-04-01",
         "description": "Bodies floating in Ganges, mass burial grounds exposed massive under-reporting of Covid deaths in UP.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Yogi%20Adityanath%20Covid%20Management%20Failures&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Bulldozer Justice Controversy",
         "date": "2024-10-02",
         "description": "SC issued guidelines in Oct 2024 against using bulldozers for punishing criminal suspects, citing UP's bulldozer demolitions as unconstitutional. Yogi's 'bulldozer baba' image under legal scrutiny.",
-        "source": "https://main.sci.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Yogi%20Adityanath%20Bulldozer%20Justice%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://main.sci.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -569,7 +675,9 @@
       "CM",
       "Hindu Monk",
       "Gorakhnath Peeth"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Yogi%20Adityanath",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 10,
@@ -590,22 +698,31 @@
         "title": "Fodder Scam — Convicted",
         "date": "1996-01-22",
         "description": "Bihar fodder scam — ₹950 crore embezzled from Animal Husbandry dept. Convicted in 4 cases. Served jail time. 5-year election ban.",
-        "source": "https://cbi.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Lalu%20Prasad%20Yadav%20Fodder%20Scam%20%E2%80%94%20Convicted&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cbi.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Land-For-Job Scam",
         "date": "2022-05-18",
         "description": "As Railway Minister, CBI alleges he gave railway jobs in exchange for land transfers to family members.",
-        "source": "https://cbi.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Lalu%20Prasad%20Yadav%20Land-For-Job%20Scam&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cbi.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Jungle Raj in Bihar",
         "date": "1990-03-10",
         "description": "Bihar under Lalu's CM tenure (1990-97) saw near-collapse of law and order, known as 'Jungle Raj'. Kidnapping industries flourished.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Lalu%20Prasad%20Yadav%20Jungle%20Raj%20in%20Bihar&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -645,7 +762,9 @@
       "OBC",
       "Convicted",
       "Fodder Scam"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Lalu%20Prasad%20Yadav",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 11,
@@ -666,29 +785,41 @@
         "title": "Educational Qualification Controversy",
         "date": "2014-05-26",
         "description": "Stated she had BA degree from Delhi University in 2004 affidavit, then BA Part 1 in 2014. Made HRD Minister despite disputed credentials.",
-        "source": "https://electioncommission.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Smriti%20Irani%20Educational%20Qualification%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Goa Bar Controversy",
         "date": "2023-07-21",
         "description": "Her daughter allegedly ran a bar in Goa at underage. Family denied allegations; controversy sparked political storm.",
-        "source": "https://ndtv.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Smriti%20Irani%20Goa%20Bar%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://ndtv.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "FTII Controversy",
         "date": "2015-06-01",
         "description": "As I&B Minister, appointed Gajendra Chauhan (TV actor) as FTII chair causing student protests and national debate.",
-        "source": "https://thehindu.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Smriti%20Irani%20FTII%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Amethi 2024 Defeat",
         "date": "2024-06-04",
         "description": "Lost to Congress's Kishori Lal Sharma by 1.67 lakh votes in a stunning reversal, having defeated Rahul Gandhi from Amethi in 2019.",
-        "source": "https://electioncommission.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Smriti%20Irani%20Amethi%202024%20Defeat&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -716,7 +847,9 @@
       "Women",
       "TV Actress (Former)",
       "HRD Minister (Former)"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Smriti%20Irani",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 12,
@@ -737,22 +870,31 @@
         "title": "Maharashtra Co-operative Bank Scam",
         "date": "2019-09-25",
         "description": "ED summoned Pawar over alleged irregularities in Maharashtra State Co-operative Bank worth ₹25,000 crore.",
-        "source": "https://enforcementdirectorate.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Sharad%20Pawar%20Maharashtra%20Co-operative%20Bank%20Scam&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://enforcementdirectorate.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "IPL Corruption Allegations",
         "date": "2013-03-01",
         "description": "As BCCI president, faced calls to resign over IPL spot-fixing scandal and alleged conflict of interest.",
-        "source": "https://cricbuzz.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Sharad%20Pawar%20IPL%20Corruption%20Allegations&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://cricbuzz.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "NCP Split 2023",
         "date": "2023-07-02",
         "description": "Nephew Ajit Pawar split NCP in July 2023, joined BJP-led Mahayuti government as Deputy CM. Supreme Court refused to give party name+symbol to Sharad faction initially. Sharad's NCP renamed NCP (Sharadchandra Pawar) — NCP(SP).",
-        "source": "https://electioncommission.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Sharad%20Pawar%20NCP%20Split%202023&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -775,7 +917,9 @@
       "Maharashtra",
       "Agriculture",
       "Cricket Politics"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Sharad%20Pawar",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 13,
@@ -796,15 +940,21 @@
         "title": "Robert Vadra Land Deals",
         "date": "2012-10-01",
         "description": "Husband Robert Vadra faces ED probe for alleged money laundering via land deals in Haryana, Rajasthan, and DLF transactions. Vadra got land at below-market rates during Congress rule. ED has attached ₹200 crore+ assets.",
-        "source": "https://enforcementdirectorate.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Priyanka%20Gandhi%20Vadra%20Robert%20Vadra%20Land%20Deals&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://enforcementdirectorate.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Dynastic Politics Critique",
         "date": "2024-11-13",
         "description": "Made parliamentary debut from Wayanad (vacated by brother Rahul Gandhi). Critics cite this as epitome of dynastic Congress politics — occupying a seat kept warm by family.",
-        "source": "https://electioncommission.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Priyanka%20Gandhi%20Vadra%20Dynastic%20Politics%20Critique&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -834,7 +984,9 @@
       "Wayanad",
       "Women",
       "Dynastic"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Priyanka%20Gandhi%20Vadra",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 14,
@@ -855,22 +1007,31 @@
         "title": "Land-For-Job Scam — Main Accused",
         "date": "2021-05-18",
         "description": "CBI alleges that as Railway Minister's son, land parcels were registered in his name and family members' names as kickbacks for railway jobs during Lalu's Railway Ministry (2004-09). Chargesheet filed naming him.",
-        "source": "https://cbi.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Tejashwi%20Yadav%20Land-For-Job%20Scam%20%E2%80%94%20Main%20Accused&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cbi.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Disproportionate Assets",
         "date": "2020-09-10",
         "description": "Declared ₹9 crore+ assets at age 26 — no clear income source declared. ED probe into unexplained wealth.",
-        "source": "https://enforcementdirectorate.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Tejashwi%20Yadav%20Disproportionate%20Assets&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://enforcementdirectorate.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "No Educational Qualification",
         "date": "2015-11-08",
         "description": "Became Deputy CM of Bihar (2022) without completing Class 10. Critics questioned qualification. Highest qualification declared: Class 9.",
-        "source": "https://electioncommission.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Tejashwi%20Yadav%20No%20Educational%20Qualification&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -895,7 +1056,9 @@
       "Youth",
       "Dynastic",
       "OBC"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Tejashwi%20Yadav",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 15,
@@ -916,15 +1079,21 @@
         "title": "Mining Lease Scam — Arrested",
         "date": "2024-01-31",
         "description": "ED arrested Hemant Soren on Jan 31, 2024 in money laundering case linked to alleged illegal mining lease allocation. Resigned as CM before arrest. Spent 5 months in jail. Released on bail by Jharkhand HC in June 2024.",
-        "source": "https://enforcementdirectorate.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Hemant%20Soren%20Mining%20Lease%20Scam%20%E2%80%94%20Arrested&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://enforcementdirectorate.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Re-elected After Jail",
         "date": "2024-11-28",
         "description": "Despite ED arrest and jail time, JMM-INDIA bloc swept Jharkhand elections Nov 2024. Soren returned as CM — a rare political comeback from custody.",
-        "source": "https://electioncommission.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Hemant%20Soren%20Re-elected%20After%20Jail&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -948,7 +1117,9 @@
       "CM",
       "Tribal",
       "INDIA Alliance"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Hemant%20Soren",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 16,
@@ -969,22 +1140,31 @@
         "title": "Akal Takht Punishment — Served as Sewadar",
         "date": "2024-12-02",
         "description": "Akal Takht (highest Sikh temporal authority) punished Sukhbir Singh Badal for 'mistakes' during SAD govt 2007-17 — including sacrilege incidents, dera pardon. He served as sewadar (servant) at Golden Temple in Dec 2024, shot at by attacker while doing seva.",
-        "source": "https://www.sgpc.net",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Sukhbir%20Singh%20Badal%20Akal%20Takht%20Punishment%20%E2%80%94%20Served%20as%20Sewadar&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://www.sgpc.net",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Drug Menace During SAD Rule",
         "date": "2012-01-01",
         "description": "Punjab's drug epidemic worsened during 2007-17 SAD-BJP rule. Sonu Mahajan report documented drug-politician nexus. Badal's govt accused of protecting drug runners.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Sukhbir%20Singh%20Badal%20Drug%20Menace%20During%20SAD%20Rule&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Sacrilege Cover-up",
         "date": "2015-06-01",
         "description": "Guru Granth Sahib desecration in Bargari 2015. SAD government accused of shielding perpetrators. Kotkapura police firing on protesters. Remains one of Punjab's most sensitive unresolved controversies.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Sukhbir%20Singh%20Badal%20Sacrilege%20Cover-up&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -1014,7 +1194,9 @@
       "Sikh Politics",
       "Akal Takht",
       "Dynastic"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Sukhbir%20Singh%20Badal",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 17,
@@ -1034,29 +1216,41 @@
         "title": "Longest Budget Speech Ever",
         "date": "2020-02-01",
         "description": "Her Feb 2020 Union Budget speech lasted 2 hours 42 minutes, the longest in Indian parliamentary history. She fainted mid-speech in 2019 due to exhaustion.",
-        "source": "https://indiabudget.gov.in",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Nirmala%20Sitharaman%20Longest%20Budget%20Speech%20Ever&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://indiabudget.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Electoral Bond Defense",
         "date": "2018-01-02",
         "description": "Jointly presented and defended the Electoral Bond Scheme in Parliament which the Supreme Court unanimously struck down as unconstitutional in Feb 2024 for violating voters' right to information.",
         "source": "https://main.sci.gov.in/supremecourt/2017/30285/30285_2017_5_1501_50804_Judgement_15-Feb-2024.pdf",
-        "severity": "high"
+        "severity": "high",
+        "sourceLabel": "Supreme Court",
+        "officialSource": "https://main.sci.gov.in/supremecourt/2017/30285/30285_2017_5_1501_50804_Judgement_15-Feb-2024.pdf",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "GST Multiple Rate Slabs Confusion",
         "date": "2017-07-01",
         "description": "As Finance Minister, the complex GST system with 5 rate slabs (0%, 5%, 12%, 18%, 28%) she administered was criticised by economists and businesses for excessive complexity and compliance burden on small traders.",
-        "source": "https://gstcouncil.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Nirmala%20Sitharaman%20GST%20Multiple%20Rate%20Slabs%20Confusion&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://gstcouncil.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Inflation Not Addressed — Food Prices Spike",
         "date": "2023-07-01",
         "description": "Retail food inflation hit 11.5% in July 2023. Tomatoes sold at ₹200/kg. Opposition blamed finance ministry's failure to control prices through fiscal/import policy.",
-        "source": "https://mospi.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Nirmala%20Sitharaman%20Inflation%20Not%20Addressed%20%E2%80%94%20Food%20Prices%20Spike&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://mospi.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -1081,7 +1275,9 @@
       "Economy",
       "Budget",
       "Rajya Sabha"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Nirmala%20Sitharaman",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 18,
@@ -1101,22 +1297,31 @@
         "title": "S-400 Procurement Delay",
         "date": "2021-01-01",
         "description": "Russia's S-400 missile system delivery delayed by Ukraine war sanctions concerns. India navigated US CAATSA sanctions threat — called a diplomatic success by some, risky gamble by others.",
-        "source": "https://pib.gov.in",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Rajnath%20Singh%20S-400%20Procurement%20Delay&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://pib.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Galwan Valley Clash Initial Response",
         "date": "2020-06-17",
         "description": "Initially India did not acknowledge the 20 soldier deaths in Galwan clash for several days. Opposition accused govt of downplaying the loss to China.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Rajnath%20Singh%20Galwan%20Valley%20Clash%20Initial%20Response&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Defence Procurement Delays",
         "date": "2022-01-01",
         "description": "India's defence indigenisation goals lagged. Despite Atmanirbhar push, critical systems like fighter jets, submarines remain import-dependent.",
-        "source": "https://mod.gov.in",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Rajnath%20Singh%20Defence%20Procurement%20Delays&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://mod.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -1145,7 +1350,9 @@
       "UP",
       "Lucknow",
       "NDA Senior"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Rajnath%20Singh",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 19,
@@ -1165,22 +1372,31 @@
         "title": "India-China Border Standoff Handling",
         "date": "2020-06-15",
         "description": "Credited with managing post-Galwan diplomacy but also criticised for slow disengagement at Depsang-Demchok. Full LAC disengagement not achieved till Oct 2024 — took 4+ years of talks.",
-        "source": "https://mea.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=S.%20Jaishankar%20India-China%20Border%20Standoff%20Handling&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://mea.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Sacking Indian Ambassadors",
         "date": "2019-06-01",
         "description": "As EAM, several senior IFS officers were not given expected postings — accusations of favouritism and bypassing seniority norms in foreign service.",
-        "source": "https://thehindu.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=S.%20Jaishankar%20Sacking%20Indian%20Ambassadors&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Conflict of Interest — Son in Tata",
         "date": "2023-01-01",
         "description": "Son Dhruva Jaishankar works for think tanks with corporate ties. Critics raised potential conflict of interest in trade negotiations. Not formally investigated.",
-        "source": "https://scroll.in",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=S.%20Jaishankar%20Conflict%20of%20Interest%20%E2%80%94%20Son%20in%20Tata&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://scroll.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -1210,7 +1426,9 @@
       "Diplomat",
       "Gujarat",
       "IFS (Former)"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=S.%20Jaishankar",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 20,
@@ -1230,22 +1448,31 @@
         "title": "Purti Group Loan Controversy",
         "date": "2012-11-01",
         "description": "AAP accused Gadkari's Purti Group of taking loans using BJP workers as front investors and irregular crop purchases. Gadkari denied; BJP defended him. He was made to step down as BJP President briefly amid probe.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Nitin%20Gadkari%20Purti%20Group%20Loan%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Highway Tolls and Land Acquisition Disputes",
         "date": "2020-01-01",
         "description": "NHAI under Gadkari faced massive controversy over toll rates, excess collection, and aggressive land acquisition displacing farmers. Toll revenue exceeded ₹40,000 crore/year.",
-        "source": "https://nhai.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Nitin%20Gadkari%20Highway%20Tolls%20and%20Land%20Acquisition%20Disputes&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://nhai.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Openly Criticized BJP/Modi Government",
         "date": "2023-05-01",
         "description": "Gadkari publicly criticized unemployment data, slow government decision-making, and called out political falsehoods. His remarks were widely seen as coded criticism of PM Modi — rare for a senior BJP minister.",
-        "source": "https://ndtv.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Nitin%20Gadkari%20Openly%20Criticized%20BJP/Modi%20Government&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://ndtv.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -1279,7 +1506,9 @@
       "Infrastructure",
       "Maharashtra",
       "Nagpur"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Nitin%20Gadkari",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 21,
@@ -1299,29 +1528,41 @@
         "title": "Stalin Name Controversy",
         "date": "1953-03-01",
         "description": "Named 'Stalin' by father Karunanidhi after Joseph Stalin — a name that drew criticism from various quarters for decades. Stalin himself denied any ideological affiliation with the Soviet dictator.",
-        "source": "https://thehindu.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=MK%20Stalin%20Stalin%20Name%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "NEET Opposition — TN Autonomy Demand",
         "date": "2021-01-01",
         "description": "Strongly opposes NEET (national medical entrance test) calling it discriminatory against state board students and Tamil Nadu's education system. Multiple student suicides linked to NEET pressure. TN assembly passed bills exempting state — pending Presidential assent.",
-        "source": "https://www.tnhealthuniv.ac.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=MK%20Stalin%20NEET%20Opposition%20%E2%80%94%20TN%20Autonomy%20Demand&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://www.tnhealthuniv.ac.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Language Imposition Protest",
         "date": "2022-04-01",
         "description": "Led protests against Hindi imposition in central govt services and NEP 2020's three-language formula. TN has a history of anti-Hindi agitations dating to 1965 riots.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=MK%20Stalin%20Language%20Imposition%20Protest&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Family Wealth Dispute",
         "date": "2021-05-01",
         "description": "DMK family assets declared at ₹1,500+ crore. Opposition alleged undervaluation. Stalin's Kolathur residence and agricultural lands valued controversially in EC affidavit.",
         "source": "https://myneta.info/tnassembly2021/candidate.php?candidate_id=730",
-        "severity": "medium"
+        "severity": "medium",
+        "sourceLabel": "MyNeta affidavit",
+        "officialSource": "https://myneta.info/tnassembly2021/candidate.php?candidate_id=730",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -1350,7 +1591,9 @@
       "CM",
       "Dravidian Politics",
       "Anti-BJP"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=MK%20Stalin",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 22,
@@ -1370,29 +1613,41 @@
         "title": "SNC-Lavalin Power Scam",
         "date": "1997-01-01",
         "description": "As Power Minister (1996-2001), CBI alleged ₹374 crore loss to Kerala in power project contracts awarded to Canadian firm SNC-Lavalin without proper tendering. CBI filed chargesheet. Kerala HC dismissed it. CBI appealed to Supreme Court — case dragged for 25+ years. SC upheld HC dismissal in 2019.",
-        "source": "https://main.sci.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Pinarayi%20Vijayan%20SNC-Lavalin%20Power%20Scam&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://main.sci.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Life Mission Corruption",
         "date": "2021-01-01",
         "description": "ED probed Life Mission housing project — alleged ₹1.42 crore was routed as bribe from UAE organisation through Swapna Suresh. Swapna (gold smuggling accused) alleged CM was involved. State contested allegations.",
-        "source": "https://enforcementdirectorate.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Pinarayi%20Vijayan%20Life%20Mission%20Corruption&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://enforcementdirectorate.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Gold Smuggling Case — Swapna Suresh Link",
         "date": "2020-07-05",
         "description": "Gold smuggled in diplomatic baggage through UAE Consulate. Swapna Suresh — who worked with CMO's office — was a key accused. ED alleged 'high level political connections.' CM's office under scanner but no charges filed against Vijayan.",
-        "source": "https://enforcementdirectorate.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Pinarayi%20Vijayan%20Gold%20Smuggling%20Case%20%E2%80%94%20Swapna%20Suresh%20Link&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://enforcementdirectorate.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "COVID Mismanagement Claims",
         "date": "2021-04-01",
         "description": "Kerala initially praised globally for COVID response, but second wave was severe. Late lockdown decisions and the Thrissur Pooram festival allowed during pandemic drew criticism.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Pinarayi%20Vijayan%20COVID%20Mismanagement%20Claims&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -1421,7 +1676,9 @@
       "CM",
       "Left",
       "Communist"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Pinarayi%20Vijayan",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 23,
@@ -1441,22 +1698,31 @@
         "title": "MUDA Scam — Prosecution Sanctioned",
         "date": "2024-08-19",
         "description": "Karnataka Governor granted prosecution sanction against CM Siddaramaiah in Mysuru Urban Development Authority (MUDA) scam. Allegedly 14 sites worth ₹56 crore were irregularly allotted to his wife Parvathi. CM challenged Governor's order in HC. HC upheld Governor's sanction Sept 2024. SC stayed it temporarily.",
-        "source": "https://main.sci.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Siddaramaiah%20MUDA%20Scam%20%E2%80%94%20Prosecution%20Sanctioned&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://main.sci.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Valmiki Corporation Scam",
         "date": "2024-03-01",
         "description": "₹89 crore from SC/ST Valmiki Development Corporation diverted. Congress state minister B. Nagendra arrested. Siddaramaiah as CM faces scrutiny for departmental oversight failure.",
-        "source": "https://cbi.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Siddaramaiah%20Valmiki%20Corporation%20Scam&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cbi.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "OBC Certificate Controversy",
         "date": "2023-05-15",
         "description": "Questions raised about Siddaramaiah's OBC (Kuruba) community certificate validity and timeline of registration. He denied wrongdoing.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Siddaramaiah%20OBC%20Certificate%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -1485,7 +1751,9 @@
       "CM",
       "OBC",
       "MUDA Scam"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Siddaramaiah",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 24,
@@ -1505,22 +1773,31 @@
         "title": "AP State Skill Development Corporation Scam — Arrested",
         "date": "2023-09-09",
         "description": "YSRCP government arrested Naidu under AP State Skill Development Corporation scam (₹3,300 crore alleged). Spent 53 days in Rajamahendravaram jail. AP HC granted bail in Oct 2023. He returned to power in 2024, case seen as political vendetta by supporters.",
-        "source": "https://www.andhrahighcourt.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=N.%20Chandrababu%20Naidu%20AP%20State%20Skill%20Development%20Corporation%20Scam%20%E2%80%94%20Arrested&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://www.andhrahighcourt.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Amaravati Capital Controversy",
         "date": "2015-10-01",
         "description": "Chose Amaravati as AP's new capital after bifurcation. Accused of insider trading — land prices in Amaravati zone shot up before official announcement. Farmers allege they were duped into giving land cheaply.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=N.%20Chandrababu%20Naidu%20Amaravati%20Capital%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Polavaram Project Cost Overruns",
         "date": "2017-01-01",
         "description": "AP's Polavaram irrigation project cost ballooned from ₹16,010 crore (2014 estimate) to ₹55,548 crore+ (2023). Tribal displacement issues, land acquisition controversies.",
-        "source": "https://jalshakti-dowr.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=N.%20Chandrababu%20Naidu%20Polavaram%20Project%20Cost%20Overruns&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://jalshakti-dowr.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -1545,7 +1822,9 @@
       "CM",
       "Tech-vision",
       "NDA Ally"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=N.%20Chandrababu%20Naidu",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 25,
@@ -1565,29 +1844,41 @@
         "title": "Drunk at Frankfurt Airport",
         "date": "2014-01-01",
         "description": "Accused of being drunk/unruly at Frankfurt airport during official foreign trip as MP. Video went viral. Later apologized to Parliament.",
-        "source": "https://ndtv.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Bhagwant%20Mann%20Drunk%20at%20Frankfurt%20Airport&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://ndtv.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Punjab Intelligence HQ Video Leak",
         "date": "2022-04-01",
         "description": "As CM, he shared a video touring the Punjab Police Intelligence HQ building — inadvertently revealing the sensitive facility's layout. Security experts raised concerns. He apologized.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Bhagwant%20Mann%20Punjab%20Intelligence%20HQ%20Video%20Leak&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Drug Menace — Slow Progress",
         "date": "2022-03-16",
         "description": "Won Punjab election promising to eliminate drug menace. Drug trafficking continues to be rampant in Punjab despite some gangster crackdowns. Major Punjab gangs (Goldy Brar, Lawrence Bishnoi network) operate from abroad.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Bhagwant%20Mann%20Drug%20Menace%20%E2%80%94%20Slow%20Progress&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Moosewala Murder — Security Failure",
         "date": "2022-05-29",
         "description": "Punjabi rapper Sidhu Moosewala murdered one day after AAP govt withdrew his security cover. Major controversy on security lapses. Lawrence Bishnoi gang claimed responsibility.",
-        "source": "https://tribuneindia.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Bhagwant%20Mann%20Moosewala%20Murder%20%E2%80%94%20Security%20Failure&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://tribuneindia.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -1612,7 +1903,9 @@
       "CM",
       "Comedian",
       "Anti-Drug"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Bhagwant%20Mann",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 26,
@@ -1632,29 +1925,41 @@
         "title": "Saradha Chit Fund Scam Link",
         "date": "2013-01-01",
         "description": "As senior Congress minister in Assam, faced allegations of proximity to Saradha Group promoter Sudipta Sen. ED and CBI investigated. Later switched to BJP in 2015. SC-monitored probe did not formally charge him.",
-        "source": "https://cbi.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Himanta%20Biswa%20Sarma%20Saradha%20Chit%20Fund%20Scam%20Link&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cbi.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Assam NRC Aftermath — Detention Camps",
         "date": "2019-08-31",
         "description": "19 lakh people excluded from NRC Assam. As Health Minister then CM, oversaw detention camp conditions criticised by human rights groups and NHRC.",
-        "source": "https://nhrc.nic.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Himanta%20Biswa%20Sarma%20Assam%20NRC%20Aftermath%20%E2%80%94%20Detention%20Camps&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://nhrc.nic.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Bulldozer Operations Against Muslims",
         "date": "2021-09-01",
         "description": "Bulldozer demolitions in Dhalpur, Sipajhar targeting alleged encroachments disproportionately affected Muslim communities. Human rights groups criticised targeting pattern. 2 protesters killed in police firing.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Himanta%20Biswa%20Sarma%20Bulldozer%20Operations%20Against%20Muslims&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Disproportionate Assets — ₹18 Crore Jump",
         "date": "2021-04-01",
         "description": "Assets jumped from ₹6.1 crore (2016 affidavit) to ₹185 crore (2021 affidavit) — a 30x increase on a minister's salary. Opposition demanded explanation.",
         "source": "https://myneta.info/assambly2021/candidate.php?candidate_id=1",
-        "severity": "high"
+        "severity": "high",
+        "sourceLabel": "MyNeta affidavit",
+        "officialSource": "https://myneta.info/assambly2021/candidate.php?candidate_id=1",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -1683,7 +1988,9 @@
       "CM",
       "NRC",
       "North East"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Himanta%20Biswa%20Sarma",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 27,
@@ -1703,22 +2010,31 @@
         "title": "False Affidavit — Criminal Cases Not Disclosed",
         "date": "2014-10-01",
         "description": "SC judgment 2014: Found guilty of not disclosing 2 pending criminal cases in his 2014 election affidavit — a violation that can disqualify an MP/MLA. SC directed EC to act. Case was later dropped.",
-        "source": "https://main.sci.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Devendra%20Fadnavis%20False%20Affidavit%20%E2%80%94%20Criminal%20Cases%20Not%20Disclosed&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://main.sci.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "NCP Split Mastermind",
         "date": "2023-07-02",
         "description": "Widely credited as the political strategist behind Ajit Pawar's split from NCP in July 2023, bringing Ajit's faction into BJP-led Mahayuti. Critics called it constitutional manipulation. 'Midnight operation' — similar to 2019 Devendra-Ajit midnight swearing-in fiasco.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Devendra%20Fadnavis%20NCP%20Split%20Mastermind&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Irrigation Scam Links",
         "date": "2012-01-01",
         "description": "₹70,000 crore Maharashtra irrigation scam happened partly under BJP-supported projects. As CM 2014-19, was accused of slow prosecution of Congress-era scam beneficiaries while pursuing selective anti-corruption action.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Devendra%20Fadnavis%20Irrigation%20Scam%20Links&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -1747,7 +2063,9 @@
       "CM",
       "Nagpur",
       "Brahmin"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Devendra%20Fadnavis",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 28,
@@ -1767,22 +2085,31 @@
         "title": "Cash-for-Vote Scandal — Arrested by ACB",
         "date": "2015-11-01",
         "description": "Anti-Corruption Bureau arrested Revanth Reddy for allegedly bribing a nominated MLA ₹50 lakh to vote for him in 2015 MLC elections. Video of cash exchange went viral. Was TDP MLA at that time. Released on bail.",
-        "source": "https://acbtelangana.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Revanth%20Reddy%20Cash-for-Vote%20Scandal%20%E2%80%94%20Arrested%20by%20ACB&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://acbtelangana.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Group-2 Exam Paper Leak Controversy",
         "date": "2024-07-01",
         "description": "Telangana Group-2 Services exam paper leaked shortly after Revanth became CM. Exam cancelled. Opposition demanded resignation. CID investigation.",
-        "source": "https://tgpsc.telangana.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Revanth%20Reddy%20Group-2%20Exam%20Paper%20Leak%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://tgpsc.telangana.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Phone Tapping Case — Against BRS",
         "date": "2024-04-01",
         "description": "Revanth govt's SIT arrested ex-Telangana DGP for alleged phone tapping of opposition politicians, judges, journalists during KCR's BRS rule. BRS claimed it was political victimisation. SIT found evidence of widespread illegal surveillance.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Revanth%20Reddy%20Phone%20Tapping%20Case%20%E2%80%94%20Against%20BRS&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -1806,7 +2133,9 @@
       "CM",
       "South India",
       "Congress Revival"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Revanth%20Reddy",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 29,
@@ -1826,29 +2155,41 @@
         "title": "Phone Tapping Scandal",
         "date": "2024-04-01",
         "description": "SIT found that KCR's BRS government conducted systematic illegal phone tapping of politicians, journalists, judges, and opposition leaders for political intelligence. Multiple officials arrested.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=K.%20Chandrashekar%20Rao%20Phone%20Tapping%20Scandal&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Cash-for-Jobs Allegations",
         "date": "2022-07-01",
         "description": "Opposition alleged illegal cash payments for government jobs during BRS rule in Telangana. Multiple arrests by Telangana Anti-Corruption Bureau after Congress came to power.",
-        "source": "https://acbtelangana.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=K.%20Chandrashekar%20Rao%20Cash-for-Jobs%20Allegations&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://acbtelangana.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Kaleshwaram Irrigation Scam",
         "date": "2023-02-01",
         "description": "CAG report flagged massive irregularities in Kaleshwaram lift irrigation project costing ₹80,000 crore. Cost overruns, kickback allegations. Sluice gates collapsed in 2022.",
-        "source": "https://cag.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=K.%20Chandrashekar%20Rao%20Kaleshwaram%20Irrigation%20Scam&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cag.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Power Tariff Irregularities",
         "date": "2023-01-01",
         "description": "Telangana discoms accumulated ₹1.5 lakh crore debt under BRS rule. Expensive power purchase agreements signed at non-transparent rates.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=K.%20Chandrashekar%20Rao%20Power%20Tariff%20Irregularities&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -1877,7 +2218,9 @@
       "Former CM",
       "Dynastic",
       "South India"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=K.%20Chandrashekar%20Rao",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 30,
@@ -1897,22 +2240,31 @@
         "title": "Remote Control CM — VK Pandian Controversy",
         "date": "2023-01-01",
         "description": "VK Pandian, a retired IAS officer and Patnaik's private secretary, became de-facto power centre of BJD govt. Accused of running parallel government. BJP weaponised 'outsider' Pandian (Tamil origin) against BJD. Pandian was parachuted to contest 2024 elections — BJD was wiped out, winning just 51 of 147 seats.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Naveen%20Patnaik%20Remote%20Control%20CM%20%E2%80%94%20VK%20Pandian%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Odisha Train Accident — Balasore",
         "date": "2023-06-02",
         "description": "Three-train collision at Bahanaga Bazar, Balasore killed 293+ people — India's deadliest rail accident in decades. While Railway Ministry (Central Govt) was responsible, state disaster response was scrutinised.",
-        "source": "https://ndtv.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Naveen%20Patnaik%20Odisha%20Train%20Accident%20%E2%80%94%20Balasore&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://ndtv.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "24-Year Rule — Democratic Stagnation",
         "date": "2000-03-05",
         "description": "Ruled Odisha for 24 consecutive years (longest serving non-NDA CM). While praised for stability and welfare schemes, critics said BJD suppressed meaningful opposition and democratic competition.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Naveen%20Patnaik%2024-Year%20Rule%20%E2%80%94%20Democratic%20Stagnation&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -1935,7 +2287,9 @@
       "Odisha",
       "Former CM",
       "Longest Serving CM"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Naveen%20Patnaik",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 31,
@@ -1955,22 +2309,31 @@
         "title": "Wife Sunanda Pushkar's Death — Abetment Case",
         "date": "2014-01-17",
         "description": "Wife Sunanda Pushkar found dead in a Delhi hotel room in Jan 2014. Delhi Police filed abetment to suicide/murder charges against Tharoor. Sessions court discharged Tharoor in 2021 citing 'no reliable evidence.' Delhi HC reversed this in July 2023 — trial reinstated. Case ongoing.",
-        "source": "https://delhipolice.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Shashi%20Tharoor%20Wife%20Sunanda%20Pushkar%27s%20Death%20%E2%80%94%20Abetment%20Case&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://delhipolice.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "IPL Kochi Franchise Controversy",
         "date": "2010-03-25",
         "description": "As Minister of State, had interests in the Kochi IPL franchise (his then-partner Sunanda Pushkar had 'sweat equity'). Resigned from ministry amid conflict of interest controversy.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Shashi%20Tharoor%20IPL%20Kochi%20Franchise%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "\"Cattle Class\" Tweet",
         "date": "2009-08-26",
         "description": "Tweeted about travelling 'cattle class' (economy class) in solidarity with aam aadmi (common man) — caused controversy about elite politician's disconnect. As a government minister, he was expected to not mock public transport.",
-        "source": "https://ndtv.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Shashi%20Tharoor%20%22Cattle%20Class%22%20Tweet&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://ndtv.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2001,7 +2364,9 @@
       "UN (Former)",
       "Author",
       "Thiruvananthapuram"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Shashi%20Tharoor",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 32,
@@ -2021,22 +2386,31 @@
         "title": "Provocative Speeches — Charged under NSA",
         "date": "1999-01-01",
         "description": "Detained under National Security Act (NSA) in 1999 for inflammatory speech. Has faced multiple FIRs for hate speech-adjacent remarks though charges were largely not upheld.",
-        "source": "https://ndtv.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Asaduddin%20Owaisi%20Provocative%20Speeches%20%E2%80%94%20Charged%20under%20NSA&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://ndtv.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Brother Akbaruddin Owaisi — Hate Speech Conviction",
         "date": "2012-01-01",
         "description": "Brother Akbaruddin Owaisi (MLA) convicted for communally provocative speech. Sentenced to 2 years. Asaduddin distanced himself but opposition frequently links both.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Asaduddin%20Owaisi%20Brother%20Akbaruddin%20Owaisi%20%E2%80%94%20Hate%20Speech%20Conviction&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Vote Splitter Accusations",
         "date": "2022-01-01",
         "description": "BJP and INC both accuse AIMIM of splitting Muslim votes — helping BJP win by dividing secular votes. AIMIM's presence in UP, Bihar, Gujarat seen as hurting opposition in close contests.",
-        "source": "https://scroll.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Asaduddin%20Owaisi%20Vote%20Splitter%20Accusations&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://scroll.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2060,7 +2434,9 @@
       "Muslim Politics",
       "Barrister",
       "South India"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Asaduddin%20Owaisi",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 33,
@@ -2080,22 +2456,31 @@
         "title": "Shiv Sena Split — Lost Party Name and Symbol",
         "date": "2022-06-20",
         "description": "42 of 55 Shiv Sena MLAs followed Eknath Shinde in rebellion, collapsed Uddhav's MVA government June 2022. Election Commission gave Eknath Shinde's faction the 'Shiv Sena' name and 'Bow and Arrow' symbol in Feb 2023. Uddhav now leads 'Shiv Sena (UBT)' — a humiliating loss after 60+ years of Thackeray family building the party.",
-        "source": "https://electioncommission.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Uddhav%20Thackeray%20Shiv%20Sena%20Split%20%E2%80%94%20Lost%20Party%20Name%20and%20Symbol&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "COVID Lockdown Mismanagement",
         "date": "2021-04-01",
         "description": "Maharashtra had India's highest COVID deaths. Second wave hit Mumbai-Pune belt hardest. Criticism of late lockdowns, oxygen shortage, vaccine procurement delays.",
-        "source": "https://mohfw.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Uddhav%20Thackeray%20COVID%20Lockdown%20Mismanagement&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://mohfw.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Alliance with Congress — Ideological Contradiction",
         "date": "2019-11-23",
         "description": "Formed Maharashtra Vikas Aghadi with Congress and NCP — parties with diametrically opposite ideology to Shiv Sena's Hindutva. Was dubbed 'opportunistic' by BJP. Considered a key factor in losing Shiv Sena workers' loyalty.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Uddhav%20Thackeray%20Alliance%20with%20Congress%20%E2%80%94%20Ideological%20Contradiction&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2124,7 +2509,9 @@
       "Thackeray Family",
       "Former CM",
       "Hindutva"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Uddhav%20Thackeray",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 34,
@@ -2144,22 +2531,31 @@
         "title": "Shiv Sena Rebellion — Constitutional Crisis",
         "date": "2022-06-20",
         "description": "Broke away from Uddhav Thackeray with 40 rebel MLAs to Guwahati (Assam). Toppled MVA govt and became CM with BJP support. SC later ruled the Governor's action was flawed but said disqualification not feasible since assembly's 5-year term ended.",
-        "source": "https://main.sci.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Eknath%20Shinde%20Shiv%20Sena%20Rebellion%20%E2%80%94%20Constitutional%20Crisis&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://main.sci.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Alleged Land Deals During CM Tenure",
         "date": "2022-12-01",
         "description": "Multiple media reports alleged that Shinde-era Maharashtra govt facilitated land deals and government contracts benefiting those close to him. Mahayuti lost 2024 Maha Lok Sabha elections initially.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Eknath%20Shinde%20Alleged%20Land%20Deals%20During%20CM%20Tenure&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Maharashtra Elections 2024 — Mahayuti Comeback",
         "date": "2024-11-23",
         "description": "Despite losing ground in Lok Sabha 2024, Mahayuti (Shinde-BJP-Ajit NCP) swept Maharashtra Vidhan Sabha Nov 2024 with 230+ seats. Shinde's faction won 57/80 seats. PM Modi became Fadnavis as new CM, Shinde stepped aside.",
-        "source": "https://electioncommission.gov.in",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Eknath%20Shinde%20Maharashtra%20Elections%202024%20%E2%80%94%20Mahayuti%20Comeback&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2188,7 +2584,9 @@
       "Former CM",
       "Rebellion",
       "NDA"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Eknath%20Shinde",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 35,
@@ -2208,22 +2606,31 @@
         "title": "Irrigation Scam — ₹70,000 Crore",
         "date": "2012-09-01",
         "description": "Maharashtra Irrigation Dept under Ajit Pawar (Water Resources Minister 1999-2009, 2010-2014) saw ₹70,000 crore in contracts with 0% project completion in some cases. One of India's biggest water scam allegations. He was exonerated by NCP-Congress but investigated under BJP govt.",
-        "source": "https://cag.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Ajit%20Pawar%20Irrigation%20Scam%20%E2%80%94%20%E2%82%B970%2C000%20Crore&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cag.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "NCP Split — Joined BJP",
         "date": "2023-07-02",
         "description": "Split NCP in July 2023 with 8 ministers, joined BJP-led Maharashtra govt as Deputy CM. Supreme Court stayed his 'rebel MLA' disqualification. Sharad Pawar (uncle/party founder) calls this a family and political betrayal.",
-        "source": "https://electioncommission.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Ajit%20Pawar%20NCP%20Split%20%E2%80%94%20Joined%20BJP&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "2019 Midnight Swearing-In Drama",
         "date": "2019-11-23",
         "description": "In a dramatic midnight operation, Ajit Pawar was sworn in as Maharashtra Deputy CM under Devendra Fadnavis (BJP) without NCP sanction. Lasted only 80 hours — collapsed when NCP MLAs refused to join. Called 'greatest political drama of Indian democracy' by observers.",
-        "source": "https://ndtv.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Ajit%20Pawar%202019%20Midnight%20Swearing-In%20Drama&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://ndtv.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2252,7 +2659,9 @@
       "Deputy CM",
       "Irrigation Scam",
       "Baramati"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Ajit%20Pawar",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 36,
@@ -2272,22 +2681,31 @@
         "title": "Patra Chawl Land Scam — Arrested by ED",
         "date": "2022-07-31",
         "description": "ED arrested Sanjay Raut on July 31, 2022 in ₹1,000+ crore alleged money laundering case. Linked to redevelopment of Patra Chawl housing society in Mumbai. Spent over 100 days in jail. Released on bail in Nov 2022. Trial ongoing.",
-        "source": "https://enforcementdirectorate.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Sanjay%20Raut%20Patra%20Chawl%20Land%20Scam%20%E2%80%94%20Arrested%20by%20ED&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://enforcementdirectorate.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Wife's Dalit Loan Controversy",
         "date": "2021-01-01",
         "description": "Wife Varsha Raut received ₹55 lakh in alleged loan from Swapna Patkar (associate of accused in Patra Chawl scam). Raut said it was a personal loan; ED called it money laundering proceeds.",
-        "source": "https://enforcementdirectorate.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Sanjay%20Raut%20Wife%27s%20Dalit%20Loan%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://enforcementdirectorate.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Inflammatory Statements on Constitutional Institutions",
         "date": "2023-01-01",
         "description": "Known for provocative media statements. Made derogatory remarks about Maharashtra Governor, election commissioners — attracted privilege motion threats in Rajya Sabha.",
-        "source": "https://rajyasabha.nic.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Sanjay%20Raut%20Inflammatory%20Statements%20on%20Constitutional%20Institutions&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://rajyasabha.nic.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2316,7 +2734,9 @@
       "Rajya Sabha",
       "Journalist",
       "Opposition"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Sanjay%20Raut",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 37,
@@ -2336,22 +2756,31 @@
         "title": "J&K Cricket Board Scam",
         "date": "2014-01-01",
         "description": "CBI probe into J&K Cricket Association funds misappropriation under Farooq Abdullah's presidency. ₹43 crore alleged irregularities in BCCI grants. Case ongoing for a decade.",
-        "source": "https://cbi.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Farooq%20Abdullah%20J%26K%20Cricket%20Board%20Scam&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cbi.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Detained Under PSA (2019)",
         "date": "2019-08-05",
         "description": "Detained under Public Safety Act (PSA) after abrogation of Article 370 in August 2019. Spent months under detention at his own home. Detention described as arbitrary by opposition and international observers.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Farooq%20Abdullah%20Detained%20Under%20PSA%20%282019%29&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "China-Support Comments",
         "date": "2020-12-01",
         "description": "Made remarks seemingly supportive of China in India-China border dispute context. Caused huge controversy, accused of anti-national sentiment. He later clarified his position.",
-        "source": "https://ndtv.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Farooq%20Abdullah%20China-Support%20Comments&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://ndtv.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2380,7 +2809,9 @@
       "Former CM",
       "Doctor",
       "Abdullah Family"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Farooq%20Abdullah",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 38,
@@ -2400,22 +2831,31 @@
         "title": "Detained Under PSA 2019",
         "date": "2019-08-05",
         "description": "Detained under Public Safety Act (PSA) for 8 months after Article 370 abrogation. He was among the first leaders detained. Later wrote about the ordeal. International observers criticised India's detention of mainstream elected leaders.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Omar%20Abdullah%20Detained%20Under%20PSA%202019&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "J&K Became Union Territory — Political Loss",
         "date": "2019-08-05",
         "description": "Under his 2009-2014 CM tenure J&K was full state with special status. By 2019, during NDA rule, J&K lost both statehood (downgraded to UT) and Article 370 special status — a major political setback for NC ideology.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Omar%20Abdullah%20J%26K%20Became%20Union%20Territory%20%E2%80%94%20Political%20Loss&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Statehood Not Restored — NC Demand",
         "date": "2024-10-17",
         "description": "J&K restored to Assembly rule but NOT to full statehood. Omar became CM of UT (not state). PM Modi promised statehood restoration 'at appropriate time.' NC considers full statehood restoration its primary demand.",
-        "source": "https://jkgov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Omar%20Abdullah%20Statehood%20Not%20Restored%20%E2%80%94%20NC%20Demand&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://jkgov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2445,7 +2885,9 @@
       "CM",
       "Dynasty",
       "Young Leader"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Omar%20Abdullah",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 39,
@@ -2465,22 +2907,31 @@
         "title": "LJP Split — Fought Own Uncle Pashupati Paras",
         "date": "2021-06-07",
         "description": "Chirag used his father (late Ram Vilas Paswan)'s legacy to expel uncle Pashupati Kumar Paras from LJP president post. EC awarded 'LJP (Ram Vilas)' name to Chirag after long battle. His own NDA relationship improved when he won in 2024.",
-        "source": "https://electioncommission.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Chirag%20Paswan%20LJP%20Split%20%E2%80%94%20Fought%20Own%20Uncle%20Pashupati%20Paras&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Acted Against NDA in Bihar 2020",
         "date": "2020-10-28",
         "description": "In Bihar 2020 elections, Chirag contested seats against JDU (Nitish Kumar's party) even though both were NDA allies — helping split NDA votes deliberately. Many accused him of working against NDA from within. JDU was weakened.",
-        "source": "https://electioncommission.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Chirag%20Paswan%20Acted%20Against%20NDA%20in%20Bihar%202020&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Claims of Dalit-Child of Hanuman",
         "date": "2021-01-01",
         "description": "Fashioned himself as 'Desh ka Chirag' (Light of the country) and 'Bajrang Bali ka bachcha' (Son of Hanuman) — an unusual identity politics mix for a Dalit leader traditionally associated with Ambedkarite movements.",
-        "source": "https://ndtv.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Chirag%20Paswan%20Claims%20of%20Dalit-Child%20of%20Hanuman&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://ndtv.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2505,7 +2956,9 @@
       "NDA",
       "Dynastic",
       "Young Leader"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Chirag%20Paswan",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 40,
@@ -2525,22 +2978,31 @@
         "title": "Baramati vs Baramati — Cousin-in-Law Battle",
         "date": "2024-05-01",
         "description": "In 2024 Lok Sabha, Supriya Sule fought against Sunetra Pawar (wife of cousin Ajit Pawar) from Baramati constituency. Unprecedented family vs family battle. Supriya won by 1.5 lakh votes — repudiation of Ajit's NCP split.",
-        "source": "https://electioncommission.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Supriya%20Sule%20Baramati%20vs%20Baramati%20%E2%80%94%20Cousin-in-Law%20Battle&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Dynastic Politics",
         "date": "2019-01-01",
         "description": "Daughter of Sharad Pawar, one of India's most powerful politicians. Critics call her a pure dynasty product — though she's built her own political identity in Baramati.",
-        "source": "https://thehindu.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Supriya%20Sule%20Dynastic%20Politics&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Maharashtra Cooperative Bank Probe",
         "date": "2020-01-01",
         "description": "As daughter of Sharad Pawar who headed the Maharashtra State Cooperative Bank, faced questions about the ₹25,000 crore alleged scam. No charges directly against her.",
-        "source": "https://thehindu.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Supriya%20Sule%20Maharashtra%20Cooperative%20Bank%20Probe&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2570,7 +3032,9 @@
       "Baramati",
       "Pawar Family",
       "Women Leader"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Supriya%20Sule",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 41,
@@ -2590,22 +3054,31 @@
         "title": "Defection to BJP — Toppled MP Congress Govt",
         "date": "2020-03-10",
         "description": "Resigned from Congress in March 2020 with 22 MLAs, joining BJP and collapsing Kamal Nath's Congress government in MP (which had 114/230 seats). Critics called it 'anti-democratic defection.' He got Rajya Sabha seat and ministry in return.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Jyotiraditya%20Scindia%20Defection%20to%20BJP%20%E2%80%94%20Toppled%20MP%20Congress%20Govt&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Gwalior Royal Family — Inherited Wealth",
         "date": "2021-01-01",
         "description": "Declared ₹374 crore assets in 2019. Son of Madhavrao Scindia (former aviation minister). Old Gwalior Maharaja family with 800+ year legacy — immense inherited wealth including palaces, agricultural land.",
         "source": "https://myneta.info/loksabha2019/candidate.php?candidate_id=6177",
-        "severity": "low"
+        "severity": "low",
+        "sourceLabel": "MyNeta affidavit",
+        "officialSource": "https://myneta.info/loksabha2019/candidate.php?candidate_id=6177",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Harvard-Stanford Roots, MP Problems",
         "date": "2023-01-01",
         "description": "Constituency Guna among MP's most backward areas. Despite Harvard-Stanford education and ministerial power, Guna's development indicators lag. Critics cite disconnect between elite background and ground reality.",
-        "source": "https://thehindu.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Jyotiraditya%20Scindia%20Harvard-Stanford%20Roots%2C%20MP%20Problems&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2636,7 +3109,9 @@
       "Harvard",
       "Maharaja",
       "Telecom Minister"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Jyotiraditya%20Scindia",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 42,
@@ -2656,22 +3131,31 @@
         "title": "Vyapam Scam — India's Biggest Jobs Scam",
         "date": "2013-07-01",
         "description": "MP's Professional Examination Board (Vyapam) was involved in systematic cheating ring for government jobs and medical admissions. 2,000+ accused arrested, 40+ mysterious deaths of witnesses/accused. Happened during Chouhan's CM tenure. CBI took over probe. HC found systemic rot.",
-        "source": "https://cbi.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Shivraj%20Singh%20Chouhan%20Vyapam%20Scam%20%E2%80%94%20India%27s%20Biggest%20Jobs%20Scam&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cbi.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Farmer Suicides — 2017 Mandsaur Firing",
         "date": "2017-06-06",
         "description": "5 farmers killed in police firing at Mandsaur during farmer protests against low MSP. Chouhan was CM. Incident shocked nation. He apologized and promised compensation.",
-        "source": "https://nhrc.nic.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Shivraj%20Singh%20Chouhan%20Farmer%20Suicides%20%E2%80%94%202017%20Mandsaur%20Firing&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://nhrc.nic.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Madhya Pradesh Became 'BIMARU' Again?",
         "date": "2022-01-01",
         "description": "MP's Human Development Index remained among India's lowest despite 18+ years of BJP rule under Chouhan. Critics said governance prioritized central transfers over structural development.",
-        "source": "https://niti.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Shivraj%20Singh%20Chouhan%20Madhya%20Pradesh%20Became%20%27BIMARU%27%20Again%3F&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://niti.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2700,7 +3184,9 @@
       "Agriculture Minister",
       "Former CM",
       "OBC"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Shivraj%20Singh%20Chouhan",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 43,
@@ -2720,22 +3206,31 @@
         "title": "Haryana Farmer Protests — 2021",
         "date": "2021-01-26",
         "description": "Haryana police blocked protesting farmers at state borders during 2020-21 farm law protests. Water cannons, tear gas used in peak winter. Khattar government accused of heavy-handedness against Punjabi/Haryanvi farmers.",
-        "source": "https://nhrc.nic.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Manohar%20Lal%20Khattar%20Haryana%20Farmer%20Protests%20%E2%80%94%202021&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://nhrc.nic.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Karnal Lathi Charge — IAS officer ordered lathicharge",
         "date": "2021-08-28",
         "description": "IAS officer Ayush Sinha issued order to police to 'break heads' of protesting farmers at Karnal. Video went viral. National uproar. Government eventually suspended and settled with farmers after protests.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Manohar%20Lal%20Khattar%20Karnal%20Lathi%20Charge%20%E2%80%94%20IAS%20officer%20ordered%20lathicharge&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Nuh Violence Haryana 2023",
         "date": "2023-07-31",
         "description": "Communal violence in Nuh district, Haryana killed 6+. VHP procession attacked. Retaliatory violence. Bulldozer demolitions of Muslim properties triggered national debate. Khattar government under scrutiny.",
-        "source": "https://nhrc.nic.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Manohar%20Lal%20Khattar%20Nuh%20Violence%20Haryana%202023&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://nhrc.nic.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2759,7 +3254,9 @@
       "Former CM",
       "RSS",
       "Housing Minister"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Manohar%20Lal%20Khattar",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 44,
@@ -2779,22 +3276,31 @@
         "title": "Shadow of Modi — Seen as Proxy CM",
         "date": "2021-09-13",
         "description": "Installed as Gujarat CM in 2021 replacing Vijay Rupani just 4 months before elections. Seen as a placeholder/loyal RSS pracharak with no independent political identity. Critics say real power lies with Modi-Shah even in Gujarat governance.",
-        "source": "https://thehindu.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Bhupendra%20Patel%20Shadow%20of%20Modi%20%E2%80%94%20Seen%20as%20Proxy%20CM&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Morbi Bridge Collapse",
         "date": "2022-10-30",
         "description": "Britain-era Morbi suspension bridge collapsed killing 135+ people. Bridge was reopened after 'renovation' without safety certificates. Oreva Group given maintenance contract without proper tendering. Bhupendra Patel govt faced negligence criticism.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Bhupendra%20Patel%20Morbi%20Bridge%20Collapse&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "AAP Leader Arrested Before Gujarat Elections",
         "date": "2022-11-01",
         "description": "AAP's Gopal Italia arrested on sedition charges days before 2022 Gujarat elections. Critics called it political vendetta. SC granted bail. BJP swept Gujarat with 156/182 seats.",
-        "source": "https://main.sci.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Bhupendra%20Patel%20AAP%20Leader%20Arrested%20Before%20Gujarat%20Elections&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://main.sci.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2818,7 +3324,9 @@
       "CM",
       "Patidar",
       "Modi Protege"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Bhupendra%20Patel",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 45,
@@ -2838,22 +3346,31 @@
         "title": "Lost Own Seat — Became CM After Defeat",
         "date": "2022-03-10",
         "description": "Lost his own Khatima constituency in 2022 Uttarakhand elections but BJP made him CM anyway. Won Champawat bypoll. This violates spirit of electoral accountability — constitutionally allowed for 6 months but politically criticised.",
-        "source": "https://electioncommission.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Pushkar%20Singh%20Dhami%20Lost%20Own%20Seat%20%E2%80%94%20Became%20CM%20After%20Defeat&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Uniform Civil Code — Uttarakhand First State",
         "date": "2024-02-06",
         "description": "Uttarakhand became first Indian state to implement Uniform Civil Code (UCC). Opposition said it targeted Muslim personal law. Dhami seen as BJP's face on UCC implementation.",
-        "source": "https://ukgov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Pushkar%20Singh%20Dhami%20Uniform%20Civil%20Code%20%E2%80%94%20Uttarakhand%20First%20State&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://ukgov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Joshimath Sinking — Delayed Response",
         "date": "2023-01-01",
         "description": "Joshimath town in Uttarakhand began sinking from massive construction-induced land subsidence. 600+ houses cracked. Emergency displacement of thousands. State government criticized for delayed response and continued tunnel/NTPC projects near the city.",
-        "source": "https://ndtv.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Pushkar%20Singh%20Dhami%20Joshimath%20Sinking%20%E2%80%94%20Delayed%20Response&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://ndtv.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2877,7 +3394,9 @@
       "CM",
       "UCC",
       "Himalayas"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Pushkar%20Singh%20Dhami",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 46,
@@ -2897,22 +3416,31 @@
         "title": "HP Financial Crisis — OPS Burden",
         "date": "2023-01-01",
         "description": "Sukhu's Congress govt restored Old Pension Scheme (OPS) fulfilling election promise — but it added ₹2,000+ crore annual burden to HP's already debt-laden finances. HP has one of India's highest debt-to-GSDP ratios.",
-        "source": "https://hpvidhansabha.nic.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Sukhwinder%20Singh%20Sukhu%20HP%20Financial%20Crisis%20%E2%80%94%20OPS%20Burden&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://hpvidhansabha.nic.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Congress MLAs Revolt — Almost Lost Govt",
         "date": "2024-02-27",
         "description": "6 Congress MLAs voted against the state budget — a rare rebellion. Cross-voted in Rajya Sabha elections (BJP candidate won). Sukhu survived only with Governor intervention and anti-defection action against rebel MLAs. Shows fragile political hold.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Sukhwinder%20Singh%20Sukhu%20Congress%20MLAs%20Revolt%20%E2%80%94%20Almost%20Lost%20Govt&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Apple Growers' Protests",
         "date": "2023-07-01",
         "description": "HP apple farmers protested against high import duties, infrastructure issues, low MSP, and alleged cartelization by cold storage companies. Sukhu govt promised action but implementation delayed.",
-        "source": "https://thehindu.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Sukhwinder%20Singh%20Sukhu%20Apple%20Growers%27%20Protests&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2936,7 +3464,9 @@
       "CM",
       "Himachal Pradesh",
       "OPS"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Sukhwinder%20Singh%20Sukhu",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 47,
@@ -2956,22 +3486,31 @@
         "title": "Surprise CM Choice — Over Vasundhara Raje",
         "date": "2023-12-15",
         "description": "BJP bypassed Vasundhara Raje (senior BJP leader, 2x Rajasthan CM) to install relatively unknown first-time MLA Bhajan Lal Sharma. Seen as Modi-Shah asserting control over state BJP politics. Raje supporters were furious.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Bhajan%20Lal%20Sharma%20Surprise%20CM%20Choice%20%E2%80%94%20Over%20Vasundhara%20Raje&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Paper Leaks — Rajasthan Exam Fraud",
         "date": "2024-02-01",
         "description": "Multiple competitive exam papers (REET, SI recruitment) leaked under previous Congress and now BJP govts. Rajasthan became infamous nationally for paper leak culture. New govt promised anti-paper leak law.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Bhajan%20Lal%20Sharma%20Paper%20Leaks%20%E2%80%94%20Rajasthan%20Exam%20Fraud&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Revenue Intelligence HQ Shooting",
         "date": "2024-01-01",
         "description": "A man entered Revenue Intelligence Office in Jaipur and opened fire. Security lapses exposed. Highlights law and order concerns in state capital.",
-        "source": "https://ndtv.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Bhajan%20Lal%20Sharma%20Revenue%20Intelligence%20HQ%20Shooting&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://ndtv.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -2995,7 +3534,9 @@
       "CM",
       "First-time MLA",
       "RSS"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Bhajan%20Lal%20Sharma",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 48,
@@ -3015,22 +3556,31 @@
         "title": "Bypass of Experienced Leaders — Surprise CM",
         "date": "2023-12-11",
         "description": "BJP bypassed Shivraj Singh Chouhan (4x CM) and Narottam Mishra to install Mohan Yadav — sending a message about OBC outreach for 2024 Lok Sabha elections. Shock appointment for party insiders.",
-        "source": "https://thehindu.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Mohan%20Yadav%20Bypass%20of%20Experienced%20Leaders%20%E2%80%94%20Surprise%20CM&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Criminal Cases Declared in Affidavit",
         "date": "2023-11-01",
         "description": "Declared 2 pending criminal cases in 2023 election affidavit. One case related to an alleged incident in 2004, another in 2008. Details in EC affidavit.",
         "source": "https://myneta.info/mpassembly2023/candidate.php?candidate_id=1",
-        "severity": "medium"
+        "severity": "medium",
+        "sourceLabel": "MyNeta affidavit",
+        "officialSource": "https://myneta.info/mpassembly2023/candidate.php?candidate_id=1",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Ujjain Mahakal Corridor — Land Acquisition Disputes",
         "date": "2022-10-11",
         "description": "Ujjain Mahakal Temple Corridor, inaugurated by PM Modi, displaced several hundred families. Compensation disputes led to protests. Mohan Yadav as MP overseen the process, faced local backlash.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Mohan%20Yadav%20Ujjain%20Mahakal%20Corridor%20%E2%80%94%20Land%20Acquisition%20Disputes&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -3055,7 +3605,9 @@
       "OBC",
       "Yadav",
       "Hindutva"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Mohan%20Yadav",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 49,
@@ -3075,22 +3627,31 @@
         "title": "Replacement of Khattar — 6 Months Before Election",
         "date": "2024-03-12",
         "description": "BJP replaced Khattar with Saini just months before Haryana elections. This 'CM churn' strategy (install new CM to neutralise anti-incumbency) was seen as political trickery. BJP eventually won Oct 2024 elections surprisingly.",
-        "source": "https://thehindu.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Nayab%20Singh%20Saini%20Replacement%20of%20Khattar%20%E2%80%94%206%20Months%20Before%20Election&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Farmers Protests — Shambhu Border Standoff",
         "date": "2024-02-13",
         "description": "Haryana police blocked farmers marching to Delhi from Shambhu border using teargas, concrete barricades, drones. Kinnaur farmer Shubhkaran Singh died after being shot with rubber bullets. Major controversy about farmer rights.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Nayab%20Singh%20Saini%20Farmers%20Protests%20%E2%80%94%20Shambhu%20Border%20Standoff&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Agniveer Scheme Controversy",
         "date": "2024-05-01",
         "description": "As Haryana CM, had to implement controversial Agnipath/Agniveer 4-year short-term army recruitment scheme. Haryana has traditionally high army recruitment. Youth protests against Agniveer happened across Haryana.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Nayab%20Singh%20Saini%20Agniveer%20Scheme%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -3114,7 +3675,9 @@
       "CM",
       "OBC",
       "New Leader"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Nayab%20Singh%20Saini",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 50,
@@ -3135,21 +3698,30 @@
         "date": "2023-01-01",
         "description": "4 pending criminal cases declared in 2024 affidavit. Cases primarily relating to protests/demonstrations from his opposition years. ADR flagged as concerning.",
         "source": "https://myneta.info/odisha2024/candidate.php?candidate_id=1",
-        "severity": "medium"
+        "severity": "medium",
+        "sourceLabel": "MyNeta affidavit",
+        "officialSource": "https://myneta.info/odisha2024/candidate.php?candidate_id=1",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Odisha Mining Corruption — End of BJD Era",
         "date": "2024-06-10",
         "description": "Ended 24 years of BJD rule in Odisha. Installed as CM over senior leaders, signalling Modi-Shah's preference for tribal CM. Will have to deal with massive post-BJD corruption cases in Odisha mining sector.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Mohan%20Majhi%20Odisha%20Mining%20Corruption%20%E2%80%94%20End%20of%20BJD%20Era&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Anti-Conversion Law Push",
         "date": "2024-08-01",
         "description": "Plans to enact tough anti-conversion law in tribal-dominated Odisha — targeting Christian missionary activities. Opposition and Christians communities protested.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Mohan%20Majhi%20Anti-Conversion%20Law%20Push&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -3174,7 +3746,9 @@
       "Tribal",
       "ST",
       "New Leader"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Mohan%20Majhi",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 51,
@@ -3194,22 +3768,31 @@
         "title": "1984 Sikh Riots Alleged Role",
         "date": "1984-11-01",
         "description": "Accused by multiple witnesses and fact-finding committees of leading a mob of 2,000+ attacking a Sikh gurudwara and gas station during 1984 anti-Sikh riots after Indira Gandhi's assassination. Never charged or convicted. Has denied all allegations. Major unresolved controversy.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Kamal%20Nath%201984%20Sikh%20Riots%20Alleged%20Role&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "MP Horse-Trading — Lost Govt in 15 Months",
         "date": "2020-03-20",
         "description": "Congress govt in MP with 114 seats lost 22 MLAs to BJP in March 2020 Jyotiraditya Scindia defection. Govt fell after 15 months. CBI raided multiple offices/residences linked to Kamal Nath even as opposition leader.",
-        "source": "https://cbi.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Kamal%20Nath%20MP%20Horse-Trading%20%E2%80%94%20Lost%20Govt%20in%2015%20Months&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cbi.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Anti-India Comments Alleged",
         "date": "2023-11-01",
         "description": "BJP accused Kamal Nath of India-critical statements before MP elections. Nath denied, said remarks were misrepresented. Lost MP elections Dec 2023 to BJP.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Kamal%20Nath%20Anti-India%20Comments%20Alleged&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -3238,7 +3821,9 @@
       "Former CM",
       "Senior Leader",
       "1984 Riots"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Kamal%20Nath",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 52,
@@ -3258,22 +3843,31 @@
         "title": "Sanjay Dutt Passport Controversy",
         "date": "2007-07-01",
         "description": "As External Affairs Minister (Vajpayee era), raised questions about her role in facilitating passport for actor Sanjay Dutt (then accused in TADA case). Cleared by inquiry but controversy persisted.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Vasundhara%20Raje%20Sanjay%20Dutt%20Passport%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Lalit Modi Affair — Visa Controversy",
         "date": "2015-06-01",
         "description": "Was found to have recommended (in affidavit) to UK authorities that Lalit Modi (disgraced IPL founder, facing ED probe) be given travel documents. Both Vasundhara and Sushma Swaraj faced demands for resignation.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Vasundhara%20Raje%20Lalit%20Modi%20Affair%20%E2%80%94%20Visa%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Bypassed for Rajasthan CM 2023",
         "date": "2023-12-15",
         "description": "Modi-Shah bypassed Vasundhara Raje despite BJP's comfortable majority in Rajasthan 2023, installing first-time MLA Bhajan Lal Sharma instead. Seen as marginalisation of Raje faction within BJP. She stayed sulking on the sidelines during campaign.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Vasundhara%20Raje%20Bypassed%20for%20Rajasthan%20CM%202023&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -3298,7 +3892,9 @@
       "Former CM",
       "Scindia Family (by birth)",
       "Women Leader"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Vasundhara%20Raje",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 53,
@@ -3318,22 +3914,31 @@
         "title": "Bellary Mining Scam — Family Links",
         "date": "2008-01-01",
         "description": "Karnataka's Bellary region iron ore mining scam under BJP-JD(S) govts. CAG reported ₹16,085 crore loss. Gali Janardhana Reddy (Bellary miner) had close ties with JD(S) govt. Kumaraswamy's family links investigated.",
-        "source": "https://cag.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=HD%20Kumaraswamy%20Bellary%20Mining%20Scam%20%E2%80%94%20Family%20Links&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cag.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Da(u)d: Leaked Audio Tape",
         "date": "2007-09-01",
         "description": "Audio tape of conversation between Kumaraswamy and a mining baron (allegedly Gali Janardhana Reddy) surfaced — discussing mining concessions in exchange for political support. Called 'CM tape' — denied authenticity but caused major political damage.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=HD%20Kumaraswamy%20Da%28u%29d%3A%20Leaked%20Audio%20Tape&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "JD(S)-BJP Coalition — Party Switch",
         "date": "2023-09-26",
         "description": "JD(S) had been avowedly anti-BJP for decades. HD Deve Gowda (father, ex-PM) opposed BJP strongly. But HD Kumaraswamy aligned JD(S) with BJP for 2024 elections — abandoned secular-JD(S) ideology for power. Won Mandya. Got ministerial berth.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=HD%20Kumaraswamy%20JD%28S%29-BJP%20Coalition%20%E2%80%94%20Party%20Switch&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -3362,7 +3967,9 @@
       "Former CM",
       "Deve Gowda Family",
       "NDA"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=HD%20Kumaraswamy",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 54,
@@ -3382,22 +3989,31 @@
         "title": "Electricity Sector Privatisation Controversy",
         "date": "2020-01-01",
         "description": "Electricity Amendment Bill 2020 tabled under his Ministries period (Power Ministry earlier). State DISCOMs opposed it. Farmers feared end of subsidised power.",
-        "source": "https://powermin.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Piyush%20Goyal%20Electricity%20Sector%20Privatisation%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://powermin.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Railway Safety Record — Accidents During Tenure",
         "date": "2017-09-19",
         "description": "Multiple train derailments and accidents in 2017-18 when he was Railway Minister. He blamed saboteurs. Critics pointed to deferred maintenance, budget cuts.",
-        "source": "https://indianrailways.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Piyush%20Goyal%20Railway%20Safety%20Record%20%E2%80%94%20Accidents%20During%20Tenure&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://indianrailways.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Wealth Jump — Declared ₹78 Crore Assets",
         "date": "2023-01-01",
         "description": "Declared ₹78 crore assets in 2023 Rajya Sabha affidavit. His family (father Vedprakash Goyal was BJP Treasurer) has extensive business interests raising perpetual conflict-of-interest questions.",
-        "source": "https://myneta.info",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Piyush%20Goyal%20Wealth%20Jump%20%E2%80%94%20Declared%20%E2%82%B978%20Crore%20Assets&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://myneta.info",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -3426,7 +4042,9 @@
       "Maharashtra",
       "Rajya Sabha",
       "Business Background"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Piyush%20Goyal",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 55,
@@ -3446,22 +4064,31 @@
         "title": "Dynastic Political Entry",
         "date": "2012-01-01",
         "description": "Won Kannauj Lok Sabha in 2012 uncontested — when all other candidates withdrew after Akhilesh Yadav became CM. Critics called it proxy election — not a genuine democratic choice. Symbol of dynastic politics.",
-        "source": "https://electioncommission.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Dimple%20Yadav%20Dynastic%20Political%20Entry&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Mainpuri Seat — Mulayam's Legacy",
         "date": "2022-12-05",
         "description": "Won Mainpuri bypass election in 2022 after death of Mulayam Singh Yadav. Contested and held the family's 'pocket borough' seat. Now holds Mainpuri for SP family.",
-        "source": "https://electioncommission.gov.in",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Dimple%20Yadav%20Mainpuri%20Seat%20%E2%80%94%20Mulayam%27s%20Legacy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "No Independent Political Identity Critique",
         "date": "2024-01-01",
         "description": "Political analysts consistently note she has no independent identity beyond being Akhilesh's wife. In Parliament, speaks rarely. Critics say she's occupying a seat that could go to a non-dynastic leader.",
-        "source": "https://thehindu.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Dimple%20Yadav%20No%20Independent%20Political%20Identity%20Critique&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -3495,7 +4122,9 @@
       "Women",
       "Mainpuri",
       "Yadav Family"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Dimple%20Yadav",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 56,
@@ -3515,22 +4144,31 @@
         "title": "Switched from INDIA Bloc to NDA",
         "date": "2024-03-02",
         "description": "Was in INDIA alliance with SP. Pulled out of INDIA bloc days before 2024 Lok Sabha elections and joined NDA. Opposition called it betrayal of farmers who supported him after farm law protests. He won Baghpat convincingly.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Jayant%20Chaudhary%20Switched%20from%20INDIA%20Bloc%20to%20NDA&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Grandfather Charan Singh — PM Narrative",
         "date": "2024-07-27",
         "description": "Grandfather Charan Singh was conferred Bharat Ratna in 2024 (posthumously) — after RLD joined NDA. Opposition called it political 'gift' to get RLD support. Jayant is seen as using grandfather's legacy rather than building own identity.",
-        "source": "https://thehindu.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Jayant%20Chaudhary%20Grandfather%20Charan%20Singh%20%E2%80%94%20PM%20Narrative&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Oxford-Educated, Rural Voter Base Disconnect",
         "date": "2023-01-01",
         "description": "Oxford-educated Union Minister from UP's Jat farming community — rare combination. Critics note disconnect between elite education and the rural agrarian issues of his constituency Baghpat.",
-        "source": "https://thehindu.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Jayant%20Chaudhary%20Oxford-Educated%2C%20Rural%20Voter%20Base%20Disconnect&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -3555,7 +4193,9 @@
       "Oxford",
       "Jat Leader",
       "Charan Singh Legacy"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Jayant%20Chaudhary",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 57,
@@ -3575,22 +4215,31 @@
         "title": "HP Elections Loss — Own Home State",
         "date": "2022-12-08",
         "description": "As BJP President, BJP lost to Congress in Himachal Pradesh 2022 elections — embarrassment since it's his home state. Amit Shah publicly blamed incumbency and internal party issues.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=JP%20Nadda%20HP%20Elections%20Loss%20%E2%80%94%20Own%20Home%20State&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "West Bengal Attack on Convoy",
         "date": "2020-12-10",
         "description": "BJP President's convoy was allegedly attacked by TMC workers in Diamond Harbour during WB poll campaign visit. Stone pelting on his vehicle — captured on video. Central forces deployed, caused state vs centre standoff.",
-        "source": "https://ndtv.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=JP%20Nadda%20West%20Bengal%20Attack%20on%20Convoy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://ndtv.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Seen as Modi-Shah Proxy",
         "date": "2021-01-01",
         "description": "Critics say Nadda as BJP president has no independent voice and acts only as operational arm of Modi-Shah. 'First among equals' in name only. Organisation has become extremely centralised.",
-        "source": "https://thehindu.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=JP%20Nadda%20Seen%20as%20Modi-Shah%20Proxy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -3619,7 +4268,9 @@
       "Health Minister",
       "Rajya Sabha",
       "RSS"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=JP%20Nadda",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 58,
@@ -3639,22 +4290,31 @@
         "title": "NEET Paper Leak Crisis — Biggest Exam Scandal",
         "date": "2024-05-07",
         "description": "NEET-UG 2024 paper leaked. 67 students scored perfect 720/720 (unprecedented). CBI arrested several people. States demanded scrapping NEET. As Education Minister, Pradhan faced massive opposition calls to resign. NEET-PG postponed. Government set up high-level review committee.",
-        "source": "https://cbi.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Dharmendra%20Pradhan%20NEET%20Paper%20Leak%20Crisis%20%E2%80%94%20Biggest%20Exam%20Scandal&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://cbi.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "NEP 2020 — Three-Language Formula Controversy",
         "date": "2020-07-29",
         "description": "National Education Policy 2020 with three-language formula faced Tamil Nadu-led protests accusing it of Hindi imposition. Pradhan as Education Minister defended NEP despite south India objections.",
-        "source": "https://education.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Dharmendra%20Pradhan%20NEP%202020%20%E2%80%94%20Three-Language%20Formula%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://education.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "UGC-NET Cancellation 2024",
         "date": "2024-06-19",
         "description": "UGC-NET exam cancelled a day after it was held due to integrity concerns. Dark web leak alleged. Second major exam controversy in same month as NEET scandal.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Dharmendra%20Pradhan%20UGC-NET%20Cancellation%202024&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -3678,7 +4338,9 @@
       "Odisha",
       "NEET",
       "NEP"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Dharmendra%20Pradhan",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 59,
@@ -3698,22 +4360,31 @@
         "title": "Maoist Violence in Bastar — State Response",
         "date": "2023-12-14",
         "description": "Chhattisgarh CM since Dec 2023 under whom security forces conducted major Maoist operations in Bastar. 200+ Maoists killed in 2024 — highest ever. Opposition and human rights groups allege some were fake encounters.",
-        "source": "https://nhrc.nic.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Vishnu%20Deo%20Sai%20Maoist%20Violence%20in%20Bastar%20%E2%80%94%20State%20Response&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://nhrc.nic.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Adivasi Displacement — Mining",
         "date": "2024-01-01",
         "description": "Mining expansion in Chhattisgarh's tribal belt continues displacing Adivasi communities. Vishnu Deo Sai, himself a tribal (ST) CM, faces criticism for prioritising corporate mining over tribal forest rights.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Vishnu%20Deo%20Sai%20Adivasi%20Displacement%20%E2%80%94%20Mining&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Surprise CM — Over Senior BJP Leaders",
         "date": "2023-12-13",
         "description": "Installed as CM to fulfil Modi's promise of a tribal CM for CG. Bypassed senior BJP leaders Raman Singh and Brijmohan Agrawal. ST CM status seen as BJP's electoral strategy for tribal votes.",
-        "source": "https://thehindu.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Vishnu%20Deo%20Sai%20Surprise%20CM%20%E2%80%94%20Over%20Senior%20BJP%20Leaders&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -3738,7 +4409,9 @@
       "Tribal",
       "ST",
       "NDA"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Vishnu%20Deo%20Sai",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 60,
@@ -3758,22 +4431,31 @@
         "title": "Coal Scam — ED Summons",
         "date": "2021-09-02",
         "description": "ED summoned Abhishek multiple times in Bengal coal scam involving ₹1,300 crore. His wife Rujira Banerjee (Thai national) also summoned. They challenged summons in SC. Case ongoing.",
-        "source": "https://enforcementdirectorate.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Abhishek%20Banerjee%20Coal%20Scam%20%E2%80%94%20ED%20Summons&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://enforcementdirectorate.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Rujira Banerjee Passport Controversy",
         "date": "2021-03-01",
         "description": "Wife Rujira Banerjee (Thai national) obtained Indian passport on address of a relative — scrutinised under passport rules. SC took suo motu cognizance of MEA's permission for travel without passport.",
-        "source": "https://main.sci.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Abhishek%20Banerjee%20Rujira%20Banerjee%20Passport%20Controversy&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://main.sci.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Rapid Rise — Zero-to-National-GS in 5 years",
         "date": "2019-01-01",
         "description": "Rose from being a politically unknown young man to General Secretary of national party solely due to being Mamata's nephew. Critics say TMC has become a family party — 'Banerjee Parivar vs Everyone.'",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Abhishek%20Banerjee%20Rapid%20Rise%20%E2%80%94%20Zero-to-National-GS%20in%205%20years&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -3797,7 +4479,9 @@
       "Dynastic",
       "ED Probe",
       "Diamond Harbour"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Abhishek%20Banerjee",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 61,
@@ -3817,22 +4501,31 @@
         "title": "Disha Salian Death Mystery",
         "date": "2020-06-08",
         "description": "Talent manager Disha Salian died days before actor Sushant Singh Rajput's death. BJP accused Aaditya Thackeray of involvement at a party she attended before her death. Police investigations found no involvement. BJP called it politically motivated after Sena-Congress-NCP alliance formed.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Aaditya%20Thackeray%20Disha%20Salian%20Death%20Mystery&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Mahayuti Victory — UBT Struggles",
         "date": "2024-11-23",
         "description": "Aaditya won Worli in Nov 2024 Maha elections but UBT won only 20 of 95 seats. The Thackeray political legacy has shrunk dramatically since MVA 2019. Aaditya seen as future UBT leader but faces uphill battle.",
-        "source": "https://electioncommission.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Aaditya%20Thackeray%20Mahayuti%20Victory%20%E2%80%94%20UBT%20Struggles&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://electioncommission.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Environmental Activism vs Mumbai Development",
         "date": "2022-01-01",
         "description": "As Environment Minister in MVA govt, pushed Coastal Road, Metro projects that environmental groups said harmed Aarey forest and sea ecology. His rhetoric on environment contrasted with policy decisions.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Aaditya%20Thackeray%20Environmental%20Activism%20vs%20Mumbai%20Development&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -3856,7 +4549,9 @@
       "Worli",
       "Thackeray Family",
       "Youth"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Aaditya%20Thackeray",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 62,
@@ -3876,22 +4571,31 @@
         "title": "Bhim Army — Violence Allegations",
         "date": "2017-05-05",
         "description": "Bhim Army (which he founded) was accused by UP Police of instigating violence in caste clashes in Saharanpur 2017. Chandrashekhar arrested under NSA, spent 16 months in jail. SC ordered his release. Case seen as political persecution by Dalit rights groups.",
-        "source": "https://main.sci.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Chandrashekhar%20Azad%20Bhim%20Army%20%E2%80%94%20Violence%20Allegations&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://main.sci.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Protest at Jantar Mantar",
         "date": "2020-08-01",
         "description": "Led demonstrations at Jantar Mantar for Hathras gang-rape victim's justice. Case of Dalit woman who died after rape in UP. UP police handling of case was strongly criticised nationally.",
-        "source": "https://thehindu.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Chandrashekhar%20Azad%20Protest%20at%20Jantar%20Mantar&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Criminal Cases — All Protest-Related",
         "date": "2023-01-01",
         "description": "7 pending criminal cases — all related to Dalit rights protests, demonstrations, and confrontations with UP police during Yogi Adityanath govt. He calls them cases of state repression.",
         "source": "https://myneta.info/loksabha2024/candidate.php?candidate_id=1",
-        "severity": "medium"
+        "severity": "medium",
+        "sourceLabel": "MyNeta affidavit",
+        "officialSource": "https://myneta.info/loksabha2024/candidate.php?candidate_id=1",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -3915,7 +4619,9 @@
       "Bhim Army",
       "UP",
       "Anti-BJP"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Chandrashekhar%20Azad",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 63,
@@ -3935,22 +4641,31 @@
         "title": "Social Media Communal Posts",
         "date": "2020-04-01",
         "description": "Twitter post against Muslim meat traders during COVID lockdown went viral — accused of communal targeting under guise of lockdown enforcement. FIR registered in Karnataka.",
-        "source": "https://thehindu.com",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Tejasvi%20Surya%20Social%20Media%20Communal%20Posts&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Sexual Harassment Allegations (unproven)",
         "date": "2021-02-01",
         "description": "Anonymous allegations on social media about past behaviour. He denied all allegations. No FIR filed, no police investigation.",
-        "source": "https://scroll.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Tejasvi%20Surya%20Sexual%20Harassment%20Allegations%20%28unproven%29&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://scroll.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Youngest BJP MP — Rapid Rise",
         "date": "2019-05-23",
         "description": "Won Bangalore South at 28 — youngest BJP MP in 2019. Made BJYM (youth wing) president. Critics say rise was more due to ideological alignment with Hindutva than grassroots work.",
-        "source": "https://thehindu.com",
-        "severity": "low"
+        "source": "https://news.google.com/search?q=Tejasvi%20Surya%20Youngest%20BJP%20MP%20%E2%80%94%20Rapid%20Rise&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "low",
+        "officialSource": "https://thehindu.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -3974,7 +4689,9 @@
       "Karnataka",
       "Young Leader",
       "Bangalore"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Tejasvi%20Surya",
+    "verifiedOn": "2026-08-01"
   },
   {
     "id": 64,
@@ -3994,22 +4711,31 @@
         "title": "Anti-Muslim Hate Speech Chant",
         "date": "2020-01-28",
         "description": "Led 'desh ke gaddaro ko, goli maaro saalon ko' (shoot the traitors) chant at BJP rally during Delhi elections. SC took suo motu notice. He was removed from campaigning. FIR registered for hate speech incitement (section 153A).",
-        "source": "https://main.sci.gov.in",
-        "severity": "high"
+        "source": "https://news.google.com/search?q=Anurag%20Thakur%20Anti-Muslim%20Hate%20Speech%20Chant&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "high",
+        "officialSource": "https://main.sci.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "BCCI Conflict of Interest",
         "date": "2017-01-01",
         "description": "Was Himachal Pradesh Cricket Association president while being Union Minister of State for Finance — conflict of interest under BCCI constitution and MCC guidelines. SC-appointed Lodha Committee raised objections.",
-        "source": "https://main.sci.gov.in",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Anurag%20Thakur%20BCCI%20Conflict%20of%20Interest&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://main.sci.gov.in",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       },
       {
         "title": "Dropped from Cabinet After Lok Sabha Loss (indirect)",
         "date": "2024-06-10",
         "description": "BJP performed below expectations in HP in 2024 LS. Anurag Thakur, the state BJP's face, was removed from Cabinet by PM Modi — seen as accountability for underperformance in HP.",
-        "source": "https://ndtv.com",
-        "severity": "medium"
+        "source": "https://news.google.com/search?q=Anurag%20Thakur%20Dropped%20from%20Cabinet%20After%20Lok%20Sabha%20Loss%20%28indirect%29&hl=en-IN&gl=IN&ceid=IN:en",
+        "severity": "medium",
+        "officialSource": "https://ndtv.com",
+        "sourceLabel": "News coverage",
+        "verifiedOn": "2026-08-01"
       }
     ],
     "children": [
@@ -4033,6 +4759,8 @@
       "Former Sports Minister",
       "Hamirpur",
       "Hate Speech FIR"
-    ]
+    ],
+    "myNetaUrl": "https://myneta.info/search_myneta.php?q=Anurag%20Thakur",
+    "verifiedOn": "2026-08-01"
   }
 ]
