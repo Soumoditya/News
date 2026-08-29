@@ -6,11 +6,14 @@ import { Menu, X, Eye } from "lucide-react";
 const links = [
   { href: "/", label: "Home" },
   { href: "/politicians", label: "Netas" },
-  { href: "/parties", label: "Parties" },
+  { href: "/nepotism", label: "Nepotism" },
+  { href: "/remarks", label: "Remarks" },
   { href: "/criminal-records", label: "Criminal Records" },
-  { href: "/controversies", label: "Controversies" },
+  { href: "/parties", label: "Parties" },
   { href: "/budget", label: "Budget" },
+  { href: "/controversies", label: "Controversies" },
   { href: "/glossary", label: "🎓 Glossary" },
+  { href: "/methodology", label: "Sources" },
   { href: "/news", label: "News" },
 ];
 

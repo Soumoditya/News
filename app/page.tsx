@@ -99,9 +99,9 @@ export default function HomePage() {
               18th Lok Sabha Data
             </div>
             <h2 style={{ fontFamily: "'Bebas Neue', sans-serif", fontSize: "clamp(2.5rem, 5vw, 4rem)", color: "#fff", letterSpacing: 1, lineHeight: 1.1 }}>
-              THE NUMBERS THEY DON'T WANT<br />
+              THE NUMBERS,<br />
               <span style={{ background: "linear-gradient(135deg, #FF6B2B, #E63946)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}>
-                YOU TO SEE
+                FROM OFFICIAL RECORDS
               </span>
             </h2>
           </div>
@@ -123,8 +123,8 @@ export default function HomePage() {
             },
             {
               icon: <IndianRupee size={28} color="#FF6B2B" />,
-              value: "₹479 Lakh Cr",
-              label: "Union Budget 2024-25",
+              value: "₹50.65 Lakh Cr",
+              label: "Union Budget 2025-26",
               sub: "Your tax money at work (or not)",
               color: "#FF6B2B",
               href: "/budget",
@@ -211,6 +211,42 @@ export default function HomePage() {
       {/* Interactive Charts */}
       <section style={{ padding: "0 1.5rem 3rem", maxWidth: 1400, margin: "0 auto" }}>
         <InteractiveCharts />
+      </section>
+
+      {/* Trackers — the tools, explained for first-timers */}
+      <section style={{ padding: "2rem 1.5rem 4rem", maxWidth: 1400, margin: "0 auto" }}>
+        <AnimatedSection>
+          <div style={{ textAlign: "center", marginBottom: "2.5rem" }}>
+            <div style={{ fontSize: 12, letterSpacing: 4, color: "#8b5cf6", textTransform: "uppercase", marginBottom: "0.75rem" }}>
+              Pick a lens · every claim is sourced
+            </div>
+            <h2 style={{ fontFamily: "'Bebas Neue', sans-serif", fontSize: "clamp(2rem, 4vw, 3rem)", color: "#fff", letterSpacing: 1 }}>
+              WHAT DO YOU WANT TO KNOW?
+            </h2>
+          </div>
+        </AnimatedSection>
+        <AnimatedSection stagger style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))", gap: "1.25rem" }}>
+          {[
+            { href: "/politicians", emoji: "🔎", title: "Search any neta", desc: "Education, assets, criminal cases, family — for anyone, even local leaders, straight from official records.", color: "#06b6d4" },
+            { href: "/nepotism", emoji: "👪", title: "Family & nepotism", desc: "Who entered politics through family, whose relatives run businesses tied to their power, whose family lives abroad.", color: "#8b5cf6" },
+            { href: "/remarks", emoji: "🗣️", title: "Divisive remarks", desc: "Documented hateful or divisive statements — with the quote, the fallout (FIR/EC/court) and a link to proof.", color: "#E63946" },
+            { href: "/criminal-records", emoji: "⚖️", title: "Criminal records", desc: "Pending cases declared by leaders in their own Election Commission affidavits.", color: "#FF6B2B" },
+          ].map((t) => (
+            <Link key={t.href} href={t.href} style={{ textDecoration: "none" }}>
+              <div className="lift" style={{
+                height: "100%", padding: "1.75rem",
+                background: `${t.color}0c`, border: `1px solid ${t.color}30`,
+                borderRadius: 18,
+              }}>
+                <div style={{ fontSize: 34, marginBottom: "0.75rem" }}>{t.emoji}</div>
+                <div style={{ color: "#fff", fontWeight: 700, fontSize: 18, marginBottom: "0.5rem", display: "flex", alignItems: "center", gap: 6 }}>
+                  {t.title} <ArrowRight size={16} color={t.color} />
+                </div>
+                <p style={{ color: "#888", fontSize: 13, lineHeight: 1.7 }}>{t.desc}</p>
+              </div>
+            </Link>
+          ))}
+        </AnimatedSection>
       </section>
 
       {/* Most Wanted — Politicians with Most Cases */}
@@ -493,14 +529,14 @@ export default function HomePage() {
           }} className="budget-grid">
             <div>
               <div style={{ fontSize: 12, letterSpacing: 4, color: "#FF6B2B", textTransform: "uppercase", marginBottom: "1rem" }}>
-                Union Budget 2024-25
+                Union Budget 2025-26
               </div>
               <h2 style={{ fontFamily: "'Bebas Neue', sans-serif", fontSize: "clamp(2.5rem, 4vw, 3.5rem)", color: "#fff", lineHeight: 1.1, marginBottom: "1rem" }}>
-                ₹47.96 LAKH CRORE<br />
+                ₹50.65 LAKH CRORE<br />
                 <span style={{ color: "#FF6B2B" }}>YOUR MONEY</span>
               </h2>
               <p style={{ color: "#888", fontSize: 14, lineHeight: 1.8, marginBottom: "2rem" }}>
-                Every rupee you pay in tax flows into this. See where it goes — defence, roads, education, health — and where ₹11.3 lakh crore vanishes as interest payments.
+                Every rupee you pay in tax flows into this. See where it goes — defence, roads, education, health — and where roughly ₹12.76 lakh crore vanishes as interest payments.
               </p>
               <Link href="/budget" style={{
                 display: "inline-flex",

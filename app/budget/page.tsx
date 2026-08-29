@@ -3,6 +3,8 @@ import { useState } from "react";
 import { IndianRupee, MapPin, TrendingUp, CheckCircle, Clock, AlertCircle, ChevronRight } from "lucide-react";
 import budgetData from "@/data/budget.json";
 import { formatCrore } from "@/lib/utils";
+import { unionBudget } from "@/lib/sources";
+import SourceTag from "@/components/SourceTag";
 
 const NATIONAL = budgetData.national;
 const STATES = budgetData.states;
@@ -23,7 +25,7 @@ export default function BudgetPage() {
         maxWidth: 1400, margin: "0 auto",
       }}>
         <div style={{ fontSize: 12, letterSpacing: 4, color: "#FFB703", textTransform: "uppercase", marginBottom: "0.75rem" }}>
-          Union Budget 2024-25 + State Budgets
+          Union Budget 2025-26 + State Budgets
         </div>
         <h1 style={{
           fontFamily: "'Bebas Neue', sans-serif",
@@ -39,8 +41,11 @@ export default function BudgetPage() {
           </span>
         </h1>
         <p style={{ color: "#888", fontSize: 15, maxWidth: 600, lineHeight: 1.7 }}>
-          Every rupee of your tax money tracked. Where India's ₹47.96 lakh crore budget goes — nationally and state-wise.
+          Every rupee of your tax money tracked. Where India's ₹50.65 lakh crore Union Budget (FY 2025-26) goes — nationally and state-wise.
         </p>
+        <div style={{ marginTop: "1rem" }}>
+          <SourceTag source={unionBudget()} sourceLabel="Union Budget 2025-26 · indiabudget.gov.in" verifiedOn="2026-08-01" />
+        </div>
 
         {/* View toggle */}
         <div style={{ display: "flex", gap: 6, marginTop: "2rem" }}>
@@ -80,12 +85,12 @@ export default function BudgetPage() {
               marginBottom: "3rem",
             }}>
               {[
-                { val: "₹47.96 Lakh Cr", label: "Total Budget", color: "#FFB703", sub: "FY 2024-25" },
-                { val: "₹11.3 Lakh Cr", label: "Interest Payments", color: "#E63946", sub: "23.5% of budget — debt servicing" },
-                { val: "4.9%", label: "Fiscal Deficit / GDP", color: "#FF6B2B", sub: "₹16.16 lakh crore deficit" },
-                { val: "₹32.93 Lakh Cr", label: "Estimated GDP", color: "#4ade80", sub: "FY 2024-25" },
-                { val: "₹25.97 Lakh Cr", label: "Tax Revenue", color: "#06b6d4", sub: "Direct + Indirect taxes" },
-                { val: "₹1.11 Lakh Cr", label: "Capital Expenditure", color: "#8b5cf6", sub: "Infrastructure & assets" },
+                { val: "₹50.65 Lakh Cr", label: "Total Budget", color: "#FFB703", sub: "FY 2025-26 (Budget Estimate)" },
+                { val: "₹12.76 Lakh Cr", label: "Interest Payments", color: "#E63946", sub: "~25% of expenditure — debt servicing" },
+                { val: "4.4%", label: "Fiscal Deficit / GDP", color: "#FF6B2B", sub: "FY 2025-26 target" },
+                { val: "₹356.97 Lakh Cr", label: "Nominal GDP (assumed)", color: "#4ade80", sub: "FY 2025-26 assumption" },
+                { val: "₹28.37 Lakh Cr", label: "Net Tax Receipts", color: "#06b6d4", sub: "Centre's net tax revenue" },
+                { val: "₹11.21 Lakh Cr", label: "Capital Expenditure", color: "#8b5cf6", sub: "Infrastructure & assets" },
               ].map((s, i) => (
                 <div key={i} style={{
                   padding: "1.5rem",
@@ -180,8 +185,11 @@ export default function BudgetPage() {
                     <AlertCircle size={16} /> The Debt Problem
                   </h3>
                   <p style={{ color: "#888", fontSize: 13, lineHeight: 1.7 }}>
-                    India spends <strong style={{ color: "#E63946" }}>₹11.29 lakh crore (23.5%)</strong> of its entire budget on interest payments alone — more than defence, education, and health combined. This money goes to servicing the national debt of ₹169 lakh crore and creates less for public services.
+                    India spends roughly <strong style={{ color: "#E63946" }}>₹12.76 lakh crore (~25%)</strong> of its FY2025-26 budget on interest payments alone — more than defence, education, and health combined. This services a national debt now above ₹185 lakh crore, leaving less for public services.
                   </p>
+                  <div style={{ marginTop: "0.75rem" }}>
+                    <SourceTag source={unionBudget()} sourceLabel="Budget at a Glance 2025-26" verifiedOn="2026-08-01" compact />
+                  </div>
                 </div>
               </div>
             </div>
@@ -256,7 +264,7 @@ export default function BudgetPage() {
                         <div style={{ fontFamily: "'Bebas Neue', sans-serif", fontSize: 32, color: "#FFB703", lineHeight: 1 }}>
                           {formatCrore(selectedState.budget_cr)}
                         </div>
-                        <div style={{ color: "#555", fontSize: 12 }}>State Budget 2024-25</div>
+                        <div style={{ color: "#555", fontSize: 12 }}>State Budget (latest available)</div>
                         <div style={{ color: "#888", fontSize: 12 }}>₹{selectedState.per_capita_budget.toLocaleString()} per person</div>
                       </div>
                     </div>

@@ -1,32 +1,52 @@
 "use client";
-import { useEffect, useRef, useState, ReactNode } from "react";
+import { useEffect, useRef, useState, ReactNode, CSSProperties } from "react";
 
-export default function AnimatedSection({ children }: { children: ReactNode }) {
+interface Props {
+  children: ReactNode;
+  /** Cascade direct children instead of animating as one block */
+  stagger?: boolean;
+  /** Delay before the reveal starts, in ms */
+  delay?: number;
+  /** Extra styles on the wrapper */
+  style?: CSSProperties;
+  className?: string;
+}
+
+/**
+ * Scroll-reveal wrapper. Adds `.is-visible` when the element enters the
+ * viewport, driving the .reveal / .stagger CSS transitions in globals.css.
+ * Reduced-motion users are handled by the CSS media query.
+ */
+export default function AnimatedSection({ children, stagger = false, delay = 0, style, className }: Props) {
   const ref = useRef<HTMLDivElement>(null);
   const [visible, setVisible] = useState(false);
 
   useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting) {
+          if (delay) {
+            const t = setTimeout(() => setVisible(true), delay);
+            observer.disconnect();
+            return () => clearTimeout(t);
+          }
           setVisible(true);
           observer.disconnect();
         }
       },
-      { threshold: 0.1 }
+      { threshold: 0.12 }
     );
-    if (ref.current) observer.observe(ref.current);
+    observer.observe(el);
     return () => observer.disconnect();
-  }, []);
+  }, [delay]);
 
   return (
     <div
       ref={ref}
-      style={{
-        opacity: visible ? 1 : 0,
-        transform: visible ? "translateY(0)" : "translateY(30px)",
-        transition: "opacity 0.6s ease, transform 0.6s ease",
-      }}
+      className={`${stagger ? "stagger" : "reveal"}${visible ? " is-visible" : ""}${className ? ` ${className}` : ""}`}
+      style={style}
     >
       {children}
     </div>

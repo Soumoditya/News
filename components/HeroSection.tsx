@@ -100,7 +100,7 @@ export default function HeroSection() {
           marginBottom: "1.5rem",
           color: "#fff",
         }}>
-          <span style={{ display: "block" }}>NAGRK</span>
+          <span style={{ display: "block" }}>NAGRIK</span>
           <span style={{
             display: "block",
             background: "linear-gradient(135deg, #FF6B2B 0%, #E63946 50%, #FFB703 100%)",
